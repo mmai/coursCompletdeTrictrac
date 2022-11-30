@@ -5,7 +5,7 @@
   # env.GREET = "devenv";
 
   # https://devenv.sh/packages/
-  packages = [ pkgs.mkdocs ];
+  packages = [ pkgs.mkdocs pkgs.python39Packages.mkdocs-material ];
 
   # enterShell = ''
   #   hello

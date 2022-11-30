@@ -1,4 +1,5 @@
 # COURS COMPLET DE TRICTRAC, AVEC UN ABRÉGÉ DU GAMMON, DU JACQUET ET DU GARAINGUET 
+
 À la portée de tout le monde et à l’usage des amateurs 
 
 PAR UN VIEIL HERMITE DU MORBIHAN.
@@ -10,949 +11,1410 @@ GUILLAUME et Cie, libraires, rue Hautefeuille, n°14 ; Salon Littéraire, Palais
 ## I DISCOURS PRÉLIMINAIRE.
 
 Le Trictrac est non-seulement un des jeux les plus difficiles, mais encore un des plus nobles et des plus attrayants. Il a, sur les Dames et les Echec, l’avantage de pouvoir s’apprendre par théorie. Ignoré de la classe grossière, il suppose, dans les personnes qui le jouent, du savoir vivre et de l'habitude du monde, à l’exception pourtant d’un très-petit nombre de joueurs de profession qui passent leur vie dans les cafés ou dans les tripots. Ainsi, par la complication de sa marche, il est tout a-la-fois hors de la portée des gens du commun, et d’une facile recréation pour la partie polie de la société ; également agréable aux jeunes gens et aux vieillards, au beau sexe et aux philosophes, aux savants et aux mondains.
+
 La génération actuelle, trop turbulente dans ses mœurs, élevée au milieu des agitations politiques, tourmentée longtemps par l’esprit militaire, mue par cette inquiétude dévorante qui résulte des grandes commotions sociales, et qui subsiste encore même longtemps après qu’elles ont cessé; la génération actuelle, dis-je, a trop négligé les jeux paisibles qui exigent quelques méditations suivies, pour se livrer à ces jeux emportés qui donnent à l’âme des émotions fortes et des secousses violentes par l’attrait des chances de ruine ou d’opulence qu’ils présentent à l'imagination. Dans nos petites villes, un grand nombre de personnes passent les nuits et les jours les cartes à la main. L’astucieuse et rapace bouillotte règne en souveraine dans les salons de province, où la cupidité, le désœuvrement et l’ennui rassemblent les hommes et les femmes dans l’unique but de se ruiner les uns les autres.
+
 Eh ! qu’est-ce encore en comparaison de ces jeux effrénés que des motifs, qui n’ont certainement pas l’assentiment général, font seuls tolérer dans la capitale ! On ne se fait pas d’idée combien la Roulette, le Trente-un, etc., ont nui aux jeux modérés de société. Il est, à Paris, un grand nombre de personnes qui ont abandonné les Dames, les Echecs, les Cartes, et spécialement le Trictrac, pour aller passer leurs loisirs au tapis vert, ce dont elles ont à se repentir amèrement, le plus souvent toute leur vie. Philidor n’a point été remplacé ; et l’étoile du café de la Régence ne jète plus qu’une pâle clarté. Le jeu de Dames n’est guères cultivé qu’au café Manoury qui en est le véritable sanctuaire, et où il n’y a presque que des vétérans qui en soutiennent l’honneur. A leur tête, on distingue toujours le vénérable Blonde, dont le génie, quoiqu’il son déclin, éclipse encore des rivaux moins vieux qui n’ont jamais pu l’égaler ; ce Blonde, à qui Mercier a donné un passe-port pour la postérité, et qui, dans son genre, n’aura pas plus de successeur que Corneille et Voltaire, s’il est permis d’établir le moindre parallèle entre les grands hommes et les grands joueurs.
+
 Le Trictrac, quoique bien plus répandu, compte également que des vétérans pour principaux amateurs. Il n’en existe même plus de véritablement forts, depuis la mort toute récente d’un personnage de grande distinction qui y excellait (feu le duc de Laval-Montmorency). On ne rencontre à présent que des routiniers qui en ignorent le calcul transcendant, et qui se traînent servilement dans des sentiers battus, hors desquels ils ne peuvent rien concevoir.
+
 Ce jeu serait donc menacé d’une décadence totale dans les salons, si la restauration de la bonne compagnie ne nous garantissait pas sa restauration. N’en doutons pas, il reprendrasa vogue, il redeviendra ce qu’il a été autrefois : la recréation des honnêtes gens et des personnes bien nées et bien élevées.
+
 Il est des hommes si enthousiastes de ce jeu,' qu’ils ne balancent pas, pourrait-on le croire, à le placer au premier rang des connaissances humaines. Il faut que je divertisse un moment mes lecteurs, en leur racontant ce que me dit, à ce sujet, un de ces memes enthousiastes. Il m’assurait gravement que Buonaparte n’aurait pas fait les fautes énormes qui ont amené sa chute, s’il eût connu le Trictrac ! Je ne pus me défendre d’un éclat de rire en entendant une pareille assertion. Je lui rappelai le fameux mot de Marcel : Que de choses dans un ménuet ! Que de choses dans une partie de Trictrac ! A Charenton 1 à Charenton ! m écriai-je. Je veux bien y aller, me répondit-il, mais enfin je ne suis pas le seul fou qui n’y soit pas renfermé; vous avez beau vous moquer, il a paru des systèmes plus absurdes que le mien. Eh ! pourquoi ne pourrais-je attribuer les fautes de Buona- parte h son ignorance du Trictrac ? Ne sait-on pas que le billard a donné un mauvais ministre à la France ? Les grands effets sont pour la plupart produits par de petites causes. D’après cela, sans s’égarer dans des considérations qui n’appartiennent qu’au génie d’un Montesquieu, si l’on peut dire avec fondement, que c’est parce que Louis XIV aimait trop le jeu de Billard que la France s'est vue, sur la fin de son règne, à deux doigts de sa, perte, et que 600,000 protestans ont été expulsés; ne pourrait-on pas, par une similitude inverse, avancer que c’est parce que Buonnparte n’a pas connu ou pratiqué le Trictrac qu’il a perdu son pouvoir, et la France son indépendance? Peut- être qu’un Chamillard nouveau, produisant un effet contraire au premier, en inoculant l’amour du Trictrac à l’usurpateur, Peut empêché de sacri- lier des millions de Français, s’il ne l'eut, pas pré^ serve de sa chute, qui devait arriver tôt ou tard parce qu’il n’était pas légitime, et que sa domination avait la tyrannie pour base. Cessez donc de railler ; je pourrais bien _ex officio_ vous prouver ce que j’avance.
+
 Là-dessus voilà mon homme qui poursuit sa thèse et me dit : Vous qui connaissez la langue du Trictrac, vous devriez convenir que les fautes de Buonaparte ressemblent, en grand, à celles qu’un joueur téméraire ou inconsidéré peut commettre; yous savez combien les combinaisons de ce jeu exigent de prudence, et combien lu témérité y est dangereuse. Rien de plus frappant * suivant moi* que l’analogie des fautes de Buonaparte avec celles que l’on fait souvent au Trictrac. En effet, ce conquérant effrené a fait une mauvaise tenue à Moscou, qui l’a conduit à une longue enfilade jusqu’à Dresde..... Là, comme cela arrive au _Jan de retour_, il a paru se relever un moment, mais l’enfilade a recommencé, et il a perdu la partie en _grande bredouille_ jusqu’à Paris. Eh! quelle grande bredouille bon Dieu ! la plus désastreuse que jamais joueur politique et militaire ait essuyée ! Faut- il énumérer toutes _les écoles_ que Buonaparte a faites, toutes ses fautes de position ? Faut-il comparer son imprévoyance à ne pas établir de magasin, à celle du joueur qui _n’abat pas assez de bois_ ? Faut-il l’assimiler au joueur qui _raccourcit et serre_ son jeu, lorsqu’il concentrait ses forces à Moscou, et laissait ses derrières exposés, ou lorsque, dans la campagne de i8i3, il voulait occuper une ligne de 500 lieues, et garder l’Europe entière avec 300 000 hommes? Ainsi, en prolongeant sa ligne> il l'affaiblissait * et faisait comme le joueur qui _s’étale, n’abat rien de la pile_, et va toujours en avant avec trois ou quatre dames seulement, sans _coin bourgeois_, ou avec une _margot la mal fendue_, pour me servir de l’expression technique, contre un adversaire qui a tout son jeu à bas par suite de la rupture d’un _petit Jan_ ? Tous ceux qui connaissent le Trictrac, n’entendraient-ils pas les allusions que je fais ici? Et ce n’est pas seulement dans les dernières années de sa désastreuse carrière, c’est toute sa vie qu’il a agi de cette sorte. Ses succès antérieurs* quelque brillans qu’ils soient, sont dus a la même cause, à l’imprévoyance et à la témérité justifiées par la fortune. Pendant quinze ans il a été heureux, parce qu’il s’est trouvé dans une bonne veine ; mais enfin la _mauvaise_ est venue, et il a péri. Oui, oui, Buonaparte a ressemblé à ces mauvais joueurs de Trictrac qui ne _s’en vont_ jamais : le hasard peut les favoriser ; ils peuvent gagner souvent avec de beaux dés ; mais à la fin ils perdent en un moment ce qu’ils ont gagné en beaucoup de tetris. Une mnzotte au Trictrac prendra onze trous de suite ; mais, par une mauvaise tenue, elle se fera enfiler et perdra d un seul coup la partie avant d’arriver au douzième trou.
+
 Vous pouvez bien m’objecter, continue-t-il, que Buonaparte s’est _en allé_ en Egypte, en Espagne, en Russie, en Allemagne et en Flandre, lorsqu’il a abandonné son armée cinq fois.
+
 Je répliquerai à cela que c’est de sa personne seulement qu’il s’est _en allé_, et non de ses positions militaires : c’est dans le te ver si s qu’il faudrait chercher une expression pour caractériser cette conduite ; et alors on pourrait dire qu’il s’est _esquiché_ cinq ou six fois daus les circonstances désespérées.
+
 Si j’avais eu la patience de l’écouter, mon maniaque aurait étendu plus loin son plaisant parallèle ; mais fi le quittai en riant de ses opinions extravagantes j et je l’abandonnai à ses burlesques rêveries.
+
 Cependant, qui sait si ce rapprochement absurde au premier coup-d’œil est tout-à-fait dépourvu de bon sens ? Bien des gens ont voulu voir, il y a déjà long-tems, l’image de la guerre dans les échecs, je connais des esprits déliés qui trouvent dans la marche de ce jeu l'emblème d’un gouvernement régulier, même constitutionnel.
-Sans doute il y a peu de justesse dans les comparaisons tirées des jeux, et les actions des hommes en société-mais pourtant il J- a hien quelque ressemblance éloignée entre ces choses si disparates ; car, qu’est - ce, en définitif, que la vie humaine sinon un jeu perpétuel ? Qu’est - ce que la société, sinon une académie où tous les hommes jouent, si on peut parler ainsi, les uns contre les autres? Or, n’y a-t-il pas des chances dans tout ce qui est jeu ? Et ces chances ne sont-elles pas soumises au hasard ? Sans doute le dé est le grand acteur au Trictrac ; et le calcul le plus profond ne sert qu’à tirer le meilleur parti possible de ses caprices. Si le joueur le plus expérimenté ^ malgré les plus judicieuses combinaisons, perd contre le plus faible, quand il n’a pas le dé pour lui, ne voit-on pas, d’un autre côté, dans le monde, des êtres qui, avec toute la sagesse, l’inlâligence et le talent possibles, succombent sous les coups du sort ? On me répondra à cela qu’à la longue le fort joueur doit gagner le joueur faible. Certainement s’il joue cent parties avec lui, il finira par en gagner soixante ou quatre-vingts. Mais il n’en est pas de même du grand jeu que la nature nous fait jouer ici-bas; l’existence de chaque homme n’est le plus souvent qu’une partie unique qu elle lui a donné à jouer, et la fortune qui lance le dé lui laisse rarement la faculté d’en recommencer une autre avant de mourir. Il n’est qu’un petit nombre d’hommes à qui cette aveugle déesse donne la revanche, il en est fort peu à qui elle donne le tout, où qu’elle laisse se refaire. On pourrait donc métaphysiquement comparer l'existence de cent individus à cent parties d’un jeu mêlé de hasard et de combinaison, tel que le Trictrac. En supposant qu’elles fussent toutes les cent sagement conduites, il n’y en aurait toujours.qu’un peu plus de la moitié qui seraient gagnées sur cent personnes qui ne font point de fautes dans la conduite de la vie ; et certes il n’y en a pas ce nombre dans toute l’Europe ! ; ur ces cent personnes, dis-je, il y en a donc presque la moitié qui doivent échouer et se perdre, et cela parce que notre fortune ni notre bonheur ne dépendent pas principalement de nous, de même que le gain d’une partie de Trictrac ne dépend pas entièrement de l'habileté du joueur.
-Eh ! plût à Dieu que la carrière de la vie ressemblât seulement à une partie de Dames ou d'Échecs, nous serions encore trop bien partagés! Au moins avec la sagesse, celte sagesse si vantée des moralistes payens et chrétiens, et si rare à trouver, on serait sûr d'être heureux. Tous les hommes, il est vrai, n’y réussissent pas; mais enfin, si peu qu’il y en eût, ils pourraient se flatter de triompher avec de la vertu et du mérite tout seuls, ce qui est loin d’être possible dans l’état actuel des choses.
+
+Sans doute il y a peu de justesse dans les comparaisons tirées des jeux, et les actions des hommes en société-mais pourtant il y a bien quelque ressemblance éloignée entre ces choses si disparates ; car, qu’est - ce, en définitif, que la vie humaine sinon un jeu perpétuel ? Qu’est-ce que la société, sinon une académie où tous les hommes jouent, si on peut parler ainsi, les uns contre les autres? Or, n’y a-t-il pas des chances dans tout ce qui est jeu ? Et ces chances ne sont-elles pas soumises au hasard ? Sans doute le dé est le grand acteur au Trictrac ; et le calcul le plus profond ne sert qu’à tirer le meilleur parti possible de ses caprices. Si le joueur le plus expérimenté ^ malgré les plus judicieuses combinaisons, perd contre le plus faible, quand il n’a pas le dé pour lui, ne voit-on pas, d’un autre côté, dans le monde, des êtres qui, avec toute la sagesse, l’inlâligence et le talent possibles, succombent sous les coups du sort ? On me répondra à cela qu’à la longue le fort joueur doit gagner le joueur faible. Certainement s’il joue cent parties avec lui, il finira par en gagner soixante ou quatre-vingts. Mais il n’en est pas de même du grand jeu que la nature nous fait jouer ici-bas; l’existence de chaque homme n’est le plus souvent qu’une partie unique qu elle lui a donné à jouer, et la fortune qui lance le dé lui laisse rarement la faculté d’en recommencer une autre avant de mourir. Il n’est qu’un petit nombre d’hommes à qui cette aveugle déesse donne la revanche, il en est fort peu à qui elle donne le tout, où qu’elle laisse se refaire. On pourrait donc métaphysiquement comparer l'existence de cent individus à cent parties d’un jeu mêlé de hasard et de combinaison, tel que le Trictrac. En supposant qu’elles fussent toutes les cent sagement conduites, il n’y en aurait toujours.qu’un peu plus de la moitié qui seraient gagnées sur cent personnes qui ne font point de fautes dans la conduite de la vie ; et certes il n’y en a pas ce nombre dans toute l’Europe ! ; ur ces cent personnes, dis-je, il y en a donc presque la moitié qui doivent échouer et se perdre, et cela parce que notre fortune ni notre bonheur ne dépendent pas principalement de nous, de même que le gain d’une partie de Trictrac ne dépend pas entièrement de l'habileté du joueur.
+
+Eh! plût à Dieu que la carrière de la vie ressemblât seulement à une partie de Dames ou d'Échecs, nous serions encore trop bien partagés! Au moins avec la sagesse, celte sagesse si vantée des moralistes payens et chrétiens, et si rare à trouver, on serait sûr d'être heureux. Tous les hommes, il est vrai, n’y réussissent pas; mais enfin, si peu qu’il y en eût, ils pourraient se flatter de triompher avec de la vertu et du mérite tout seuls, ce qui est loin d’être possible dans l’état actuel des choses.
+
 Mais je m’aperçois que je m’écarte trop de mon sujet, et j’abandonne des réflexions que plusieurs personnes ne s’attendaient probablement pas à trouver ici. Je me renfermerai dans le seul objet qui fait la matière de ce livre. Au reste, cette digression n’aura pas été inutile, car elle m’aura conduit à parler de l’origine du Trictrac et de son ancienneté, dont il n’est question dans aucun des traités qui ont paru jusqu’à ce jour.
+
 L'histoire des usages de tous les peuples du monde, depuis quelques milliers d’années, nous donne encore moins de lumières sur ce jeu que sur celui des Dames et des Echecs ; ce qu’il y a de certain pourtant, et ce que j’ai pu démêler dans les obscurités qui en cachent l’origine, c’est que s’il n’est pas aussi vieux que ces derniers, il remonte au moins à une haute antiquité, et que l’époque de son invention se perd dans la nuit des temps.
+
 L’abbé Barthélémy, dans son voyage d’Anacharsis, dit qu’il était connu à Athènes ; il était probablement différent du nôtre ; en effet il avait, chez, les Grecs seulement, dix flèches et douze dames de chaque couleur, et il parait qu’ils y jouaient à trois dés. Agathias le décrit dans son épigramme sur le roi Zénon, que l'on trouve dans l’_Anthologie_.  Il y a cependant des savants qui doutent si c’est du Trictrac que cet Agathias a voulu parler, et ils croient que les anciens l’ont ignoré.
+
 Mais ce qui détruit cette opinion, c’est le témoignage des Latins, dont nous avons le plus de do- cumens sur ce chapitre. O11 sait que les Romains tenaient presque tous leurs usages des Grecs, leurs maîtres et leurs instituteurs. Il est donc presque indubitable que ce jeu était très connu dans la Grèce, où il avait été apporté sans doute par les Phéniciens qui ont pu l’inventer eux-mêmes ; car un peuple commerçant a dù naturellement imaginer un jeu de calcul et de commerce tel que celui-ci ; à moins qu’ils ne le tinssent encore de plus loin, soit de l’Egypte ou de l’Inde ; mais je n’égarerai pas le lecteur avec moi dans de si vastes conjectures ; le sujet n’est pas assez important pour cela.
+
 Toujours est-il avéré que les Romains le connaissaient ; et qu’il était populaire chez eux. D’ailleurs ils jouaient beaucoup aux dés comme l’on sait. Us l'appelaient _Duodena scripta_ ou _Lucius XII scriptorum_, et leur jeu ressemblait beaucoup au nôtre. Le fameux Saumaise le prouve dans un traité particulier, où il fait la comparaison du Trictrac ancien avec le Trictrac moderne.
+
 La table du jeu des anciens était, comme dans le nôtre, partagée de douze flèches. CeS douze flèches étaient coupées par une ligne diagonale que nous n’avons point, et qu’ils appelaient _Line a sacra_. Les dames, au nombre de quinze de chaque couleur, comme chez nous, s’appelaient des Calculs. On les a nommées long-tems des tables chez les modernes.
+
 Un auteur latin s’explique ainsi : 
 
+
+
     Discolor ancipiti sub jaclu calculas astat,
+
     Decertant que simul candidus atque niger :
+
     Ut quamvis parili scriptorum trantile currant;
+
     Is capiet palmam quem sua fata vocant.
 
+
+
 Les dames de deux couleurs différentes sont, en présence, incertaine du sort qui les attend. Les noires et les blanches s’efforcent à l’envi de fournir leur carrière sous la chance égale des écrivains ; celle que ses destins favoriseront saisira la palme.
+
 La fortune et le savoir dominaient également dans ce jeu.
+
 Lorsque les dames ou calculs, et je vous demande pourquoi nous avons nommé dames des calculs? les dames ou calculs, dis-je, étant arrivés à la dernière flèche, on disait qu’elles étaient- ad incitas. Cette expression était adoptée métaphoriquement dans le monde, pour dire qu’on était poussé à bout dans quelque chose, témoin ce passage de Plaute :
 
+
+
     Sy. Profeclo ad incitas leonem icdiget, si eas ahduxerit ;
+
     Mi. Quin prius disperibit saxa, quam unam calcem civerit.
+
     Sy. Certes il poussera le marchand à bout, s’il les emmène ;
+
     Mi. Il périra plutôt que cle reculer d’un seul pas.
 
+
+
 Lorsqu’on avait avancé quelque jeton, ce qu’on appelait dure caiculum, et que l’on s’apercevait avoir mal joué, l’on pouvait, du consentement de son adversaire, recommencer le coup, ce qu’on appelait _reducere calculum_.
+
 On n’a rien trouvé jusqu’à présent de certain sur l’étymologie du mot Trictrac. Les plus savans scholiastes du 17e siècle sont d’avis que ce mot a été formé par onomatopée, du bruit que font les dés et les dames ; c’était l’opinion de Ménage, de Furelière et de Pasquier. Sanmaise dit dans son histoire auguste, page 468 : 
+
+
 
     Quod ad hune verœ tabulée lusum attinet duodecim scriptorum, sciendum est ouinino eundem esse, paucis mut a lis, cum eo queni vulgo Trictracum appelamus.... à sono quem calculi in tabula moti faciunt.
 
+
+
     Quant à ce qui a rapport à ce jeu de table des douze évrivains, il faut se tenir pour sûr que c’est entièrement le même* à quelques différences près, que celui que nous appelons vulgairement le Trictrac d’après le bruit que les dés font sur la table par leur mouvement.
 
+
+
 Cette opinion me paraît fondée sur la vérité tnême. Quant à la marche du jeu, nous ne savons rien de ce qu’elle était chez les anciens. Elle a dû subir une infinité de changemens avant d’arriver au point oùelleest chez nous aujourd’hui ; d’ailleurs il y aun certain nombre de jeux différens qui se jouent dans le tablier du Trictrac. Les anciens en connaissaient- ils plusieurs, ou n’en avaient-ils qu’un seul? c’est ce qu’il est impossible de décider } nous en avons, nous autres modernes, plusieurs espèces, dont les plus connues sont le _Toutes tables_ ou _Gammon_, le _Jacquet_, le _Garanguet_, les _Dames rabattues_, etc., et enfin le _Trictrac_, principal objet de ce traité.
+
 S’il est permis d’assigner un rang d’ancienneté à ces divers jeux, en raisonnant par le seul secours de la spéculation, fondée sur la gradation des progrès de l’esprit humain et de la marche de la civilisation, je dirai que les _Dames rabattues_ ont dû venir les premières, à raison de la simplicité de la conception, et de l'absence des combinaisons ; qu’ensuile vint le _Jacquet_, à cause aussi de la simplicité de la conception, et à raison de la facilité des combinaisons. Après on a du imaginer le _Garanguet_, puis le _Toutes tables_ ou _Gammon_, puis les autres jeux, et enfin le _Trictrac_ qui ne semble en être que la réunion, le composé, mais qui est bien plus difficile et plus compliqué qu’eus tous, et qui est le véritable Trictrac par excellence, Ou ne sait pas au juste où remonte cette espèce particulière de _Trictrac_, proprement dit, ni à quelle époque il a été introduit en France. Il résulterait seulement, de la lecture de nos auteurs, qu’il n’y a pas trois siècles qu’il a été apporté chez nous et il est constant qu’il y a cent cinquante an qu’on le joue, comme on le fait h présent, sans que ses règles aient subi de variation importante. Tel nous voyons le Trictrac aujourd hui, tel il se jouait du teins de Louis XIV, h quelques différences près, que j’expliquerai en tems et lieu. Il paraît même que dans ce siècle qui vit porter si loin la perfection en littérature, les gens de qualité et les riches avaient pour ce jeu une passion qui allait jusqu’à la fureur. Regnard nous représente son joueur comme en ayant le démon. Aussi fait-il dire h Valère, dans la quatrième scène du premier acte du Joueur : 
 
+
+
     .............................. Une école maudite,
+
     Me coûte en un moment douze trous tout de suite ;
+
     Que je suis un grand chien ! Parbleu je te saurai,
+
     Maudit jeu de Trictrac ! ou bien je ne pourrai.
+
+
 
 Sa comédie est le monument de littérature le plus remarquable, où l’on trouve des détails accompagnés d'expression techniques de ce jeu : témoin ce qu’il fait dire à ce chevalier d’industrie au Trictrac, dixième scène du même acte :
 
+
+
     Je suis pour vous servir, gentilhomme auvergnac,
+
     Docteur dans tous les jeux et maître de Trictrac ;
+
     Mon nom est tout-à-bas, vicomte de _la Case_,
+
     Et votre serviteur pour terminer ma phrase.
 
+
+
     ........
+
     Je sais dans un Trictrac, quand il faut un _sonnez_,
+
     Glisser des dés heureux, ou chargés ou pipés ;
+
     Et, quand mon plein est fait, gardant mes avantages,
+
     J’en substitue aussi d’autres prudens et sages,
+
     Qui n’offrent à mon gré que des as à tous coups,
+
     Me font en un instant enfiler douze trous,
+
     ........
+
     ....Je veux, par mon savoir extrême,
+
     Que vous escamotiez un dé comme moi-même.
 
+
+
 Il paraît que ce Jeu était alors suivi avec ardeur par la jeunesse noble, et qu'il y avait des vieux gentilhommes ruinés par le jeu, devenus escrocs sur la fin de leur carrière, qui enseignaient non- .seulement les finesses permises., mais encore les rubriques illicites, et qui s avaient bien substituer des dés pipés ou plombés (c’est tout un), à de bons dés, et qui plantaient ce qu’on appèle le dé. C’était là leur manière de corriger la fortune ; manière très-commode en vérité !
+
 Les changements survenus dans les mœurs sur la fin du règne de Louis XIV et pendant la régence, firent insensiblement négliger ce jeu. Cependant il resta toujours celui de la bonne compagnie; peut— être.t'essa-t-il d être autant la passion des joueurs de. qualité et de profession ; mais il demeura la recréation des salons et des personnes bien élevées. Delille en parle dans son poëme de l'Homme des Champs, comme de 1 un de ceux qui se jouent l’hiver à la ville.
+
+
 
 Voici comme il le décrit :
 
+
+
     J’entens ce jeu bruyant où le cornet en main,
+
     L’adroit joueur calcule un hasard incertain.
+
     Chacun sur le damier fixe d’un œil avide
+
     Les cases, les couleurs, et le plein et le vide 
+
     Les disques noirs et blancs volent du blanc nu noir ;
+
     Leur pile croît, décroît. Par la crainte et l’espoir,
+
     Battu, chassé, repris de sa prison sonore,
+
     Le dé, non sans fracas, part, rentre, part encore ;
+
     Il court, roule, s’abat : le nombre a prononcé.
 
+
+
 N’est-ce pas là la touche de ce grand maître, et ne fait-il pas reconnaître le Trictrac sans le, nommer ?
+
 Diderot a commencé la première scène de son Père de Famille par une partie de Trictrac. Le commandeur, jouant avec Cécile, fait une école, parce qu’il écoute ce que.dit son frère qui se lamente au sujet de l’absence de Saint-Albin. Aussi, Cécile s'écrie-t-elle :
+
+
 
     Et moi.... je marque dix points d’école. 
 
+
+
 Le commandeur s'en prend à Germeuil, à qui il dit : 
+
+
 
     Monsieur, vous avez la fureur de parler sur le jeu.
 
+
+
 Pour être devenu d’un usage moins commun, le Trictrac n’aurait pas infiniment perdu; car le plus beau jeu perd de son prix du moment qu il devient populaire, et qu’il court pour ainsi dire les rues ; le Lansquenet et le Brelan ont disparu depuis qu'ils sont devenus l’amusement des laquais. Je m’étonne que le Piquet lui-même soit encore joué aussi universellement qu’il l'est ; car ce beau jeu se joue, non-seulement dans les antichambres, mais encore dans les cabarets et dans les corps-de-garde, tant il est vrai que ce qui est essentiellement amusant par sa nature ne se discrédite pas aisément.
+
 De tout ce que je viens de dire, il faut donc conclure : d aî.ord que le jeu de Trictrac est de la plus haute antiquité, et qu’à cause de la complication de sa marche, il n’a jamais du devenir aussi familier cpie les autres jeux ; en second lieu, que de tous les jeux il est celui qui offre le plus ce mélange de l’attrait du hasard et delà difficulté des combinaisons ; en troisième lieu, que c’est le seul susceptible d’une théorie, et qu’on puisse apprendre dans un livre, ce cpii suffira pour établir la nécessité du présent traité.
+
 S'il fallait prouver qu’il est le plus attrayant de tous les jeux, comme je l’ai déjà dit plus haut, je ne voudrais d’autre témoignage que celui de toutes les personnes qui le jouent habituellement, et qui cependant ne sont pas joueuses, à ne considérer le jeu que comme un vice.
+
 Il y a mille traits, mille anecdotes qui viennent à l’appui de mon opinion sur le goût qu’il inspire. J en pourrais citer une foule ; mais je me contenterai d’en raconter une seule, parce qu’elle a été l’occasion de cet ouvrage, dont le cadre s’y rattache tout entier.
+
 Il y a environ douze ans qu’une dame créole demeurait à Concarneau avec sa fille Elisa, que la Nature et l’éducation avaient gratifiée, à l’envi, de tous les dons heureux qui rendent une jeune personne séduisante, sans diminuer de sa candeur naturelle. Madame de Lasseroles, ainsi se nommait la mère, fréquentait beaucoup le monde, si toutefois on peut appeler ainsi la Société de Concarneau. Elle était très-riche, quoiqu’elle eût perdu d’immenses propriétés à Saint-Domingue. Un de mes amis, le jeuneKermadeuc de Vannes, devint amoureux de la charmante Elisa ; mais il ne pouvait guères espérer d’obtenir sa main, à cause de lexiguité de sa fortune. Ce n’est pas qu'il n’y eût possibilité de s’introduire dans la maison ; mais alors on n’aurait pu y converser à son gré avec la demoiselle : la mère excluait impitoyablement tous ceux qui ne se déclaraient pas ses propres adorateurs. Il n’y avait qu’un seul moyen de lui faire la cour, c’était de lui proposer une partie de Trictrac ; car elle était si passionnée pour ce jeu qu elle y aurait passé les jours et les nuits. Elle avait eu autrefois une femme-de-chambre à qui elle l’avait appris, dans le dessein d’avoir un partenaire à domicile ; mais la pauvre créature, n’ayant pu supporter l’ennui et la fatigue des longues séances quelle lui faisait faire, avait quitté son service, malgré les bons appointemens qu’elle recevaitd elle. Madame de Lasseroles, depuis cette époque, n’avait pu trouver à la remplacer, ni à jouer autant qu’elle le désirait.
+
 Kermadeuc cependant, résolu de tenter, à quelque prix que ce fût, la conquête du trésor que son cœur ambitionnait, prend subitement son parti, monte un beau matin dans la diligence, vient me trouver à Nantes, où je demeurais alors, quai- qu’à plus de soixante lieues de distance, et me supplie de lui rendre un service important, dont le sort de sa vie dépendait, disait - il : c’était de lui enseigner le Trictrac dont il n avait pas ki moindre notion.
+
 Certes, ce n’était pas en effet un petit service qu il me demandait là ; car si c’est le plus amusant de tous les jeux 3 c’est, en revanche, celui dont l’enseignement est le plus désagréable h et il faut être amant, père ou époux, ou tout au moins ami tres-intime, pour en supporter les dégoûts. Cependant comme il m’avait rendu des services personnels très-imporlans, et qu'il ne s’agissait de rien moins que de faire sa fortune et son bonheur, je consentis à lui en donner des leçons ; mais il fut près de perdre courage, lorsque je lui eus dit qu’il lui fallait au moins trois mois avant d’être assez fort pour jouer avec tout le monde ; il craignait que, pendant un si long espace de tems, quelque rival heureux lui enlevât l’objet de son ardeur. Néanmoins, comme il n’y avait pas d’autre moyen de parvenir à sa possession, il se résigna à faire ce dur noviciat. L’entreprise commencée, je lis tout ce qui était en mon pouvoir pour en bâter le succès et abréger l’apprentissage de mon élève. Ne fût- ce que pour diminuer l’ennui de cet enseignement, il m’importait qu’il de\int fort en peu de tems. Pour réussir, je suivis avec lui un plan d instruction analytique, au moyen duquel je pusse graduellement le familiariser avec les plus hautes combinaisons du jeu. Cela finit par faire naître dans mon esprit une curiosité nouvelle, et me suggéra l’idée de consulter tous les auteurs qui ont écrit sur celle matière. Je n’en trouvai aucun asser. bon pour le faire étudier avec fruit à mon écolier. En effet, dans tous les traités de Trictrac connus, on ne trouve point de principes satisfaisons sur la manière de bien jouer ; rien n’est si imcomplet ni si imparfait que ce qui a été écrit jusqu’à ce jour à ce sujet. Ces réflexions me firent imaginer d’en donner un au public de ma façon, et c’est d’après cela que j’ai composé cct ouvrage, où j'ai suivi le même plan que celui sur lequel je formai Kermadcuc. Il n’a rien de commun avec celui qui a paru il y a deux ans. Le mien était fait alors, et des raisons particulières en ont seules retardé la publication jusqu’à présent. J’avais regret d’abord d avoir passé mon tems à traiter un sujet sur lequel je me voyais dévaucé, lorsqu’nyant parcouru la nouvelle production, je m’aperçus qu elle manquait absolument de plan, et que la concurrence n’en serait pas dangereuse pour le mien. On ne petit disconvenir que les amateurs qui y ont travaillé ne connaissent bien le fond du jeu ; mais à coup sûr ils ignorent entièrement l’art décrire et de démontrer. En vain on chercherait dans leur ouvrage de la méthode et de la gradation mathématique ; il en est absolument dépourvu. Il me conviendrait mal sans doute de faire l’éloge du mien aux dépens du leur ; cependant je crois qu’on pourra m’excuser si j Ose assurer qu’en le lisant on le trouvera plus propre à enseigner le jeu aux personnes qui n’en ont aucune notion j en un mot qu’il est plus simple, plus didactique et sur-tout plus clair. Je crois, sans vanité, que la matière y est traitée à fond. Je me suis bien gardé d’en faire un recueil de positions, et d'y placer cette multitude de coups ét de séances dé par^ ties, dont l’ancien traité de Damort et Cloris est si plein, que la lecture en est assommante. J’ai, cru qu’en indiquant la marche et en donnant les principes généraux, cela suflirait pour former le com-, mençant qui a de l’intelligence. Je n’ai rien négligé pour initier les adeptes du Trictrac dans tous scs mystères, et leur en faire connaître les finesses* Une partie neuve de mon ouvrage sur-tout, et qui ne se trouve dans aucun autre précédent, c’est celle qui traite de l’arithmétique du jeu, sa véritable clé.,Dans celles qui traitent des finesses et des règles, on trouvera des solutions inconnues de tous les auteurs. De tout cela il résultera, pour les amateurs, un corps de doctrine complet dans son ensemble, qu’on pourra consulter dans les cas difficiles, et qu’on prendra pour guide de toute la conduite du jeu.
+
 On me demandera peut-être, à cette occasion, si le Trictrac est un jeu si difficile, qu’il soit digne d être traité particulièrement et à fond. Ce serait ici le lieu de discuter si sa difficulté égale plusieurs jeux que nous connaissons, et s’il peut s’enseigner par la lecture. Je ne m’attacherai pas ici à résoudre la première partie de cette question, ce qui serait tout-à-fait superflu ; quant à la seconde partie, elle l’est assez par l’expérience. Je dirai seulement, pour justifier la nécessité de ce livre, dussé - je étonner beaucoup de gens f qu’il faut autant de tems pour bien jouer le Trictrac, que pour apprendre quelqu’une des langues vivantes, par exemple l'Italien.
+
 Enfin ce qui semble le plus réclamer un nouveau traitédeTrictrac, c’est que,dcpuisenviron vingt ans, ce jeu, quoique négligé, a, par le seul zèle du petit nombre de joueurs qui lui sont restés fidèles,fait plus de progrès qu’il n’en avait fait en quatre cents ans, ce qui est juste le carré de vingt ; de même que certaines sciences en ont plus fait depuis quatre-vingts ans, qu’elles n’en avaient fait en six milles, qui est à-peu-près le carré de quatre-vingts. D’où un méta- phisicien ne manquerait pas de conclure géométriquement que les _progrès de l’esprit humain sont en raison directe du carré des temps_, comme la gravitation est en raison directe du carré des distances ; considération profonde et lucide ! Je vois d’ici les railleurs me demander si je classe la séance du Trictrac au rang des connaissances humaines, et si elle a suivi aussi le progrès des lumières.
+
 Sérieusement, il pourrait bien se faire que la même ardeur pour les découvertes, le même esprit d'_investigation_ qui s’est emparé de la génération actuelle, et qui l’a fait autant avancer dans les sciences exactes pendant ces derniers tems, se soit aussi étendu aux objets les moins importons, qui ne servent qu’à l’amusement. C’est sans doute le même esprit qui a reculé si loin les bornes de la chimie et de la tactique militaire, et porté à la perfection l’art de la coiffure et celui de la cuisine !....
+
 Quoi qu’il en soit, il est certain que les joueurs de Trictrac d’aujourd’hui sont bien supérieurs à ceux d’autrefois, et qu’ils ont trouvé une méthode de conduite infiniment supérieure. Je crois donc qu'ils pourront lire avec quelque plaisir un ouvrage qui traite de leur jeu, d’après les idées qu’ils en ont déjà eus: mêmes. Il leur servira d’arbitre, tant pour la solution des difficultés qui s’élèvent souvent dans les parties, que pour les coups difficiles, les écoles et la connaissance des règles ; peu d’entr’eux d'ailleurs connaissent l’arithmétique dont je parlerai, arithmétique à laquelle l’expérience même ne peut suppléer, et qui est indispensable pour devenir un joueur parfait.
+
+
 
 ## PREMIÈRE PARTIE. DE LA MARCHE DU JEU. 
 
+
+
 Elle se compose de diverses positions et d’épisodes que j’indiquerai par progression, et qui se développeront successivement dans les chapitres dont se compose cette première partie.
+
 Vouloir définir le _petit_ et le _grand Jan_, etc., ce serait procéder à l’inverse des opérations de l’entendement humain ; or ici, comme dans l’étude d’une langue ou d’une science exacte, il faut procéder à la manière de Condillac, en passant du connu à l’inconnu _a magis noto ad minus notum_.
+
 Je me reporterai donc au temps où je fus l’instituteur de mon ami Kermadeuc, et j’observerai l’ordre dans lequel je lui donnai mes leçons.
+
+
 
 ### CHAPITRE PREMIER. _Episodes du Jan de six tables et du petit Jan_.
 
+
+
 Kermadeuc étant vis-à-vis de moi à la table du Trictrac, fig. 1, je lui dis de prendre les 15 dames blanches ou les quinze noires, et de les mettre en pile, soit dans le coin à sa droite, soit dans celui à sa gauche ; il les met à sa droite, parce que cela est plus commode pour un commençant, et je mets les miennes en face. Ensuite voici ce que je lui apprends : Les dames, ainsi empilées, forment ce qu’on appelé _le Talon_. La région du Trictrac, où les deux joueurs s’accordent à placer les talons, se nomme le _petit Jan_. J’ignore l’éthymologie de ce mot Jan; mais cela ne fait rien à notre affaire.
+
 On a toujours trois jetons, avec lesquels on marque les points que l’on prend. Deux points se marquent sur la pointe de la troisième flèche, à partir du talon; 4 points sur celle de la cinquième ; 6 points contre la bande du milieu ; 8 points de l’autre côté de cette bande, et 10 points contre la dernière bande.
+
 Lorsqu’on prend des points le second, on marque _en bredouille_, c’est-à-dire avec deux jetons que l’on conserve jusqu’à ce que l’adversaire prenne de nouveaux points, auquel cas on est _débredouillé_, et l’on ôte un des deux jetons.
+
 On prend deux dés, on les agite dans son cornet, du Lord duquel on touche le fond du rictrac, et on les lance de manière à ce qu’ils ne reviennent qu’après avoir été renvoyés de la Lande opposée.
+
 Le dé s’énonce en commençant par le plus gros nombre : par exemple, si l’on amène un 3 et un 4 ? on dit 4 et 3. S’il vient deux nombres égaux, cela fait un doublet. Tous les doublets ont des noms particuliers qui n’appartiennent qu’au Trictrac ; le double 2 est le seul qui n’en ait point. 
 
+
+
 Le double as s’appelle _Bezet_.
+
 Le double 3 _Terne_. 
+
 Le double 4 _Carmes_.
+
 Le double 5 _Quine_.
+
 Le double 6 _Sonnez_.
 
+
+
 Ce sont les termes techniques.
+
 Le premier coup se joue, soit en prenant deux dames au talon pour les deux nombres qu’on a faits,et les jouant chacune sur la flèche éloignée de ce même talon d’autant de flèches, celle du talon non comprise, qu’il y a de points dans chacun de ces nombres ; soit en prenant pour les deux nombres une seule dame que l’on joue sur la flèche éloignée du talon d’autant de flèches, celle-ci non comprise, qu’il y a de points dans les deux nombres ensemble.
+
 Par exemple, si je fais 6 et 2, je compte les flèches, et je pose une dame sur la sixième après celle du talon, laquelle se trouve de l’autre côté de la bande du milieu dans le grand Jan. Je compte de même les flèches pour arriver à la deuxième qui se trouve bien en de-çà de cette bande dans le petit Jan, et je pose une autre dame dessus. Ou bien, comptant toutes les flèches jusqu’à la huitième pour le montant de 6 et 2, je la trouve au commencement du grand Jan, et je pose une dame dessus ; cela s’appèle jouer _tout d’une_.
+
 Au second coup je suis le même procédé, mais jepuis prendre, soit du talon, ce qu’on appèle _abattre du bois_, ou des dames déjà jouées, autrement dit _abattues_. Si par exemple, j’ai 5 et 3, après avoir joué le 3, je puis jouer le 5 ou d’une dame du talon, en la plaçant à la 5e flèche, celle du talon non comprise, ou prendre celle déjà jouée de la 4e et la transporter dans le grand Jan à 5 de distance, non compris celle d’où je la prends, et ainsi de l’autre dame. Je jouerais tout d’une si je voulais. Je puis jouer également du talon les deux nombres en deux ou en une seule dame ; en un mot, je puis jouer ou de deux dames, ou d’une seule, en prenant du talon ou des dames placées antérieurement sur les flèches. Aux autres coups, on a encore bien plus de facilité pour le choix.
 
+
+
 Il suit de là que l'_on doit considérer toutes les flèches sur lesquelles il y a des dames, comme autant de talons d’où l’on peut prendre l'une ou l’autre, ou les deux dames, ou la seule dame qu’on veut jouer_.
+
 On appelle _case_ toute flèche sur laquelle il y a au moins deux dames placées.
+
 Lorsqu’on commence la partie, l’un des joueurs jète les dés ; et le premier coup appartient à celui du côté de qui se trouve le plus gros dé. Si c’est uri doublet, le coup est nul, et l’autre joueur prend les dés à son tour, pour savoir à qui le premier coup appartiendra.
+
 Ces notions établies, Kermadeuc jette les dés et amène 2 et as. Le deux se trouvant plus proche de lui, il joue 2 et as, en plaçant une dame sur la première et une dame sur la deuxième flèche, non compris celle du talon.
+
 Pour faciliter les démonstrations, je dénommerai les flèches, à commencer par celle du talon, A, B, C, D, etc., toujours fig. 1re.
+
 A mon tour, j’amène 4 et 3 que je joue en U et en T ; Kermadeuc 4 et 3 aussi, qu’il joue en D et en E.
+
 Il me vient 3 et 2 que je joue d’une dame prise de T en R, et d’une autre de U en R. Kermadeuc, après, amène 6 et 5.
+
 C’est à présent qu’il va se trouver faire le _Jan de six tables_, c’est-à-dire qu’il va avoir six dames sur ses six premières flèches, après celle du talon. Il marque pour cela 4 points, mais avant de jouer, car il faut toujours marquer ses points d’abord : c’est un des principes fondamentaux du jeu. Si on jouait avant de marquer, on serait mis à l’école, c’est-à-dire que l’adversaire marquerait, en punition, les points comme si on les avait oubliés ; et on est censé les oublier lorsqu’on ne les marque pas à temps.
+
 Il faut observer, à l’égard du Jan de six tables, 1. qu’il ne doit se faire que dans les trois premiers coups, passé lesquels il n’a pas lieu ; 2. qu’on n’est pas obligé de le jouer tel qu’on l’a amené. Ainsi Kermadeuc pourrait jouer 6 et 5 en prenant des flèches C et D pour porter sur celle J, ou autrement. Cependant je lui fais placer deux dames du talon en F et en G, pour essayer une autre position.
+
 Pour moi, je fais après cela 5 et 4 que je joue de deux dames du talon en T et en S, fig. 2.
+
 Kermadeuc amène 2 et as, et joue deux dames du talon en B et en C.
+
 Je fais une deuxième fois 4 et 3, que je joue de T en P, et de S en P.
+
 Kermadeuc fait 4 et 3 qu’il joue en D et en E.
+
 J’amène ensuite 2 et as, que je joue en X et en V.
+
 Kermadeuc fait 2 et as, qu’il joue ensemble en D,
+
 Je fais encore 2 et as, que je joue comme devant.
+
 Kermadeuc fait bezet, qu’il joue tout d’une en C.
+
 Je fais encore 2 et as, et les joue de même.
+
 Kermadeuc amène 3 et 2, et enfin il fait le plein du _petit Jan_, ou le _petit Jan_ proprement dit.
+
 _Le plein du petit Jan a donc lieu lorsqu'on est arrivé à avoir, dans cette région du Trictrac, autant de cases qu’elle renferme de flèches.
+
 Kermadeuc fait donc son plein, puisqu’il peut jouer la dame surnuméraire (on appelle surnuméraires les trois dames qui excèdent les douze nécessaires pour un plan quelconque) qui reste au talon en F par 3 et 2, ou celle en C par le 3, ou celle en D par le 2. Il remplit même d« trois façons, puisqu’il a le choix pour couvrir la dame en F, par une des trois en A, C, D. Il ne remplirait que d’une ou de deux façons, si une ou deux de ses dames surnuméraires étaient, ou au talon, ou toute en surcase sur C ou D, ou que plusieurs d’elles fussent plus loin qu’en F. Or, il doit marquer 4 points pour chaque façon, ce qui fait 12^ lesquels, joints aux 4 du Jan de six tables qu’il a déjà, font un total de 16 ; mais 12 points donnent un trou; il marque donc un trou, partie simple, plus un trou partie double, pour _la bredouille_, puisque je n’ai pas pris de points ; et j’ai déjà dit qu’on était en bredouille, quand on prenait des points après son adversaire, ou tant qu’il n’en prenait pas, ce qui donne le droit de marquer double les trous. En outre il lui reste 4 points.
+
 Il résulte donc, _que lorsque l’onfait le plein du petit J an, on marque autant de fois 4 points qu'il y a de façons dont on remplit, c’est-à-dire lorsqu’on pourrait jouer pour compléter la case manquante de l une, des dames en surcase sur les flèches précédentes, pour chacun des deux nombres, ou d’une seule dame pour les deux nombres ensemble._
+
 Après avoir pris ses deux trous, Kermadeuc joue _tout d’une_ de D en F, fig. 3.
+
 Moi j’amène une quatrième fois 2 et as, et je fais la case en U.
+
 Kermadeuc fait 5 et 3, et comme il peut les jouer sans déranger son plein, avec la dame de surcase en C, il _conserve_ ou _tient_, et en conséquence il marque 4 points, ce qui lui fait 8. Il joue la dame de C en K _tout d’une_.
+
 J’amène 3 et 2, que je joue du talon en V et en U.
+
 Kermadeuc fait double a et il lient encore, parce qu’il peut jouer de G en K tout d’une. Il gagne 6 points à cause du doublet, ce qui me donne l’occasion de dire _que l’on compte 2 points de plus, toutes les fois qu’on amène un doublet_. Mais 8 points qu’il avait font avec ceux-ci, pour lesquels il prend deux trous et marque 2 de reste.
+
 Après cela je fais 2 et as, que je joue de U en T. Kermadeuc fait carmes. Mais quelle est sa position en ce cas ? Peut-il, pour conserver, placer des daines dans mes régions? Il 11e peut pas en placer dans mon grand Jan, par la raison que je puis y faire mon plein; mais comme j’ai une flèche vide en S, il peut emprunter le passage en O dans mon grand Jan, et venir placer une de ses dames de K dans mon petit Jan, où je ne peux plus faire de plein, sur la flèche S. Il _tient_ donc encore. D’où j’énonce un troisième principe que : _tenir ou conserver, c’est pouvoir, sans déranger son plein, jouer ses dames surnuméraires y tant dans ses deux Jans que dans le petit Jan de l’adversaire_. Par conséquent il a 6 points, à cause du doublet, et 2 qu’il avait font 8. II joue tout d’une de K dans mon petit Jan en S. Je jète les dés et j’amène sonnez, que je joue du talon en R.
+
 Kermadeuc répète carmes qu’il peut jouer de l’autre dame en K, de même sur S de mon petit Jan. Il tient donc une quatrième fois et a 6 points de plus, lesquels, avec 8 qu’il avait, font 4. Il prend deux trous et marque 2 points de reste ; mais je lui dis de _s’en aller_, parce que son jeu ne serait plus bon. On a le droit de _s'en aller_, lorsqu’on a marqué un ou plusieurs trous; c’est-à-dire qu’on efface tous les points restant de part et d’autre, on relève les daines et on les remet au talon pour recommencer sur nouveaux frais.
+
+
 
 ### CHAPITRE II. Du Jan de deux tables, du coin de repos et des dames battues à vrai.
 
+
+
 Kermadeuc a le dé, c’est-à-dire la faculté de jouer le premier, dans ce _relevé_-ci, faculté qu’a toujours celui qui s’en va. Il amène 6 et 5, qu’il joue naturellement en F et en G (fig. 4) carilne peut les jouer tout d’une attendu que la dernière case L, autrement appelée le _coin de repos_, ne peut se faire qu’en y plaçant les deux dames à-la-fois.
+
 J’amène 2 et as, que je joue tout à bas ou _naturellement_.
+
 Kermadeuc fait ensuite 4 et as 5 R joue l’as d e G en II, et le 4 de F en J.
+
 Je fais 2 et 3, que je joue encore tout à bas. Kermadeuc amène 4 et 3 ; il gagne encore 4 points, parce qu’il fait le _Jan de deux tables_.
+
 _Or, le Jan de deux tables arrive, lorsque, de deux dames abattues et passées dans le grand Jan, l’adversaire n’ayant pas son coin fait, on pourrait, par les nombres que l’on a amenés, en mettre une dans son coin, et l’autre sur le coin de l’adversaire, ce qui s’appela battre les deux coins_.
+
 En effet, Kermadeuc pourrait placer sa dame en J sur M de mon grand Jan par le nombre 3, et sa dame en H sur L du sien, par le nombre 4. Il le pourrait en droit ; mais comme cela n’est pas admis en réalité, il en résulte une indemnité qui consiste à prendre 4 points.
+
 S’il eut amené 5 et 2, il eût également battu les deux coins ; car il n’importe pas que ce soit l’une des deux dames qui batte toujours le même coin. Si, ces deux dames étant en I et J, il eût amené terne, il eût encore battu les deux coins par le même principe, et, en outre, il eût compté 2 points de plus à cause du doublet.
+
 Mais si j’avais ma case M faite, Kermadeuc, au lieu de gagner 4 points, en eût perdu 4, parce qu’il aurait _battu à faux_ les deux coins. On nomme cet épisode le _contre-Jan_ de deux tables. Nous allons bientôt voir ce que c’est que _battre à faux_.
+
 Kermadeuc, du reste, a joué du talon en D et en E, fig. 5. Moi je fais bezet, que je joue tout à bas ou _comme il est venu_, expression équivalente.
+
 Kermadeuc amène 4 et 2 ; alors il fait la onzième case L, ou autrement il _prend son coin_. Cette case ne peut se faire, je l’ai déjà dit, qu’en y plaçant deux dames à la fois, c’est la plus importante, c’est le pivot du jeu, et c’est celle qui joue le plus grand rôle. Kermadeuc avec elle va pouvoir dominer dans mon jeu.
+
 Le principal but du jeu consiste à faire le plein dans le grand Jan; mais, avant de le faire, on peut gagner des points, comme on vient de le voir, et comme on va le voir encore mieux. 
+
 Il y a encore une autre manière de prendre son coin, c’est lorsqu’on amène des dés tels qu’en diminuant un point sur chaque nombre, on puisse, avec les dames qu’on a dans son grand Jan, faire son coin, comme si on eût réellement amené les nombres ainsi diminués. Cela s’appelle _prendre le coin par puissance_ : par exemple, si Kermadeuc eût amené 5 et 4, il eût fait de même son coin en diminuant un point sur le 5 et un sur le 3. C’est un privilège qui fait partie du jeu ; mais dès que votre adversaire a fait son coin, vous ne pouvez plus faire le vôtre de cette manière.
+
 A mon tour je fais 6 et 5, que je joue de X en R et en Q.
+
 Kermadeuc amène 5 et as. Il marque alors 4 points de plus, parce que le total de ces nombres qui fait 6 arrive juste sur ma dame en R, et que par le nombre 5 il arrive sur ma dame en Q; or, il aurait le droit de placer les deux dames de son coin sur mes deux dames en Q et R ; mais comme cela n’est pas admis en réalité, il en résulte pour lui une indemnité de 4 points qu’il ajoute aux 4 qu’il a déjà. On appelé cela, _battre à vrai_.
+
 Il joue 5 et as tout d’une du talon en G. Moi je fais 6 et 5, que je joue de V en P, et de Y en S, ne pensant pas à faire mon coin par Q et R.
+
 Kermadeuc amène 4 et 3 ; il en résulte dpoints de plus pour lui : 1. 4 points, parce qu’il bat ma dame en P, par le nombre 4, puisqu’il pourrait placer dessus une de ses deux dames du coin ; 2. 4 autres points, perce qu’il bat ma dame en S par le 4 et 3 ; et parla même raison 6 points et 8 qu’il avait font 14, pour lesquels il prend deux trous et marque 2 de reste.
+
 Ce n’est pas seulement de la case L qu’il pourrait battre, mais de toute autre flèche où il aurait seulement une darne, pourvu que les nombres qu’il amènerait correspondissent juste aux distances entre les flèches sur lesquelles il aurait des dames, et les dames découvertes placées sur mes flèches. _Donc, on bat, lorsque, des dames que Von a dans son jeu A on peut, pour arriver aux darnes découvertes placées dans le jeu de l'adversaire, compter une distance cVautant de flèches qu’il y a de points, soit dans l’un et l’autre, l’un ou Vautre, ou les deux nombres ensemble qu’on a amenés_.
+
 Kermadeuc joue 4 et 3 tout d’une d’A en H.
+
 Pour moi, j’amène 3 et as, que je joue tout d’une en T.
+
 Kermadeuc amène 6 et 5 : oh! alors il prend 20 points, et voici comment :
+
 Il pourrait placer une des dames de son coin par 5 sur celle en Q de mon grand Jan, et l’autre par 6 sur celle en R; or, cela lui vaut 4 points. Ensuite, il pourrait placer l’une de ces deux dames par 6 et 5 sur celle en X, et sa dame en H sur celle en S de mon petit Jan, ce qui lui vaut 8 points ; car toutes les dames battues dans les petits Jans donnent 2 points de plus que dans le grand Jan, voilà donc 12 points. De plus, il a l’arrière 6 et 5 qui part de G, puisqu’il pourrait, par 6 et 5, placer la dame qu’il a en G sur celle en R de mon grand Jan, qui se trouve ainsi baltuepar 6et 5, et lui donne 2 points ; et l’arrière 6 et 5 de E en P qui lui donne aussi deux points; de sorte que ma dame en P est battue par le point de 6 et 5 ; celle en Q par le point de 5; celle en R par le point de 6 et 5, et celle en X par le point de 6 et 5 seulement. Tout cela ne fait encore que 16 points. Mais il est un nouveau bénéfice que Kermadeuc ne connaît point : il _bat mon coin_ ; c’est-à-dire, que, comme je ne l’ai pas encore fait, il pourrait placer dessus ses deux dames de G et de H, et comme ce n’est également qu’un droit, une puissance sans réalité, il en résulte une indemnité de 4 points pour lui ; ce qui fait 20. 20 et 2 qu’il avait font 22 points, pour lesquels il prend deux trous, et a 10 points de reste.
+
 _Donc, on bat le coin de son adversaire toutes les fois qu’on a des daines sur les flèches qui sont éloignées de ce meme coin, dans la proportion des nombres qu’on a faits par les dés_.
+
 Il suit de là que, pour battre le coin par doublet, il faut avoir deux dames sur la case qui est éloignée du coin d’une quantité correspondante aux dés qu’on a amenés. Ainsi, si Kermadeuc eut fait quine, il n’eùt pas battu le coin, parce qu’il n’a qu’une dame en H, seule flèche d’où l’on puisse en prendre deux pour les mettre sur mon coin.
+
 Si j’avais mon coin fait, il cesserait de le battre, mais il ne le battrait pas non plus à faux; il n’en est pas de ceci comme du Jan de deux tables.
+
 Si j’avais eu des dames découvertes sur toutes les flèches de mes deux Jans, et que Kermadeuc eût eu des dames sur toutes les siennes, il aurait battu toutes mes dames les unes après les autres, comme on peut le voir dans la figure 6.
+
 En effet, on voit qu’il eut battu la dame que j’ai en N par le 5, le 6 et le 6 et 5, au moyen de ses daines en I, en H et en C, ensuite ma dame en O, de même par le 5, le 6 et le 6 et 5, au moyen de ses dames en J, en I et en D ; ainsi du reste. D’après quoi, il faut poser en principe que : _lorsqu’il y a plusieurs dames découvertes dans le jeu de l’adversaire, chacune d’elles est battue séparément et indépendamment des autres, et qu’ainsi la même dame que l’on a sur une flèche peut battre plusieurs de celles de l’adversaire, puisqu’elle se trouve successivement, à leur égard, dans les distances correspondantes au nombre amené_.
+
 En voilà assez, je crois, sur les dames battues, pour apprendre à un commençant ce que c’est que battre à vrai. La pratique lui apprendra à suivre l’application de ce que je viens d’établir. 
+
+
 
 ## CHAPITRE III. _Du Jan de Mézéas et des dames battues à faux._
 
+
+
 Kermadeuc, après avoir pris plusieurs trous, s’est en allé, et nous recommençons un nouveau relevé, figure 7.
+
 Il amène sonnez, qu’il ne peut jouer autrement qu’en G.
+
 Je fais 5 et 4 q ue j’abats.
+
 Il répète le sonnez, et alors il prend, son coin par puissance.
+
 J’amène 6 et 5, avec lesquels je fais la case N.
+
 Kermadeuc amène 6 et as, et alors il gagne 4 points, parce qu’il pourrait, en droit, placer une des dames de son coin dans le mien, et qu’il est indemnisé pour ce droit de 4 points ; cela s’appelle le _Jan de Mézéas_. S’il eut amené bezct, il eût gagné 6 points.
+
 _Donc, le Jan de Mézéas arrive lorsqu’ayant fait son coin et n’ayant pas d’autres dames abattues, on amène un as_.
+
 Si mon coin était fait, alors Kermadeuc perdrait 4 points, c’est ce que l’on appelle le _contre Jan de Mézéas_.
+
 Sans m’appliquer maintenant à détailler tous les coups que Kermadeuc et moi nous avons joués, je suppose que nous soyons dans une position telle que, figure 8, j’aie mon coin, que mes cases N, Q, R, soient faites, et que j’aie des dames isolées ou découvertes sur S, V et X. Kermadeuc entre autres dés amène 6 et as. Je dis qu’il perd 4 points ; pourquoi les perd-il ? Parce que l’as et le 6 qui partent de son coin trouvent faites mes cases en M et en R, qui lui ferment les passages, et que par conséquent, il n’a pas le droit ou la puissance d’y faire passer une des dames de son coin pour la placer sur la dame découverte que j’ai en S ; il ne la bât qu’_à faux._
+
 _Donc, on bat à faux lorsqu’on amène des nombres qui n’arrivent sur les dames découvertes du jeu de son adversaire, qu’en passant sur des cas es faites_.
+
 Kermadeuc a battu à faux ma dame en S, parce que les flèches de Pas et du 6, M et R, où il faudrait que ses dames du coin passassent, sont chargées d’une case.
+
 Si le coup suivant il amène 6 et 5, alors il gagne 4 points et.en perd 8. Il gagne 4 points, puisqu’il bat ma dame en V, par sa case K, qui passe par le 6 en P ; il perd 8 points, parce que sa case H ne bat ma dame en S qu’en passant par 5 et 6 sur M et N, qui sont des cases faites, et que son coin L n’arrive sur ma dame X qu’en passant par 5 et 6 sur Q et R qui sont aussi des cases. S’il amenait sonnez, il perdrait deux trous, puisqu’il battrait mes dames en R et en X par ses cases F et R. qui tomberaient par 6 sur mou coin M et ma case Q.
+
 _On voit donc, que l'on ne peut battre à faux que par le montant des deux nombres qu’on a amenés, et non par un seul des deux_.
+
 C’est ici que l’on peut entrevoir combien il importe de savoir se faire battre à faux ; mais c’est ce que je me réserve de dire dans ma troisième partie. Il me suffit d’avoir indiqué ici comment cela peut se faire. J’observerai, avant de finir ce chapitre, que lorsque l’on est battu à faux on ne peut pas s’en aller après les trous qu’on a gagnés. La faculté de s’en aller n’a lieu que lorsque l’on prend des trous et non lorsqu’on les reçoit. Ainsi, quand même Kermadeuc me donnerait six trous de suite, en me battant à faux, je serais obligé de rester quelque mauvais jeu que j’eusse. 
+
+
 
 ## CHAPITRE IV. _Du plein du grand Jan._
 
+
+
 Le plein du grand Jan se fait de la même manière que celui du petit Jan, c’est-à-dire qu’il faut, pour l’effectuer, faire six cases sur les six flèches de cette région. Je suppose donc, fig. 9, que Kermadeuc n’ait plus pour faire son plein qu’à couvrir la dame en K, et que moi j’en aie trois découvertes dans mon grand Jan, en N, Q et R ; on voit que Kermadeuc a beau jeu et qu’il doit faire son plein le premier. Il jète les dés et amène 6 et 4 ; alors il remplit d’une, de deux et même de trois façons. En effet, il remplit par le 4, à cause de sa dame de surcase en G ; par le 6, à cause de celle en E, et par le 6 et 4, à cause de celle qui reste au talon A, et qui pourrait aller tout d’une sur K. Chaque façon donne 4 points comme au petit Jan, ce qui lui fait 12 points. En outre, il prend 6 points sur ma dame découverte en N, parce qu’il la bat du 4 et du 6 par J et G de son grand Jan, et du 6 et 4 par la dame en D de son petit Jan ; il prend 4 points sur ma dame découverte en Q, qu’il bat du 6 et du 6 et 4 par ses dames en K et en G ; il prend 4 points sur ma dame découverte en R, qu’il bat par L et G; enfin, il prend 12 points sur mes trois dames en T, CJ et V, qu’il bat du point de 6 et 4 par J, K et L ; cela fait donc en tout 38 points. Je suppose qu’il en eût dix auparavant ; il en a donc, en total, 48 ; mais je suppose en avoir 4 et qu’il n’ait point la bredouille, il marque alors sept trous seulement, et il joue tout d’une du talon pour remplir en K.
+
 J’amène 6 et 3, par le moyen duquel je couvre de T en N et de U en R ; mais comme je bats à faux les dames E et D de Kermadeuc par M et N de mon grand Jan, il en résulte 8 points pour lui.
+
 Il ne sera pas difficile de faire comprendre ici aux commençans que lorsqu’on a fait le plein de son grand Jan, les dames découvertes qu’on a dans le petit Jan ne peuvent plus être battues qu’à faux, puisque, tous les passages étant fermés, les nombres que l’adversaire amène ne peuvent tomber en passant que sur des cases faites. 
+
 Kermadeuc à son tour fait 6 et 3, pour lequel il prend 4points, puisqu’il conserve, c’est-à- dire, qu’il joue sans déranger son plein.
+
 Mais pour épargner au lecteur un détail fastidieux, je suppose qu’ayant fait mon plein aussi, fig. 10, Kermadeuc a ses trois dames surnuméraires en surcase sur G, H et I, et moi, les miennes sur M, N et O. Kermadeuc fait 6 et 5 ; comment fera-t-il pour jouer ce nombre? A la vérité, il peut bien jouer le 5 de G sur L ; mais où jouera-t-il le 6, puisqu’il n’y a plus rien au-delà de K, et que tous les passages sont occupés dans mon grand Jan? Eb bien! il tient encore, et c’est ce qu’on appele, _conserver_ ou _tenir par impuissance_.
+
 En effet, Kermadeuc joue le 5 de G sur L ; mais il est dans l’impuissance de jouer le 6, donc il tient encore, puisqu’il ne dérange pas son plein : il marque donc 4 points ; mais comme il ne joue pas le 6, je marque 2 points par cette règle, _que toutes les fois que votre adversaire ne peut pas jouer une dame vous gagnez 2 points_.
+
 J’amène 6 et 2, et je tiens aussi par impuissance, puisque je joue le 2 de O sur M et que je ne puis jouer le 6.
+
 Kermadeuc ensuite fait 6 et 4, et tient encore, puisqu’il ne peut jouer le 6 et qu’il joue le 4 de la dame de surcase en H qu’il place sur L.
+
 Ensuite, je fais 6 et as, et je tiens, parce que je mets Vas de N sur M.
+
 Kermadeuc amène 6 et 3, et tient encore.
+
 Je fais 5 et 4 que je joue en rompant, c’est- à-dire, en levant une dame de R et une de Q pour mettre sur M.
+
 Kermadeuc amène sonnez ; il tient toujours, puisqu’il ne peut jouer aucun 6. Enfin, je répète 5 et 4 et _je retrousse_ les deux dames restantes de Q et R sur M, fig. 11.
+
 Je crois donc avoir suffisamment démontré ce que c’est que le plein du grand Jan. Un commençant qui a de l’intelligence aura dû remarquer que cette faculté que l’on a de tenir par impuissance est d’un grand avantage, puisqu’en ne jouant, lorsqu’on amène des 6, que l’un des deux nombres, on peut tenir plus long-tems; mais je reviendrai là-dessus à la troisième Partie.
+
+
 
 ## CHAPITRE V. _Du Jan de retour._
 
+
+
 On vient de voir dans la dernière position que j’ai été obligé d’évacuer mes flèches R et Q et de retrousser sur M ; j’ai donc ouvert deux passages par Q et R dans mon jeu, fig. 11.
+
 J’ai déjà dit au chapitre du petit Jan, que Kermadeuc pouvait passer dos dames dans mon petit Jan en empruntant le passage dans mon grand Jan. Il peut donc de même, à présent, en placer non-seulement dans mon petit Jan, mais en outre dans mon grand Jan en Q et en R, attendu que je ne puis plus faire de plein nien tenir dans celte région du Trictrac. Si je pouvais encore y faire le plein, quoiqu’ayant une ou deux flèches vides, Kermadeuc ne pourrait qu’emprunter un passage sans s’y arrêter.
+
 Ainsi, c’est donc un droit établi pour tous les Jans, _que l'on ne peut placer aucune dame sur les flèches vides de son adversaire, lorsque les dames dont il a besoin pour faire le plein n’ont pas encore dépassé cette flèche._
+
 Comme je me retrousserai probablement de beaucoup de daines après la flèche R, Kermadeuc pourz'a donc placer toutes les dames dont il sera retroussé dans son jeu, tant dans la partie de mon grand Jan que j’aurai évacuée, que dans mon petit Jan.
+
 Il tient plusieurs fois en passant ses trois dames par des 5 et des 6 jusqu’à ce qu’il les ait placées jusque sur X et Y; et alors, amenant un carmes, il cesse de tenir et relève ses deux dames de G sur L. Pendant ce temps-là, je n’ai amené que des 6 et des 5 que je n’ai pu jouer, et pour lesquels j’ai perdu 4 points à chaque coup. Ensuite, Kerinadeuc amène des ternes, des 4 et 3, et divers autres dés, par suite desquels ne pouvant pas passer dans mon jeu, il relève successivement toutes ses dames de G, H et I sur J, K ou L; de même', je relève les miennes et passe dans le sien, de manière à ce que nous fassions des _invasions_ l'un chez l’autre, nous nous y établissions et nous y étendions comme on peut le voir dans la fig. 12.
+
 A présent, il va se former une nouvelle configuration, un nouvel épisode de jeu, c’est ce qu’on appelle _le plein du Jan de retour_, plein que les deux joueurs cherchent à faire dans le petit Jan l’un de l’autre. Pendant que Kerma- deuc cherche à remplir dans mon petit Jan, je cherche de mon coté à remplir dans le sien ; bien entendu que chacun de nous cherche à arriver le plus vite h ce plein, comme aux pleins qui ont précédé. Le plein du Jan de retour se fait absolument de la même manière que les deux autres, d’une de deux et de trois façons ; mais il ne se conserve par impuissance, comme celui du grand Jan, que lorsqu’on 11’a pas encore passé son coin.
+
 Il faut que l’on sache que de même que le coin n’a pu se prendre qu’en plaçant deux dames à la fois dedans, on ne peut le quitter qu’en passant de même ces deux dames à la fois ; d’où il suit que si Kermadeuc a le plein fait
+
  dans le Jan de retour, fig. 13, et son coin non encore passé, et qu’il amène un 6 et as ou 2, ou enfin un 6, et l’un des nombres qui répond aux flèches sur lesquelles j’aie encore des dames il ne peut passer son coin.
+
 Par conséquent, il ne peut jouer le 6, et joue seulement l’as ou le 2, si c’est un as ou un 2 de la dame de surcase en S, dans mon petit Jan, soit qu’elle soit en T ou en U ; c’est ce qui fait tenir par impuissance.
+
 Si j’avais passé toutes mes dames dans son jeu et même les dames de mon coin, et qti’il amenât des as, il ne pourrait encore passer son coin, parce que, _l'on n'a jamais le droit de placer des dames dans le coin de son adversaire_.
+
  Mais on ne peut plus tenir par impuissance lorsque l’on a passé son coin.
+
  Kermadeuc ayant passé toutes ses dames dans mon petit Jan et moi toutes les miennes dans le sien, fig. 14, amène un 6 et 3. Il tient encore, parce qu’il y a une faculté de tenir dans cette position qui n’existe point dans le plein du grand Jan. Cette faculté consiste en ce que la bande compte pour une flèche après celle-du talon. Ai nsi, parce moyen,labande offre un point de plus à jouer. Kermadeuc tient donc, et joue le 6 de sa dame en surcase sur S sur la bande, et le 3 de U sur Y.
+
  Le coup suivant, il amène bezet et il tient encore, parce qu’il joue les deux dames en surcase sur X, sur la bande par as et as.
+
  Le troisième coup, il ne peut plus tenir, et alors il peut mettre successivement sur la bande toutes les dames que ses nombres l’obligent de relever.
+
  Lorsqu’il a une ou deux ou trois cases levées et qu’il amène des 6, des 5, des 4 ou tout autre nombre qui excède la distance qu’il y a entre ses dames les plus éloignées et la bande, il lève les dames les plus éloignées et les met sur la bande ; de sorte que plus il fera de gros dés, plutôt il _lèvera_ ou _sortira_, ce qui est de sou intérêt, car celui qui lève ou sort le premier gagne 4 points, ou 6, si c’est par doublet.
+
 _Donc, lorsque l’on a rentré toutes ses dames dans le petit J an de son adversaire, on est obligé de lever ou de sortir ; et on lève ou sort en jouant sur la bande les dames qui en sont éloignées d’autant de flèches, en comptant la bande pour une, qu’il y a de points dans l’un ou l'autre des nombres qu’on a amenés_.
+
 Ainsi, si Kermadeuc, fig. 14, après avoir amené son bezet, amène 6 et 5, il lève le 6 de S sur la bande, et le 5 de R également sur la bande; si ensuite il fait 3 et 2, ou il peut jouer le 3 en dedans ou en levant une des dames de V et la mettant sur la bande, et 2, une de celle en X, et la mettant aussi sur la bande. Si après avoir relevé successivement les trois cases S, T, U, il amène des 4; des 5 et des 6, il peut prendre les dames les plus éloignées de la bande pour les sortir.
+
 Une fois que l’un des deux joueurs a levé ses dames, alors le jeu recommence ; chacun garde les points qu’il a, et les dames reforment de nouveau le talon. 
+
+
 
 ## CHAPITRE VI. _Du genre des Parties._
 
+
+
 Ordinairement le Trictrac se joue en douze trous à la partie.
+
 Il y a des joueurs qui jouent ces douze trous bredouille ; c’est-à-dire, que celui qui les gagne de suite sans interruption, sans que son adversaire en prenne un seul, ou après qu’il en a pris, gagne double; mais il faut que cela soit convenu d’avance.
+
 On ne peut jouer que deux personnes à la fois; mais pour en amuser un plus grand nombre, on joue ce qu’on appèle la poule ; c’est-à- dire, que l’on peut être trois, quatre cinq ou six à jouer; que chacun en entrant met au jeu; que j pour avoir la poule, il faut gagner autant de parties qu’on a de joueurs contre soi, et que chaque joueur qui rentre est obligé de mettre de nouveau au jeu. Ainsi, il peut arriver qu’une soirée entière se passe sans qu’aucun y réussisse : alors on partage la poule. Elle peut être très-forte, arrivée ainsi à ce point, sans avoir été gagnée.
+
 Mais le beau jeu, le grand jeu, c’est le Trictrac à écrire : c’est celui qu’on joue le plus habituellement dans les salons et dans la bonne compagnie. On l’appèle à écrire, parce qu’il consiste en un certain nombre de parties dont on tient le compte, soit avec des jetons, soit sur du papier, au crayon ; mais le plus souvent avec des jetons. Une partie a écrire se compose ordinairement de huit marqués, ou de douze.
+
 Pour gagner un marqué, il faut, le premier, prendre six trous. On peut chercher à en prendre plus si l’on veut, et si l’on a assez beau jeu pour cela ; et le nombre de ceux que l’on peut prendre peut aller à douze, dix-huit, vingt-quatre ou trente trous : il n’y a pas de quantité obligée passé six trous.
+
 Si l’on gagne le marqué sans que la partie adverse ait un trou, on est en bredouille ; de même que si, après qu’elle en a pris, on prend précisément ceux qui font gagner le mavqué sans interruption.
+
 Une bredouille de trous se fait absolument comme une bredouille de points ; et, pour la marquer, on met le pavillon, qui est ordinairement un petit étendard, qu'on plante dans le trou de son fichet.
+
 Des six trous ou plus qu’on a gagnés, on retranche ceux qu’a pris la partie adverse, et l’ort marque la somme restante, en y ajoutant une consolation de 2 points. Si l’on est en bre- -douille, on double les six trous ou plus, avant la déduction, de même que la consolation. Ainsi si l’on a gagné six trous on compte 12 et 4 de consolation qui font 16, dont, en déduisant un trou que je suppose que l’adversaire a pris, on marque x5, soit au crayon sur du papier, soit avec des jetons et des fiches que vous donne votre adversaire, comme cela se pratique au Reversis et au Boston. De plus, on reçoit, dans ce dernier cas, deux jetons de celui qui est marqué, lesquels servent à indiquer les marqués qu’on a joué.
+
 Lorsque, par la note écrite ou parle nombre des jetons, on sait que la partie est finie, on règle le compte. Si l’un des deux joueurs a fait moins démarqués que l’autre, il est _postillonné_, c’est-à-dire que l’on augmente son compte de 28 points pour le premier marqué qui lui manque, et de 8 pour chacun des autres. Il peut donc, de cette manière, être postillonné quatre fois si l’on joue en huit marqués, ou six fois si l’on joue en douze.
+
 Ensuite ou additionne le tout, et celui qui est marqué d’un plus grand nombre de points que l’autre, perd, pour la différence des points dont il est marqué en plus, ceux de son adversaire déduits, le montant du prix dont ils étaient convenus pour chaque jeton ou fiche. En outre il perd la queue, c’est-à-dire, deux, trois ou quatre fiches en sus, ou une somme quelconque.
+
 Si l’on a joué à tant... la fiche, il peut arriver qu’il y ait un certain nombre de jetons en fraction. S’il y en a cinq et au-dessus, cela compte pour une fiche ; s’il n’y en a pas cinq, ils sont négligés ou ne servent qu’à déterminer la queue. Lorsqu’on marque avec des jetons, il peut arriver que le compte de celui qui a fait le moins de marqués, soit supérieur en nombre de jetons ou points 5 mais alors il gagne la queue des jetons, parce qu’ayant le plus grand nombre des jetons donnés à chaque marqué, il a le droit de prendre la totalité de ces, jetons donnés de part et d’autre, et les paie en déduction des postillons qu’il a essuyés ; ou bien une queue compense l’autre, et il ne perd point de queue.
+
 Il faut ajouter à ce que j’ai dit sur les marqués en bredouille, qu’il y a la petite et la grande bredouille. La petite, c’est celle où l’on compte double seulement les trous d’un marqué gagné jusqu’à douze exclusivement. Mais Si l ? on arrive à douze trous, on gagne la grande qui consiste à marquer quadruples les trous qu’on a fait, ainsi que la consolation. Dans quelques Waison, et même dans certains pays 7 on continue cette progression jusqu’à dix-huit trous, que l’on marque octuples, jusqu’à vingt-quatre, seize fois, ainsi de suite, en doublant toujours la bredouille existante de six trous en six trous. On devrait jouer ainsi partout : à la vérité, cela ferait monter le jeu un peu haut ; mais il en deviendrait bien plus intéressant et plus savant.
+
 Si lorsque celui qui a pris assez de trous pour s’en aller avec le gain du marqué, ayant néanmoins resté pour gagner quelque chose déplus, son adversaire l’a rejoint au même nombre de trous, c’est un _refait_ ; on recommence, et celui qui perd ensuite le marqué sur nouveaux frais perd la consolation double, triple, etc., suivant qu’il y a un ou deux refaits.
+
 On peut encore jouer à écrire deux contre un ; alors l’un des deux fait la chouette, ce qui veut dire qu’il joue seul contre les deux autres qui tirent entre eux à qui jouera le premier. Ceux-ci jouent chacun deux marqués, dans le premier desquels, à chaque rentrée, la chouette a le dé du premier coup, et dans le second, le joueur adversaire.
+
 On joue aussi deux contre deux; et, dans ce cas, celui des deux associés qui a perdu le premier marqué, fait place à l’autre qui en joue deux de suite, et lui reprend aussi par deux autres de suite, jusqu’au dernier seul que joue son partenaire.
+
 Dans ces deux arrangemens de parties, l’associé qui ne joue pas a le droit de conseiller celui qui joue et de l’empêcher de faire des écoles.
+
 Lorsqu’on est plusieurs personnes, et qu’aucune ne veut faire la chouette ni s’associer, on joue chacun pour son compte, ce qui s’appèle à _tourner_.
+
 Si, par exemple, on est trois, et que l’on convienne de jouer en tout douze marqués, c’est quatre pour chacun, et l’on ouvre trois comptes. Celui des deux premiers joueurs qui perd, se lève pour faire place au troisième qui joue deux marqués de suite ; de sorte qu’il se trouve successivement avec deux adversaires, et ainsi de suite, jusqu’au dernier que joue celui qui s’est retiré le premier ; mais, à chaque marqué, le joueur oisif reçoit une consolation du perdant égale à 1$ consolation que celui-ci paie à son antagoniste.
+
 Le Trictrac à écrire, de même que le Piquet à écrire, est le véritable jeu de la bonne compagnie et des bons joueurs j il est plus intéressant que celui à la partie, et surtout beaucoup plus savant. On pourra voir dans la troisième Partie en quoi il est supérieur à l’autre.
+
+
 
 ## CHAPITRE VII. _Conclusion de lu première Partie._
 
+
+
 Je crois avoir démontré assez clairement tous les épisodes qui composent le jeu de Trictrac, en les faisant naître graduellement par suite des coups dont j’ai détaillé l’exécution. Cette méthode que j’ai suivie pour faire connaître le jeu, m’a paru préférable à celle de tous les auteurs qui ont écrit sur cette matière, laquelle consistait à définir avant d’avoir démontré. Au contraire, t’ai pensé qu’il fallait démontrer d’abord, et définir ensuite : c’est la manière des géomètres, et c’est la seule qui convienne à l’intelligence humaine. Il faut toujours, pour faire faire des progrès à un étudiant, en quelque genre que ce soit, mettre le concret avant l’abstrait ; et, pour le dire en passant ici, je ne trouve rien de plus opposé au bon sens, que la méthode avec laquelle on enseigne, depuis des siècles, le latin et les autres langues aux enfans. On commence par leur parler de _substantifs_ et de verbes avant de leur avoir fait concevoir le sens et la signification de ces mots. On leur présente l’abstrait avant le concret, ce qui est diamétralement opposé à la nature des opérations de l’entendement.
+
 Par cette raison, je me suis donné de garde de définir le grand Jan, le petit Jan, etc., avant d’avoir fait exécuter les coups. Je suis bien convaincu qu’un maître de Trictrac, ou toute autre personne qui enseignera ce jeu à quelqu’un, fera faire plus de progrès à son écolier (ou écolière) avec cette méthode qu’avec toute autre. Je ne sais s’il est nécessaire que je dise ici aux coinmençans que toutes les configurations épisodiques que j’ai analisées ne sont pas obligées, ne sont pas liées ensemble; que l’on n’est pas forcé de faire d’abord un Jan de six tables, puis un Jan de deux tables, puis un Jan de Mézéas, un plein de grand Jan, et enfin un Jan de retour ; que je ne les ai placées dans l’ordre qu’on a vu que par forme de cadre ; que l’on peut jouer long-tems sans faire des petits Jans, ni des Jans de Mézéas, ni des Jans de six ou de deux tables, et encore moins des Jans de retour; que la plupart des points que l’on gagne ou que l’on perd proviennent des batteries à faux ou à vrai ; qu’enfin il y a mêmes des épisodes qui s’excluent, tels que le Jan de six tables et celui de deux tables, qui ne peuvent être faits dans le même relevé, puisque lorsque l’on a six dames à bas, on ne peut avoir un Jan de Mézéas, qui ne veut que deux daines à bas, etc., etc.
+
 Je terminerai ce cbapitre et cette première partie par une courte explication sur la manière de marquer les trous.
+
 J’ai déjà dit que lorsqu’on était en bredouille on marquait les trous doubles, et que, dans le cas contraire, on ne les marquait que simples. Dépendant on a pu voir, dans le cours de mes démonstrations, que quoique Kermadeuc eût perdu la bredouille, il marquait des trous en bredouille. Mais quand cela lui arrivait - il ? Lorsqu’il avait 24 points à marquer. La bredouille ne se perd que pour le premier trou ; mais comme le premier trou ou les premiers 13 points que l’on marque effacent les points de l’adversaire, ceux que l’on prend ensuite doivent donc reprendre la bredouille. Lorsque Kermadeuc prenait 24 points sans interruption, après que j’en avais pris 4 ? 6, 8 ou 10, ou sans que j’en eusse pris, il était en bredouille et marquait quatre trous ; mais s’il les avait pris avec interruption, alors il marquait le premier trois, partie simple; et m’effaçant par ce premier trou, les 12 autres points et au-dessus reprenaient la bredouille.
+
 _Donc, lorsqu’on prend 24 points et au-dessus, il n’y a que les 12 premiers qui perdent la bredouille, et le reste la reprend, et l’on marque un trou de moins seulement de la quantité de trous qu’on eût marqué, si l’on eût eu la totalité de ses points en bredouille._
+
 Cette définition suffira donc pour faciliter aux commençans la manière de marquer lorsqu’ils auront 24 points et au-dessus.
+
 De là on peut se convaincre de l’inutilité, pour ne pas dire de la niaiserie, de cette table de trous à marquer dressée comme une table de Pythagore, que l’on trouve dans le traité de Damon et Cloris, lequel, par parenthèse, n’est qu’un fatras assommant et inintelligible.
 
 # DEUXIÈME PARTIE. DE L’ARITHMÉTIQUE DU TRICTRAC.
 
 Aucun des auteurs qui ont écrit sur le Trictrac n’a traité l’arithmétique de ce jeu d’une manière satisfaisante. Je vais y faire découvrir des routes qui leur étaient inconnues, qu’ignoraient totalement les joueurs d’autre fois, qu’ignore même encore l’immense majorité des joueurs d’aujourd’hui. La partie que je vais traiter est donc presque tout à fait neuve : c’est la plus importante de cet ouvrage, et celle qui doit mériter le plus l’attention des amateurs.
 
+
 ## CHAPITRE PREMIER. _Des combinaisons produites par deux dés._
 
-Supposons que l’un des deux dés avec les-, quels on joue soit rouge et l’autre noir : si l’on .compare chacun, des nombres inscrits sur le dé rouge avec chacun successivement de ceux inscrits sur le dé noir, on devra trouver autant de fois six combinaisons qu’il y a de nombres ou de laces sur ce dé rouge.
-En effet, je prends l’as rouge, et le joignant successivement à l’as noir, au 2 noir, au 3 noir, au 4 noir, au 5 noir et au 6 noir, j’ai As rouge et as noir, As rouge et 2 noir, As rouge et 3 noir. As rouge et 4 noir, As rouge et 5 noir, As x’ouge et 6 noir. Or, si après cela je prends le 2 rouge, et que je fasse la même opération ; si le 3 rouge ; si le 4 rouge, etc., il est évident que j’aurai pour le 2, le 3, le 4 j le 5 et le 6 rouges, cinq autres > fois autant de combinaisons que j’en viens de trouver avec l’as rouge. Donc j’aurai en tout six fois six combinaisons; donc il y a trente-six chances dans les coups produits par deux dés. Sur ces trente-six chances il y en a six où les nombres de chacune ne reparaissent dans aucune des cinq autres ; ce sont celles qui résultent de l’assemblage de deux nombres égaux du dé rouge et du dé noir, telles que, as et as, 2 et 2, etc. On les appèle des doublets, et elles ont six dénominations distinctes. Les trente autres chances ne prennent que
+Supposons que l’un des deux dés avec lesquels on joue soit rouge et l’autre noir : si l’on compare chacun des nombres inscrits sur le dé rouge avec chacun successivement de ceux inscrits sur le dé noir, on devra trouver autant de fois six combinaisons qu’il y a de nombres ou de laces sur ce dé rouge.
 
-COMBINAISONS DE DEUX DÉS. 6r quinze dénominations ; c’est-à-dire que les deux qui sont composées des mêmes nombres prennent une dénomination unique. Par exemple, as rouge et 2 noir, et 2 rouge et as noir sont composés de nombres transversalement égaux, puisqu’as rouge est égal à as noir, et 2 rouge à 2 noir. Ces deux chances doivent donc être énoncées d’une seule manière, en commençant par le plus grand nombre : ainsi as rouge et 2 noir, comme as noir et 2 rouge, prennent la dénomination de 2 et as, attendu qu’on ne joue jamais qu’avec des dés d’une même couleur. On voit, par conséquent, que les six doublets ne peuvent venir que d’une seule façon chacun, et qu’au contraire chacune des autres chances vient de deux façons ; car double as est unique, puisqu’il n’y a qu’un as dans chaque dé ; mais deux et as est double, puisqu’il se fait, soit par as rouge et 2 noir, soit par 2 noir et as rouge. De là cette vérité : que les coups à nombres égaux sont simples, et que les coups à nombres inégaux sont doubles. (1) Sur les trente-six chances que fournissent
+En effet, je prends l’as rouge, et le joignant successivement à l’as noir, au 2 noir, au 3 noir, au 4 noir, au 5 noir et au 6 noir, j’ai 
 
-(1) C’est donc encore une des mille et une niaiseries de l’auteur de l’ancien traité de JDatnon et Clons, lorsqu’il dit, que les coups simples sont doubles, et que les coups doubles sont simples. Deux et as n’est pas plus un coup simple, que bezet n'est un coup double.
+- As rouge et as noir,
+- As rouge et 2 noir,
+- As rouge et 3 noir,
+- As rouge et 4 noir,
+- As rouge et 5 noir,
+- As rouge et 6 noir.
 
-6à JEU DE TRICTRAC, deux dés, il y en a quinze dont le montant des nombres de chacune est au-dessous de sept ; six dont le montant est juste sept, et les quinze
+Or, si après cela je prends le 2 rouge, et que je fasse la même opération ; si le 3 rouge ; si le 4 rouge, etc., il est évident que j’aurai pour le 2, le 3, le 4, le 5 et le 6 rouges, cinq autres fois autant de combinaisons que j’en viens de trouver avec l’as rouge.
 
-autres au-dessus de sept.
+Donc j’aurai en tout six fois six combinaisons; donc il y a trente-six chances dans les coups produits par deux dés.
 
-2
+Sur ces trente-six chances il y en a six où les nombres de chacune ne reparaissent dans aucune des cinq autres ; ce sont celles qui résultent de l’assemblage de deux nombres égaux du dé rouge et du dé noir, telles que, as et as, 2 et 2, etc. On les appèle des doublets, et elles ont six dénominations distinctes.
 
-cli. 2 et as
+Les trente autres chances ne prennent que quinze dénominations ; c’est-à-dire que les deux qui sont composées des mêmes nombres prennent une dénomination unique. Par exemple, as rouge et 2 noir, et 2 rouge et as noir sont composés de nombres transversalement égaux, puisqu’as rouge est égal à as noir, et 2 rouge à 2 noir. Ces deux chances doivent donc être énoncées d’une seule manière, en commençant par le plus grand nombre : ainsi as rouge et 2 noir, comme as noir et 2 rouge, prennent la dénomination de _2 et as_, attendu qu’on ne joue jamais qu’avec des dés d’une même couleur.
 
-2 ch. 4 et
+On voit, par conséquent, que les six doublets ne peuvent venir que d’une seule façon chacun, et qu’au contraire chacune des autres chances vient de deux façons ; car double as est unique, puisqu’il n’y a qu’un as dans chaque dé ; mais deux et as est double, puisqu’il se fait, soit par as rouge et 2 noir, soit par 2 noir et as rouge.
 
-3
+De là cette vérité : _que les coups à nombres égaux sont simples, et que les coups à nombres inégaux sont doubles._ (c’est donc encore une des mille et une niaiseries de l’auteur de l’ancien traité de JDatnon et Clons, lorsqu’il dit, que les coups simples sont doubles, et que les coups doubles sont simples. Deux et as n’est pas plus un coup simple, que bezet n'est un coup double).
 
-2
+Sur les trente-six chances que fournissent deux dés, il y en a quinze dont le montant des nombres de chacune est au-dessous de sept ; six dont le montant est juste sept, et les quinze autres au-dessus de sept.
 
-ch. 5 et 3
 
-2
 
-3 et as
+|              |               |             |
+|------------- | ------------- | ------------|
+|2 ch. 2 et as | 2 ch. 4 et 3  | 2 ch. 5 et 3|
+|2 ch. 3 et as | 2 ch. 5 et 2  | 2 ch. 5 et 4|
+|2 ch. 3 et 2  | 2 ch. 6 et as | 2 ch. 6 et 2|
+|2 ch. 4 et as |               | 2 ch. 6 et 3|
+|2 ch. 4 et 2  |               | 2 ch. 6 et 4|
+|2 ch. 5 et as |               | 2 ch. 6 et 5|
+|1 ch. bezet   |               | 1 ch. carmes|
+|1 ch.double 2 |               | 1 ch. quine |
+|1 ch. terne   |               | 1 ch. sonnez|
+|------------- | ------------- | ------------|
+|15 chances    | 6 chances     | 15 chances  |
 
-2 5 et
-
-2
-
-2
-
-5 et 4
-
-2
-
-3 et a
-
-2 6 et
-
-as
-
-2
-
-6 et 2
-
-2
-
-4 et as
-
-2
-
-6 et 3
-
-2
-
-4 et 2
-
-2
-
-6 et 4
-
-2
-
-5 et as
-
-2
-
-6 et 5
-
-I
-
-bezet
-
-I
-
-carmes.
-
-I
-
-d>°. 2
-
-I
-
-quine.
-
-I
-
-terne
-
-I
-
-sonnez.
-
-l5
-
-chances.
-
-6 chances.
-
-i5 chances.
 
 Il suit, de cet exposé, qu’un nombre composé vient d’autant de façons qu’il y a de points moins un dans ce même nombre, lorsqu’il est de sept et au-dessous, et qu’au-dessus de sept il vient d’autant de façons moins de six, qu’il s’éloigne d’unités moins six de ce même nombre six, ainsi qu’il résulte de cette énumération ;
 
-NOMBRE DES CHANCES. 63
+- 2 vient une fois par bezet,
+- 3 deux fois par 2 et as,
+- 4 trois fois par 3 et as et double 2,
+- 5 quatre fois par 3 et 2 et 4 et as 
+- 6 cinq fois par 5 et as, 4 et 2 et terne,
+- 7 six fois par 4 et 3, 5 et 2 et 6 et as,
+- 8 cinq fois par 6 et 2, 5 et 3 et carmes,
+- 9 quatre fois par 5 et 4, et 6 et 3,
+- 10 trois fois par 6 et 4 et quine,
+- 11 deux fois par 6 et 5.
 
-2 vient une fois par bezet, 3 deux fois par 2 et as, 4 trois fois par 3 et as et double 2, 5 quatre fois par 3 et 2 et 4 et as > 6 cinq fois par 5 et as, 4 et 2 et terne, •j six fois par 4 et 3, 5 et 2 et 6 et as, 8 cinq fois par 6 et 2, 5 et 3 et carmes, 9 quatre fois par 5 et 4 j et 6 et 3, io trois fois par 6 et 4 et quine, il deux fois par 6 et 5. Le nombre composé sept, comme on voit, est donc celui qui vient le plus souvent. En outre, on peut remarquer, pour la curiosité seulement, qu’en additionnait le montant de toutes les chances au-dessous de sept, elles forment un total de 70 points, et celles au- dessus de sept de 1^0 points. Chances au-dessous de sept 7© points. Au-dessus de sept i4o De 7 4 2
+Le nombre composé sept, comme on voit, est donc celui qui vient le plus souvent. En outre, on peut remarquer, pour la curiosité seulement, qu’en additionnait le montant de toutes les chances au-dessous de sept, elles forment un total de 70 points, et celles au-dessus de sept de 140 points.
 
-Total .... 252 points.
+- Chances au-dessous de sept : 70 points.
+- au-dessus de sept : 140
+- de 7 : 42
+
+Total  252 points.
 
 Somme pareille à celle du tableau suivant :
 
 Tableau des trente-six chances, réduites à vingt-une dénominations.
+![Tableau des trente-six chances, réduites à vingt-une dénominations](table1.png)
 
-ROUGE.
+En effet, le montant des nombres inscrits sur les six faces du dé rouge, est de 21; celui des nombres du dé noir est aussi de 21. Or, les nombres de chacun étant répétés six fois réciproquement, donnent douze fois 21, ou 252. 
 
-HOIR.
+## CHAPITRE II. Des procédés qui font connaître les coups qui battent et qui remplissent quand on a un et deux dés directs.
 
-DENO MIN AT IO H.
+A présent que nous avons prouvé qu’il y a trente-six chances de dés, il reste à indiquer une manière sûre de trouver combien on a de coups pour ou contre soi, dans toutes les circonstances, telle qu’on n’ait pas besoin de calculer ni de compter sur ses doigts.
 
-I
+D’abord, s’il s’agit de savoir combien on a de coups pour battre une dame par un seul dé direct, je répondrai qu’il y en a onze.
 
-I
+Si j’ai, fig. 15, une dame découverte en Q et une en R, Kermadeuc a onze coups pour battre ma dame en Q par les 5, et onze pour battre celle en R par les 6.
 
-Bezet.
+Car il a onze chances par les 5, puisqu’il y a :
 
-2
+- 5 et as : 2 ch.
+- 5 et 2 : 2 
+- 5 et 3 : 2 
+- 5 et 4 : 2 
+- 6 et 5 : 2 
+- quine : 1
 
-2
+Total 11 ch.
 
-Double 2,
+Il en a de même onze pour battre par les 6, puisqu’il y a: 
 
-3
+- 6 et as : 2 ch.
+- 6 et 2 : 2 
+- 6 et 3 : 2 
+- 6 et 4 : 2 
+- 6 et 5 : 2
+- sonnez 1
 
-3
+Total 11 ch.
 
-Terne.
+Mais il s’agit de savoir combien il y a de coups pour battre la dame en Q par 5 et par 6, ou celle en P par 4, 5 et 6.
 
-4
+On n’a qu’à diminuer 2 points sur le nombre 11 pour le second nombre et 4 pour le troisième, et joindre le tout ensemble ; cela fait vingt coups pour les 5 et les 6, et vingt-sept coups pour les 4 y les 5 et les 6. Ce procédé est applicable à tous les nombres quelconques directs.
 
-4
+En effet, si Kermadeuc a les 5 et les 6 pour battre ma dame en Q par L et K de son grand Jan, il y a onze moyens par le 6, et neuf seulement par le 5, puisqu’il faut retrancher des vingt-deux moyens de ces deux nombres le 6 et 5 qui leur est commun, et qui est déjà employé pour deux moyens. S’il a les 4 > les 5 et les 6 pour battre ma dame en P par ses dames en L j K. et J de son grand Jan, il aura onze moyen par les 6 ; 9 par les 5, et 7 par les 4, puisqu’il faut retrancher des trente moyens de ces trois nombres le 6 et 5, le 6 et 4 et le 5 et 4 qui leur sont communs, et qui sont déjà employés pour six moyens.
 
-Carmes.
+_Procédé pour savoir combien on a de coups pour couvrir d'une façon une seule dame directe._
 
-5
+Kermadeuc n’a plus, pour faire son plein, qu’à couvrir la dame en K, fig. 16.
 
-5
+Supposons d’abord qu’il n’ait que les as en J, et nous supposerons ensuite qu’il n’ait que les 2, etc.
 
-Quine.
+Voici donc le raisonnement qu’il fera pour arriver au procédé qu’il doit employer pour connaître tout d’un coup combien il a de moyens pour remplir par un seul dé direct : Par l’as j’ai onze coups, car j’ai dix coups invariables, qui sont: 
 
-6
+- le 2 et as 
+- le 3 et as 
+- le 4 et as 
+- le 5 et as
+- et Le 6 et as 
 
-6
+A quoi j’ajoute le doublet.
 
-tonnez.
+Or, je trouve que cette somme de onze se trouve précisément dans le montant un du dé joint au montant dix des coups invariables. Par le 2 j’ai douze coups, car j’en ai de même dix d’invariables 7 qui sont : Le 2 et as Le 2 et 3 Le 2 et 4 Le 2 et 5 Le 2 et 6 À quoi j’ajoute le doublet. Plus j’ai le bezet qui entre dans le 2 comme composé, ce qui fait douze ; mais cette somme de douze se trouve précisément représentée par le montant deux du dé joint à dix, montant des coups invariables. Par le 3 : j’ai treize coups ; car outre les dix invariables et le doublet qui font onze, j’ai le 2 et as qui entre dans le 3 comme composé; ce qui fait treize ; mais cette somme se trouve précisément être le montant du dé joint à dix. Il en serait ainsi des autres nombres. Kermadeuc en conclut alors : que,pour savoir d’un coup-d’œil combien on a de coups pour couvrir une dame quand on a. un seul dé direct, on ajoute dix au montant de ce dé. Procédé pour deux dames directes. Supposons que Kermadeuc ait deux dames pour remplir. Voici comme il raisonne :
 
-i
 
-2
-
-, 2 et as
-
-2
-
-I
-
-I
-
-3 1
-
-L 3 et as
-
-3
-
-1 J
-
-r
-
-i 4
-
-4 }
-
-. 4 et as
-
-i 5
-
-1 1
-
-r. 5 et as
-
-i
-
-6 ’
-
-6
-
-x j
-
-6 et as
-
-2
-
-3
-
-• 5 et 2
-
-3
-
-2
-
-2 4
-
-4 2
-
-4 et 2
-
-2
-
-5 1
-
-5
-
-5 et 2
-
-2
-
-6 1
-
-6 et 2
-
-6
-
-2 I
-
-3 4
-
-4 3
-
-4 ct 3
-
-3
-
-5 1
-
-5 et 3
-
-5
-
-3
-
-3
-
-6 1
-
-6
-
-g 3
-
-6 et 3
-
-4 5
-
-5 1 4
-
-5 et 4
-
-4
-
-6 i
-
-.6 et 4
-
-6
-
-4 j
-
-5
-
-6 1
-
-6 et 5
-
-6
-
-5
-
-126
-
-126
-
-252
-
-DES COUPS POUR BATTRE. 65 En effet, le montant des nombres inscrits sur les six faces du dé rouge, est de 21; celui des nombres du dé noir est aussi de 21. Or, les nombres de chacun étant répétés six fois réciproquement, donnent douze fois 21, ou 252. A'VVUVWVVVWVVVVVVVVVVVVVVVVVirk*>VVVVVVVVVV\<VVl/VVl/VVVVVVVVVVVVVVVVV\'VV* CHAPITRE II. Des procédés qui font connaître les coups qui battent et qui remplissent quand on a un et deux dés directs.
-
-A présent que nous avons prouvé qu’il y a trente-six chances de dés, il reste à indiquer une manière sûre de trouver combien on a de coups pour ou contre soi, dans toutes les circonstances, telle qu’on n’ait pas besoin de calculer ni de compter sur ses doigts. D’abord, s’il s’agit de savoir combien on a de coups pour battre une dame par un seul dé direct, je répondrai qu’il y en a onze. Si j’ai, fig. i5, une dame découverte en Q et une en R, Kermadeuc a onze coups pour battre ma dame en Q par les 5, et onze pour battre celle en R par les 6.
-
-66 JEU DE TRICTRAC. Car il a onze chances par les 5, puisqu’il y a ;, 5 et as 2 ch. 5 et 2 2 5 et 3 2 5 et 4 a 6 et 5 2 et quine i h ch. Il en a de même onze pour battre par les 6, puisqu’il y a: 6 et as 2 ch. 6 et 2 2 6 et 3 2 6 et 4 a 6 et 5 2 sonnez i ii ch. Mais il s’agit de savoir combien il y a de coups pour battre la dame en Q par 5 et par 6, ou celle en P par 4> 5 et 6. On n’a qu’à diminuer 2 points sur le nombre 11 pour le second nombre et 4 pour le troisième, et joindre le tout ensemble ; cela fait vingt coups pour les 5 et les 6, et vingt - sept coups pour les 4 y les 5 et les 6. Ce procédé est applicable à tous les nombres quelconques directs. En effet, si Kermadeuc a les 5 et les 6 pour battre ma dame en Q par L et K de son grand Jan, il y a onze moyens par le 6, et neuf seu-
-
-NOMBRE DE COUPS POUR UNE DAME. $7 lemçnt par le 5, puisqu’il faut retrancher des vingt-deux moyens de ces deux nombres le 6 et 5 qui leur est commun, et qui est déjà employé pour deux moyens. S’il a les 4 > les 5 et les 6 pour battre ma dame en P par ses dames en L j K. et J de son grand Jan, il aura onze moyen par les 6 ; 9 par les 5, et 7 par les 4 > puisqu’il faut retrancher des trente moyens de ces trois nombres le 6 et 5, le 6 et 4 et le 5 et 4 qui leur sont communs, et qui sont déjà employés pour six moyens. Procédé pour savoir combien on a de coups pour couvrir d 'une façon une seule dame directe. Kermadeuc n’a plus, pour faire son plein, qu’à couvrir la dame en K, fig. 16. Supposons d’abord qu’il n’ait que les as en J, et nous supposerons ensuite qu’il n’ait que les 2, etc. Voici donc le raisonnement qu’il fera pour arriver au procédé qu’il doit employer pour connaître tout d’un coup combien il a de moyens pour remplir par un seul dé direct : Par l’as j’ai onze coups, car j’ai dix coups invariables ? qui sont: Le 2 et as Le 3 et as Le 4 et as . Le $ et as Et Le 6 et as A quoi j’ajoute le doublet. j
-
-63 JEU DE TRICTRAC. Or, je trouve que cette somme de onze se trouve précisément dans le montant un du dé joint au montant dix des coups invariables. Par le 2 j’ai douze coups, car j’en ai de même dix d’invariables 7 qui sont : Le 2 et as Le 2 et 3 Le 2 et 4 Le 2 et 5 Le 2 et 6 À quoi j’ajoute le doublet. Plus j’ai le bezet qui entre dans le 2 comme composé, ce qui fait douze ; mais cette somme de douze se trouve précisément représentée par le montant deux du dé joint à dix, montant des coups invariables. Par le 3 : j’ai treize coups ; car outre les dix invariables et le doublet qui font onze, j’ai le 2 et as qui entre dans le 3 comme composé; ce qui fait treize ; mais cette somme se trouve précisément être le montant du dé joint à dix. Il en serait ainsi des autres nombres. Kermadeuc en conclut alors : que,pour savoir d’un coup-d’œil combien on a de coups pour couvrir une dame quand on a. un seul dé direct, on ajoute dix au montant de ce dé. Procédé pour deux dames directes. Supposons que Kermadeuc ait deux dames pour remplir. Voici comme il raisonne :
 
 NOMBRE DE COUPS TOUR DEUX DAMES. 69
 
+
+
 Si j’ai les 2 et les as, par exemple, j’ai vingt coups, car on vient de voir qu’il y a pour un seul dé direct dix chances invariables.
+
+
 
 J’ai donc ici pour le 2
 
+
+
 2 et as 3 et 2
+
+
 
 6 et 2
 
+
+
 Et pour l’as
 
+
+
 2 et as 3 et as 4 et as 5 et as 6 et as
+
+
 
 Mais la combinaison 2 et as se trouve commune aux deux nombres ; il faut donc la distraire des chances de chacun : alors il ne me restera que huit coups pour les as, et huit pour les 2, ou seize coups qui sont invariables ; à quoi, ajoutant les deux coups de 2 et as, j’ai dix-huit coups pour les deux doublets qui font vingt. Or, cette somme de vingt se trouve précisément dans le montant des deux dés 1 et 2 ajouté aux seize coups invariables, plus un point d’augmentation. Si j’ai les 3 et les as, j’ai encore vingt coups pour couvrir, car l’as me donne :
 
+
+
 2 et as 3 et as 4 et as 5 et as 6 et as
+
+
 
 70 JEU DE TRICTRAC. Et le 3 3 et as 3 et 2 3 et 4 3 et 5 3 et 6 Mais la Combinaison 3 et as se trouvant dans l’une et l’autre de ces énumérations, il faut l’en distraire, et il ne restera que huit coups pour les as, et huit pour les 3, ou seize coups invariables ; à quoi ajoutant les deux coups de 3 et as, j’ai dix-huit coups, plus les deux doublets; en tout vingt coups. Or, cette somme de vingt se trôuve précisément dans le montant des deux dés as et 3, ajouté à 16, montant de leurs coups invariables. Si j ’ai as et 4 ? j’ai vingt-un coups pour couvrir, car l’as me donne 2 et as 3 et as 4 et as 5 et as 6 et as Et le 4 4 et as 4 et 2 4 et 3 4 et 5 4 et 6 Mais la combinaison 4 et as se trouvant dans l’une et l’autre énumérations, je l’en distrais, et il ne me reste en tout, que seize coups inya-
 
+
+
 1
+
+
 
 NOMBRE DE COUPS POUR DEUX DAMES. 7*
 
+
+
 r/ables ; à quoi ajoutant ies deux coups de 4 et 1, j’ai dix-liuit, plus les deux doublets ; ce qui fait vingt, plus le double 2, qui entre dans le 4 comme nombre composé ; en tout viîïgt-ün. Or cette somme de vingt-un se trouve précisément dans le montant des deux dés 4 et as, ajouté à seize, montant de leurs coups invariables. Si j’ai 4 et 2, j’ai vingt-trois coups, car Le 2 me donne 2 et 1 Le 4 redonne 4 et as
+
+
 
 3 et 2 4 et 2 5 et 2 6 et 2
 
+
+
 4 et 2 4 et 3 4 et 5 4 et 6
+
+
 
 Mais je déduis la combinaison 4 et 2, qui se
 
+
+
 trouve des deux côtés, et il me reste toujours seize coups invariables, qui, avec les deux coups de 4 et 2 et les deux doublets, font 20 ; plus bezet qui entre dans le 2 comme composé, et 2 et as qui entre dans le 4 aussi comme composé ; trois coups de plus : en tout 23 coups. Or, cette somme de 23 se trouve précisément dans le montant des dés, ajouté a 16 montant de leurs coups invariables f plus un point d’augmentation. La même démonstration appliquée aux autres nombres, produirait les mêmes résultats. Kermadeuc en conclut donc : que, pour savoir d’un coup d’œil combien Von a de coups pour couvrir d’une seule façon une dame, quand
+
+
 
 rja. JEU DE TRICTRAC. ou a deux dés directs, il faut ajouter iG au montant de. ces deux des étaugmenter le total d'un point, lorsque le moindre dé est la moitié du plus fort. Ainsi, Kermadeuc veut savoir combien il a de coups pour couvrir, ayant Pas direct, il dit(x) : io + i = ii coups. S’il a le 6: io -f- 6 = 16 S’il a deux dés directs, tels que le 2 et le 6, il dit : 16 -f- 2 -f- 6 = 24 coups. S’il a le 3 et le 6 : i6 + 3-f-6 + X = 26.
 
+
+
 (1) Désormais, pour abréger, je vais employer les signes algébriques ordinaires. -J- signifie plus ; ^ multi~ plier par.... —moins == est égal à X, dé signera le point d’augmentation que je regarde comme l’in- conque.,?quoo ■ liioJ na : a_.-q '• c ;üi>> ( r
+
+
 
 NOMBRE DE COUPS POUR 3 DAMES. 7.3
 
+
+
 AM*V\AMVVVVVVVVVVV%'VV*VV^*'VVVVVW\VV\'VVYVVWV%V*VVV\**A>V*'VVWVVVVt CHAPITRE III.,,UJ'{ t axpjo*) Jiorf-xib Des procédés pour connaître les coups qui battent et remplissent par plus de dcuoC dés.
+
+
 
 Procédé pour trois dames directes. • - ■ ■ ; \ '*• *> y •'» i * * I" j ^ Voici comme Kermadeuc raisonnerait dans le cas où il aurait trois dames pour couvrir. Si par exemple j’ai les as, les 2 et les 3, j’ai vingt-sept coups pour couvrir ; car, L’as me donne 2 et as.Le 2 me donne 2 et as
 
+
+
 3 et 2 4 et 2 Z 5 et 2 6 et 2
+
+
 
 3 et as 4 et as 5 et as 6 et as Le 3 me donne 3 et as 3 et 2 4 et 3 5 et 3 6 et 3 Mais la combinaison 2 et as se trouve dans les deux premières énumérations ; celle 3 et as dans la première et dans la troisième, et la combinaison 3 et 2 se trouve dans les deux dernières. Jeu de Trictrac. 4
 
+
+
 «es dm di A
+
+
 
 I Bld J
 
+
+
 74 JEU DE TRICTRAC. Il ne me reste donc que trois combinaisons dans chaque énumération, qui ne se retrouvent pas dans les deux autres : ces neuf combinaisons produisent dix-huit coups invariables. A ces dix-huit coups, j’en ajoute six autres pour le 2 et as, le 3 et as et le 3 et 2, et j’ai alors vingt- quatre coups, à quoi j’ajoute les trois doublets d’as, de 2 et de 3 ; en tout vingt-sept coups. Or, cette somme égale le montant des trois dés, plus celui dix-huit des coups invariables, en y ajoutant deux unités. Si j’ai les as, les 2 et les 5, j’aurai encore vingt-sept coups pour couvrir, car j’ai dix-huit coups invariables, auxquels en ajoutant six pour le 2 et as, le 5 et as et le 5 et 2, j’ai vingt- quatre, plus les trois doublets; en tout vingt- sept coups. Or, cette somme de vingt - sept égale le montant des trois dés, plus celui dix- huit en y ajoutant une unité. Si j’ai les as, les 3 et les 4 > j’ai vingt - huit coups pour couvrir, car j’en ai dix-huit d’invariables, auxquels ajoutant six autres et les trois doublets, cela me fait vingt-sept coups, plus le double 2 qui entre comme composé dans le 4* En tout vingt-huit coups, Or, cette somme égale le montant des trois dés, plus celui dix-huit en y ajoutant 2 points. Si j’ai les 4 ^ les 5 et les 6, j’ai trente-trois coups pour, couvrir ; car, aux dix-huit coups invariables, j’ajoute six coups, plus les trois
+
+
 
 NOMBRE DE COUPS POUR 3 DAMES. 7 5 doublets; ce qui fait vingt-sept, à quoi j’ajoute encore : trois pour le double 2 et le 3 et as qui entrent comme composés dans le 4 ; deux pour le 3 et 2, qui entre de même dans le 5, et un pour le terne, qui entre aussi de même dans le 6; total trente-trois coups. Or, cette somme égale précisément le montant des trois dés joint à dix-buit de leurs invariables. Kermad'euc, en continuant le même raisonnement pour d’autres nombres, trouverait les mêmes résultats. Mais puisque dans le premier cas où il a l’as, le 2 et le 3 dont l’as est moitié du 2, et Pas et le 2— 3, il est obligé d’augmenter de trois unités le montant des dés et des coups invariables ; puisque dans le deuxième cas où il a l’as, le 2 et le 4 5 dont Pas est moitié du 2 et le 2 du 4, il est obligé d’augmenter de deux unités les mêmes montants ; puisque dans le troisième cas où il a les as, les 2 et les 5, où Pas est moitié du 2, il est obligé de les augmenter d’une unité; enfin puisque dans le quatrième cas où il a les as, les 3 et les 4 > il est obligé de les augmenter de deux, il conclut que : Fout' savoir d’un coup-d’œil combien on a de coups pour couvrir d’une seule façon une dame quand on a trois dés directs, il faut ajouter dix- huit au montant de ces trois dés, et augmenter ce total d’un point pour chaque dé qui est la moitié d'un autre, et de deux points, lorsque
 
+
+
 -G JEU DE TRICTRAC. ii les deux plus petits de ces dés égalent le troi* sicme. Procédé pour quatre dames directes. Lorsqu’on a pour couvrir quatre dés directs, I on ajoute leur montant à seize, en augmentant d’une unité pour chaque nombre qui est la moitié d’un autre, et de deux pour chaque égalité de deux nombres à un autre. Mais il est plus court de chercher les dés que l’on a contre soi, et de les déduire sur les trente-six chances. Par exemple, si Kermadeuc a, fig. 17, les as, les 2, les 4 et les 6 pour remplir en G, il voit aisément qu’il n’a contre lui qne le 5 et 3 et le quine, qui font trois coups. Donc, il est clair qu’il a trente-trois coups pour lui. /V)^ - VX'X'%/V1<W*^'V\'VVWVWVWWV\*'V\A'VVV\rt/WWV\ CHAPITRE IV. Procédé pour savoir combien on a de coups pour remplir de deux façons. Ce procédé-ci est encore moins connu que ceux que je viens d’indiquer; et quoique l’utilité en soit d’un moins fréquent usageelle esfc peut-être d’une plus grande importance.
+
+
 
 V
 
+
+
 COUPS POUR REMPLIR DE 2 FAÇONS. 77 Il n'est pas difficile à Kermadeuc de savoir lorsqu’il n’a que deux dés directs, qu’il ne peut couvrir de deux façons que par trois ou quatre moyens. Par trois moyens, lorsque le petit dé est la moitié du gros, tel que 6 et 3, où il n’a que terne et 6 et 3 ; par quatre moyens, avec deux autres dés, tels que 5 et 4 > où il a 5 et 4, et 4 et as. Mais s’il a trois dés directs, voici le raisonnement qu’il doit faire pour arriver à un procédé qui lui indique rapidement combien de moyens il a pour lui : Si j’ai le 4, le 5 et le 6, j’ai douze coups pour couvrir de deux façons, car, * Le 4 et le 5 se combinant ensemble donnent 4 et as 5 et 4 quatre coups,. Le 6, sç combinant avec le 4 ? donne 6 et 4 4 et 2 Encore quatre coups. Le 6, se combinant avec le 5, donne 6 et 5 5 et as Encore quatre coups. Total douze coups.
+
+
 
 JEU DE TRICTRAC. Si j’ai le 3, le 5 et le 6, j’ai onze coups, càr, Le 3 et le 5, se combinant ensemble donnent 3 et 2 5 et 3
 
+
+
 quatre coups. Le 6, se combinant avec le 3, donne . 6 et 3 terne.
+
+
 
 Le 6, se combinant avec le 5 donne
 
+
+
 trois coups. 6 et 5 5 et as
+
+
 
 quatre coups* Total onze coups. Si j’ai l’as, le 2 et le 4 ? j’ai dix coups, car, L’as et le 2 donnent trois coups. Le 4, combiné avec l’as quatre coups. Et avec le 2 trois coups.
 
+
+
 Total dix coups. Si j’ai l’as, le 5 et le 6, j’ai huit coups, car, L’as et le 5 donnent quatre coups. Le 6, se combinant avec l’as, quatre id. Et avec le 5 quatre id. Mais le 5 et as se trouvant dans les trois énumérations il n’y a de réel que les quatre chances :
+
+
 
 COUPS POUR REMPLIR DE a FAÇONS. 79 4 et as 5 et as 6 et as 6 et 5 Qui font huit coups. Si j’ai les 2, les 4 et les 6, j’ai sept coups, car, Le 2 et le 4 donnent trois coups. Le 6, combiné au 2, donne quatre id. Et combiné au 4 quatre id. Mais le 4 et 2 se trouvant dans ces trois énu- xnéralîons, il n’y a de réel que les chances 4 et 2 6 et 2 6 et 4 et double 2 Qui font un total de sept coups. Si l’on continuait par les autres nombres, on aurait les mêmes résultats. Or, il est évident, d’après la première démonstration, que trois dés directs ne peuvent jamais donner plus de douze coups pour remplir de deux façons ; D’ap rès la deuxième et la troisième, que lorsqu’un des trois dés est la moitié de l’autre, on n’a que onze ou dix coups ; D’après la quatrième / que lorsque les deux moindres dés égalent le plus fort, on 11’a que huit coups ; Enfin, d’après la cinquième que lorsque
 
+
+
 8o JEU DE TRICTRAC, l’un des trois dés est la moitié de Pautrc, et que les deux plus petits égalent le plus gros, on n’a que sept coups. Donc, pour connaître la quantité- de coups que l’on a pour couvrir de deux façons avec trois dés directs, on prend 12 pour maximum, et l’on diminue de ce nombre un point pour chaque dé qui se Trouve être la moitié d'un autre, et 4 points pour Végalité en somme des deux moindres dés avec le plus fort. Procédé pour quatre dames directes. La démonstration est la même pour quatre dames directes, et il en résulte : que pour trouver combien on a de coups dans ce cas, on diminue du nombre 24 un point pour chaque dé qui se trouve être la moitié d'un autre, et 4 points pour l’égalité en somme de deux dés à un seul. Pour récapituler ce qui vient d’être démontré dans ces deux cliapitres, je suppose que Ker- anadeuc veuille savoir d’abord combien il a de coups pour couvrir par trois dés directs, et qu’il ait, par exemple, le 4> le 5 et le 6. H dit : 18 + 5 + 4 H* 6. = 33 S’il a le 2, le 4 et le 6, Il dit : 18 -f- 2 + 4 + 6 ocxx — 33 S’il a le 3, le 4 et le 6, Il dit : 18 -f- 3 4- 4 + 6 + x — 82 S’il a le 3, le 6 et l’as IL dit : 18 + 1 + 5 + 6 xx— 32, etc.
+
+
 
 NOMBRE DE COUPS POUR 4 DAMES. 81 Veut-il connaître combien il a de coups pour remplir de deux façons par trois dames directes? si par exemple il a le 3, le 4 et le 5, il conclut qu’il a douze coups,, puisqu’aucun de ces des n’est diviseur de l’autre, ni égal aux deux autres» S’il a le 3, le 4 et le 6, Il dit : 12 — x — h S’il a l’as, le 3 et le 4 > Il dit : 12 — xxxx — 8 S’il a l’as, le 2 et le 3, Il dit : i 2 — x — xxxx = q > etc» Quant à la manière de connaître combien on a de coups pour remplir de trois façons, je ne l’exposerai pas ici *, elle est tout à fait inutile, puisqu’il n’y a rien de si simple à voir sans calcul.
 
+
+
 * ' * ‘‘VVVVVWVVVVVVVWWW VWVW VW W> WVwwwtrvwwvi^^i/VVUVtWVM'VW CHAPITRE V. De divers procédés pour d’autres positions• Si, outré les nombres directs, ou a encore des nombres indirects pour remplir, il ne serait pas difficile de savoir combien on a de coups pour soi. Par exemple, si Rermadeuc avait pour cou •* vrir sa dame en JS, fig. i8 ; une dame de sur- » 4»
+
+
 
 ■8* JEU DE TRICTRAC, case en I et une simple en F, il saurait dabord qu’il a vingt-trois coups par les 2 et les 5 puisque, 5 -J- 2 + 16 = 23; Ensuite il verrait qu’il a le 4 et 3 et le 6 et as de D en R, puis le carmes de G en R, ce qui ferait : 5-J-2 + i6-l-4 - i"i = 28. Mais moi, son adversaire, qui n’ai, pour couvrir en N que des dames indirectes en U, (V, X et Y, il m’est facile de déterminer les coups que j’ai pour moi. Nous avons vu, au chapitre i er ., que le 7 vient de six façons 7 le 8 de 5, etc. Alors je raisonne ainsi : Par le nombre composé de 7 j’ai 6 coups. Par celui de 8 5 Par celui de 9 4 Par celui de 10 3 Donc j’ai dix-huit coups pour couvrir par les quatre dames indirectes en U, V, X et Y. Si je n’avais que le 7, le 9 et le 10, je dirais : J’ai par le 7 6 coups. Par le 9 4 Par le 10 3 73 Donc j’ai treize coups. J’opérerais de même dans toutes les positions analogues.
 
+
+
 COUPS POUR BATTRE LE COIN. 85
+
+
 
 Trouver le nombre des coups que l’on a pour battre le coin de l’adversaire. Kermadeuc veut savoir combien il a de coups pour battre mon coin M par les cases G, H et ï, fig, 19. Voici ce que je lui dis : Carrez le nombre des cases que vous avez, et le produit sera le nombre de coups que vous aurez ; mais ici vous avez trois cases : or, multipliant trois par trois, vou6 aurez neuf, qui est précisément le nombre de coups par lequel vous battez le coin. En effet, la case G combinée avec la Case I donne 6 et 4 > La case H avec celle G donne G et 5 ; Et celle I avec celle II donne 5 et 4* Ce qui fait deux coups pour chacune, auxquels, ajoutant leurs doublets, on a eu tout neuf coups. Si Pon avait quatre cases pour battre, on aurait 4x4=: 16; car, chacune des 4 cases, se combinant avec une des autres, donnerait trois coups, plus son doublet. Si Pon avait pour battre seulement dès flèches sur lesquelles il n’y eût qu’une dame, on diminuerait, du carié du nombre de ces flèches, un point pour chacune. Par exemple, fig. 6, on a J, I, Li, G, F pour battre le coin : eh ! bien
 
+
+
 84 JÊtT DE TRICTRAC, on a douze coups ; car, du carré de quatre, il faut ôter quatre pour les quatre doublets qui manquent, puisqu’il n’y a qu’une demi-case sur chaque flèche. Il faut pourtant que je fasse observer ici que le coin n’est pas admis au nombre des cases qui battent le coin opposé; car, pour qu’il le batte par un as, il faut qu’il s’y trouve une dame en surcase, et, par bezet, deux dames. Donc, pour savoir combien on a de coups pour battre le coin de son adversaire, il faut carrer le nombre des flèches sur lesquelles on a des dames, son coin 7ion compris, et dimi- iiuer du produit un point pour chaque demi- case, s’il y en a. On fait le même raisonnement dans le cas où l’on voudrait savoir combien on a de coups pour remplir d’emblée, c’esl-à-dire lorsqu’on a le plein moins une case entière. Ceci me mène à indiquer, en passant, la manière de savoir combien on a de coups pour ne pas passer le coin au Jan de retour. Si, fig. i3, je n’avais plus rien dans mon grand Jan, Kermadeuc ne pourrait pas passer son coin s’il amenait des as, parce que, soit que j’aie mon coin, soit que je ne l’aie plus, il ne peut jouer une dame de son coin par un as. Il aurait donc alors onze coups contre lui pour ne pas passer son coin. Si j’étais encore en H,
+
+
 
 COUPS POUR ETRE BATTU A FAUX. 85 il aurait vingt coups contre lui. Si en outre j’étais en O, il aurait vingt-sept coups. En effet, quand on ne peut passer le coin par les aâ, on a onze coups contre, puisque les as donnent onze chances ; quand on ne peut le passer par les as et les 2, l’adversaire ayant encore une dame en J, on a vingt coups contre, car les 2 donnent encore onze combinaisons, dont il faut déduire le deux et as, qui se trouve déjà dans les coups de l’as. Le reste peut se deviner facilement. Savoir combien on a de coups pour être battu à faux. Lorsque Kermadeuc est arrivé au plein du grand Jan, fig. 20, il veut savoir combien il a de coups pour être battu à faux dans son petit Jan. Je lui réponds que pour être battu à faux en F, il a vingt-un coups ; en E quinze coups, et en D dix coups. En effet, puisqu’étant en F on a le point de 7 pour être battu à faux, on a vingt-un coups, car nous avons vu, au chapitre i cr ., que sur les trente-six chances produites par les dés, il y en a quinze dont le montant de chacune est au- dessus de 7, et six dont le montant est juste 7. D’après cela, on n’en a que quinze en E, qui est immédiatement après 7, on n’en a que dix en D, etc.
 
+
+
 86 JEU DE TRICTRAC. On peut voir par là qu’étant en F, en D et en E on a, pour être battu à faux en F et en E j tous les coups qui battent en D, c’est-à-dire que lorsque l’adversaire amène le point de io, ©n a trois dames battues à faux. S’il restait quelques autres détails à donner sur l’arithmétique du jeu, ils seraient trop peu importails pour que j’en parlasse. C’est bien assez de ces cinq chapitres et des calculs qu’ils contiennent : ils ont assez de sécheresse, sans que j’en augmente encore la longueur. Je crains que les dames qui veulent savoir le Trictrac ne s’impatientent, en me lisant, de toutes ces démonstrations qu’elles trouveront peut-être trop abstraites, quoiqu’elles soient loin de l’être autant que l’algèbre ; mais je leur en demande pardon : si elles veulent savoir le jeu à fond, il faut bien qu’elles en étudient les secrets comme les hommes. Je désii’erais de tout mon cœur leur rendre celte étude plus facile ; mais cela ne m’a pas été possible. J’aurais pu, à la vérité, m’arrêter à l’indication des moyens, sans en expliquer les motifs, semblable à ces instituteurs primaires qui enseignent à des enfans les quatre règles de l’arithmétique sans leur en démontrer les principes. Mais je fais trop de cas du lecteur pour ne pas le mettre à même de connaître, comme moi, sur quoi sont fondés les procédés que je donne ; je
+
+
 
 COUPS DIVERS. 87 veux qu’on en sache le pourquoi. D’ailleurs si j’ai employé la rigueur mathématique, c’est pour qu’il ne reste aucun doute sur leur exactitude. Je me tairai sur la part de mérite que je puis avoir dans la découverte de ces mêmes procédés.
 
+
+
 JÜpXlU > »!
+
+
 
 iüOl-; vJi-î ‘■i
 
+
+
 » ‘muai < îttoon ; S'il). > j t ioj ‘j. iij]- •n'uplo.qi aiJao ? ; _ «io^ >èpDt f p uviîitt i-i
+
+
 
 «Kfl 9Ï J29 9n: Ji
 
+
+
 TROISIÈME PARTIE.
+
+
 
 DES PRINCIPES QUI CONSTITUENT L’ART DE BIEN JOUER.
 
+
+
 \w\v\ Ïje Trictrac est un jeu où le hasard joue un grand rôle ; on pourrait même dire qu’il en fait le fond. Cependant la marche de ce jeu est si compliquée, et les chances de ce hasard sont si multipliées, que la théorie en est longue est difficile à saisir. Tome la science du Trictrac roule sur la connaissance parfaite des probabilités auxquelles donnent lieu les trente-six chances des dés ; connaissance assez étendue, qui ne peut être appliquée à la pratique que par des principes dont l’exécution soit sure et invariable. On peut pourtant, perdre encore, même en jouant tout le jeu contre quelqu’un qui le joue très-mal. Mais, si cela arrive quelquefois, il est impossible que ce soit d’une durée bien prolongée : le joueur supérieur l’emporte à la longue. Est-il étonnant, au surplus, qu’il en soit ainsi dans un jeu dont la base est le hasard, tel que celui-ci ? Mais encore un coup ? un
+
+
 
 PRINCIPES POUR RIEN JOUER. 89 joueur habile corrige la fortune, et comme le dit Térence : Ita <vita est hominum quasi cùm ludas tesseris, si illud quod maxime opus est jactu, non cadit ; illud quod ac- ciditf id arte ut corrigus. « lia -vie tles hommes est comme un jeu de dés : si la v chance dont -vous avez le plus besoin n’arrive pas, cor- j> rigez habilement celle qui est arrivée. » Le secret du Trictrac consiste donc à suivre la méthode de conduite la plus conforme aux probabilités; et c’est de cette méthode que je vais exposer les principaux erre mens. Je ne dirai pas qu’après avoir lu cet ouvrage, on puisse devenir aussi fort qu’il soit possible : la pratique constante et la grande habitude peuvent seules faire arriver à la perfection; mais au moins je donnerai des principes qui pourront guider ceux qui apprennent le jeu, et qu’ils appliqueront eux-mêmes dans toutes les positions. Je vais donc, pour ainsi dire, donner la clé de ce jeu, clé que les forts joueurs d’aujourd’hui ont grand soin de cacher. Je me rappelé qu’étant dansune de cessociétés où se réunissent un grand nombre d’hommes pour faire de grosses parties, un de ces joueurs qui ne jouent que pour gagner, et qui spéculent sur la faiblesse des uns et des autres, me tira à l’écart pour me faire des reproches de ce que j’avais, en regardant jouer au Trictrac, fait des obser-
 
+
+
 qo JEU DE TRICTRAC, vations au plus faible sur les fautes qu’il faisait, observations qui tendaient à lui donner les grandes notions du jeu. Il me trouvait bien imprudent d’éclairer ainsi un ignorant : il fallait, si je l’en croyais, le laisser s’instruire lui-mêtne, à ses dépens, comme il avait fait, lui, jadis. Il n’y avait pas de raison, suivant lui, pour épargner ainsi à une mazett.c, c’est son expression, la longueur et les frais de l’apprentissage. Il ne servirait de rien d’avoir passé du tems et des veilles, de s’être absorbé dans les méditations pendant tant d’années, si cette mazéttc, avec des avis trop salutaires, arrivait en quinze jours de tems à la perfection ; enfin, que c’était nuire aux bons joueurs et aller contre l’intérêt commun, que de dévoiler ainsi les secrets du métier. Il me cita Fontenelle qui a dit, que lors même que sa main serait pleine de vérités, il ne l’ouvrirait pas, et il finit par ce vers : Les sols sont ici-bas pour nos menus plaisirs. Tout cela était dit d’un sérieux à faire mourir de rire, et je fus tenté de le prendre pour un fou. Pourtant, je lui répondis en riant que je ne partageais pas cette opinion enfantée par l’égoïsme et la spéculation qui veut que l’on cache aux autres des vérités dont on veut fane 6eul son profit ; que je désirerais, au contraire, que tons les hommes en sussent autant les uns
+
+
 
 P
 
+
+
 PRINCIPES POUR BIEN JOUER. 91 que les autres, afin que nul d’eux ne fût la dupe d’un plus rusé, et que pour moi, j’étais si philantropique de caractère, que je ne pouvais me défendre du penchant d’enseigner à mes semblables ce qu’ils ne savent pas. D’ailleurs, je le rassurai en lui faisant sentir que tous mes avis ne serviraient pas de grand - chose à la mazeite qui n’aurait pas d’aptitude naturelle à devenir forte, qui n’aurait pas reçu du ciel l’influence secrète. Cette réponse le consola, et termina cet entretien comico-pliilosophico-bur- lesque. Le plus grand obstacle qu’éprouvent les personnes qui n’ont pas l’habitude du jeu de Trictrac, est tout entier dans le coup d’œil. Il n’y a pas de jeu où il soit aussi difficile à saisir. Un novice, quand il a un certain nombre de dames abattues, ne sait plus laquelle jouer, et, faute de savoir à quoi se déterminer, prend souvent la dame qu’il ne doit pas prendre. Il est certain pourtant qu’au Trictrac, comme aux Dames ou aux Echecs, il n’y a pas deux façons de bien jouer un coup. Que l’on ne croie donc pas que les grands joueurs ne soient pas d’accord entre eux sur la manière de jouer, de même que deux médecins sur une maladie. Le Trictrac est un peu moins conjectural que la médecine, et si deux joueurs, qui passent pour très-forts, ne sont pas du même avis sur un coup, vous pouvez croire hardiment que l’un
+
+
 
 j 4
 
+
+
 JEU DE TRICTRAC. des deux se trompe, ou ne mérite pas le renom de fort ; car, les réputations de joueurs ressemblent aux réputations de littérateurs, et à bien d’autres : il en est beaucoup de mal fondées. C’est donc un axiome essentiel dont il importe que je démontre la vérité, et que je dois établir ici, avant d’entrer en matière : qu’il n’y a pas deux façons de bien jouer un coup au Trictrac ; que rien ne doit y être donné au caprice, et que, pour le bien jouer, il faut suivre invariablement les principes de conduite qui résultent de la théorie du calcul des probabilités particulières a ce jeu• Certes, ce calcul de probabilités est plus étendu qu’on ne pense, et il y a un si grand nombre de positions au Trictrac, que celui qui prétendrait que ce jeu n’est pas au-dessus du Domino ou du Réver sis ; que même il n’est pas supérieur au Piquet, et qu’il ne vient pas directement après les Echecs et les Dames, se tromperait étrangement, et ne connaîtrait ni la conduite ni les finesses de ce jeu. Je vais donc développer, par ordre numérique, successivement tous les principes du jeu, à-peu-près dans l’ordre des positions auxquelles ils appartiennent; et je mettrai sans doute, par là, les étudians à même de se faire au coup- d’œil qu’il exige, en les familiarisant avec ses finesses.
+
+
 
 PRINCIPES SUR LE CA SEMENT.
 
+
+
 IJtUftLlrr.5 oUli LJb LAMl.MJb]\T. cp l\\U'UWA VVV VVAV VVWIAl'\'W\VV\*/V\*/W%/VWW\ Vt^VTVXA'VVX VVVVVVX/\/\ WA VV5 CHAPITRE P R E AI 1 E Pu Principes généraux sur le casement.
+
+
 
 1. Lorsque vous jouez le premier coup de clé, mettez tout-à-bas (i). 2. Lorsque vous jouez le second coup, si vous amenez le point de 9 ou de 10, jouez tout d’une, si votre adversaire n’a encore des dames que dans son petit, Jan $ afin que de cette dame ainsi avancée vous puissiez le battre plus vite et l’empêcher de faire son petit Jan ou d’en profiter. 3. La dixième case qui se fait sur la flèche K ; fig. 1, est bonne à faire dans les premiers coups, parce qu’elle empêche souvent votre adversaire de faire son petit Jan, l’oblige à se cod- vrir, trouble singulièrement son jeu, et l’empêche
 
+
+
 (1) Je sais que les anciens auteurs donnent, comme un principe incontestable, de jouer tout d’une au premier coup, quand on amène un point au-dessus de 6 ; mais c’est une faute grave, car, en jouant ainsi, on s’ôte tout à-la-fois le moyen de faire un petit Jan ou un Jan de six tables, l’on a une dame de moins à bas, et I’oh n’est pas sur de couvrir de sitôt celle qui est ayancce.
+
+
 
 JEU DE TRICTRAC. aussi de s’étendre et de faire des demi-cases qui pourraient lui coûter un ou plusieurs trous ; elle est bonne égalementlorsque votre adversaire a son coin, et que vous n’avez pas le vôtre. Faites-Ia donc la première dans ce cas, et comme case d’observation, ainsi qu’on la nomme (x). Il ne faut pas appauvrir votre jeu pour cela, et lorsque vous êtes le plus avancé, évitez-la au contraire, parce qu’elle étrangle le jeu, le serre, rend les quines pernicieux à jouer, augmente les chances qui vous font battre votre adversaire à faux, vous donne une mauvaise position, et vous mène à la perte d’une partie. C’est la case la plus avantageuse à la fois et la plus dangereuse. 4-. La case F, dite le coin bourgeois, est essentielle à faire lorsque votre adversaire a son coin, parce que vous vous donnez par là des 6 pour faire le vôtre, lesquels autrement gâteraient votre jeu ; mais quand vous avez votre coin fait, il faut éviter de la surcharger de dames, parce qu’elle appauvrit et serre le jeu. 5. La case en Ii est appelée la case du
 
+
+
 (i) On l’appelle vulgairement la Travanais, parce que le marquis de Travanais, qui était fort au Trictrac, fut le premier qui s’avisa, malgré l’ancien préjugé, de la faire de préférence dans beaucoup de cas, et qu’elle lui fît gagner beaucoup d’argent. Les anciens avaient encore pour principe de ne la faire que la dernière ; ils l’appelaient la c.asç de Vécolier- } mais ils en exagéraient les inconvéniens.
+
+
 
 PRINCIPES SUR LE CASEMENT. 9 5 diable, parce qu’elle est très-difficile à faire à la fin : il faut donc chercher à la faire de préférence, à moins qu’on n’ait assez de dames étalées dans son petit Jan pour la faire à volonté. 6. Si, après les deux premières dames jouées, vous amenez un gros dé, passez ces deux dames dans votre grand Jan, soit de manière a faire des demi-cases, si votre adversaire est éloigné, soit à faire une case, s’il est trop proche. La raison en est, que vous vous mettez, en jouant ainsi, à même, ou de Lattre les deux coins et les dames découvertes de votre adversaire, ou de prendre votre coin le premier, 7. Si vous passez, au second coup, les deux premières darnes jouées dans le grand Jan, jouez-les de manière à ce qu’il y ait une ou plusieurs flèches de distance entre elles : il y a plus d’avantage ainsi, qu’en les plaçant sans intervalle l’une à côté de l’autre. En effet, les deux dames en T:I et J, fig, 4> ont le 5 et 3 et le 4 et 2, pour battre les deux coins. Mais si elles étaient en I et J, elles n’auraient que le 4 et 2 et le terne ; donc, il y a un coup de plus dans la première position. 8. Si vous jouez les deux premiers coups avec deux dames seulement que vous passez dans le grand Jan, n’en jouez pas un troisième avec ces mêmes (James -, c’est perdre du temps et négliger l’occasion d’abattre du bois»
 
+
+
 *
+
+
 
 g6 JEU DE TRICTRAC. 9. Passez, le plus que vous pourrez, les daines de votre petit Jan dans le grand Jnn, surtout dans le commencement, afin de prendre promptement votre coin et de faire le plus de cases possibles; cependant, il ne faut pas vous découvrir trop, ni vous faire battre trop facilement, surtout si votre adversaire à 4,6,8, ou 10 points. 10. Le grand principe, inconnu des joueurs d’autrefois, et qui rend le jeu moderne si supérieur au jeu ancien, c’çst de s’avancer et de s’étendre. Avancez-vous, étendez-vous tant que vous pourrez : il n’y a pas de jeu plus dangereux que celui qui s’avance, qui s’avance continuellement. Faites beaucoup de demi-cases et de revirades (1) ; ce système, inconnu aux anciens, est le plus avantageux. Un jeu serré et timide est le plus mauvais de tous les jeux ; c’est là un des plus grands secrets du Trictrac. 11. Ne craignez donc point de vous faire battre ! ce sont les lâches et les peureux qui, au Trictrac comme à la guerre, sont battus. IL faut de l’audace dans l’un comme dans l’autre.
 
+
+
 (1) La revirade consiste à faire une case sur une flèche vide avec des dames prises sur des cases déjà faites, et qui laissent une ou deux dames à découvert. Les anciens étaient si timides, qu’ils osaient rarement es faire. Un joueur du vieux lems se serait oru perdu s’il en eût hasardé une, ou fait une demi-case.
+
+
 
 PRINCIPES POUR BIEN JOUER. 97 Un joueur hardi déconcerte toujours un joueur pusillanime ; trop de prudence fait perdre. 12. Cependant, il ne faut pas abuser de ces dernières maximes ; d’abord, avant que d’avancer son jeu, il faut abattre du bois, tant dans le grand que dans le petit Jan : ce serait une sottise que de faire des cases avec des cases : ce serait vivre de soi-même, si l’on peut s’exprimer ainsi ; on ne peut pas se faire un beau jeu si l’on n’a pas de bois, et il ne faut pas se presser follement d’avancer son jeu sans avoir rien pour l’alimenter (1). Abattre du bois, voilà donc encore un des grands principes du Trictrac. 13. Mais quand on a assez de bois d’abattu, il faut s’avancer de nouveau. Si vous mettez trop de dames à bas, vous useriez, vous raccourciriez votre jeu. 14. De plus* il ne faut ni s’avancer, ni s’étendre sans nécessité. Il ne faut pas s’exposer à se faire battre par un trop grand nombre de coups, ni donner un trou mal-à-propos, ni perdre le fruit d’une belle position. La prudence doit dans le jeu, comme dans la vie humaine, tempérer la hardiesse. D’ailleurs, la hardiesse
 
+
+
 (1) On ferait la même faute qu'un général qui enverrait toujours un corps détaché à une distance de son armée principale trop grande pour pouvoir en être soutenu. Jeu de Trictrac. 5
+
+
 
 9 8 JEU DE TRICTRAC. mêrae^ comme la prudence, est soumise att calcul : c’est par calcul qu’il faut avancer. 15. Le plus grand secret du Trictrac, celui qui est inconnu à presque tous les joueurs, même du tems actuel, c’est l’arithmétique dont j’ai ci-devant développé la théorie. On peut bien jouer, sans doute, sans la connaître; mais on joue encore mieux quand on la connaît. 16. Pour apprendre le fond du jeu de Trictrac, il faut donc, aussitôt qu’on en sait la marcheuse pénétrer de mon arithmétique, et l’appliquer à tous les coups. Je garantis au joueur qui emploira ce moyen, qu’il fera des progrès quatre fois plus rapides que d’autres, qui le joueront long-tems avant de raisonner leurs coups. i -j. Donc, pour Lien jouer après cinq ou six leçons, il faut s’armer de l’arithmétique du jeu, et prendre pour maxime perpétuelle d’examiner à chaque instant combien on a de coups pour, et combien contre, d’après la connaissance des trente-six chances du dé (t).
 
+
+
 (i) Il n’y a rien de plus ridicule que cette opinion répandue dans le vulgaire des joueurs de Trictrac, que ceux qui calculent ce jeu le jouent moins bien que les autres. Cela est aussi absurde que si l’on disait qu’on peut relever une côte ou arpenter un pays sans avoir de notion de la géométrie. Comment se passer du calcul dans un jeu qui n’est fondé que sur le calcul ?
+
+
 
 PRINCIPES POUR BIEN JOUER. 99 ï8. Il ne faut point vous amuser à retenir les dés passés que vous avez amenés et qu’a amenés votre joueur, ni baser sur ce souvenir votre manière de jouer. Par exemple, s’il a amené six fois de suite des 6, six fois des 5, etc., ne lui donnez point à battre par les 6 et les 5, dans l’idée qu’il n’en amènera plus. Toutes les lois du calcul des probabilités prouvent qu’il n’y a pas de raison pour qu’une quantité qui a paru vingt fois de suite ne reparaisse encore une vingt-unièine. Elle n’est pas plus épuisée au vingtième qu’au premier coup (1). 1 g. On ne doit essayer un petit Jan que lorsqu’on amène des petits dés, c’est-à-dire, des as, des 2 et des 3. Si l’on répète les 3, les 4 et les 5, il faut passer vite dans le grand Jan. 20. Lorsqu’on essaye un petit Jan, il ne faut pas se presser de faire les dernières cases D, E, F, fig. i rB * Jouez les as et les 2 que vous amenez comme ils sont venus, parce que vous pouvez, avec d’autres as et d’autres 2, faire les
 
+
+
 (i)C’est en quoi consistela folie des misérables qui ont le malheur de jouer des jeux monstrueux, tels que la Roulette et le Trente - Un. Us sont toujours à épier les sorties des couleurs, s’imaginant follement qu’ils vont gagner en jouant sur la noire, après avoir vu passer six ou huit coups à la rouge. Us fabriquent des martingales infaillibles qu’ils jouent avec une précision risible, et dont le succès est si immanquable, qu’il va les conduire tout droit...... à Ix rivière.
+
+
 
 JO O
 
+
+
 JEU DE TRICTRAC.
+
+
 
 i ies . cases B et C, car s’il vous venait ensuite des 3 et des 4 > ce serait des dames perdues pour votre petit Jau. 21. Le Jan de six tatles ne s’essaye que dans le seul cas où l’on a commencé par de petits dés, car si l’on a commencé par des gros, il est mieux de jouer dans le grand Jan pour avancer.
 
+
+
 fl*VVVW VVWrtV1/VVVVVWVlVVVVVVW/WVV\WVWWMVV\MiVVVivVMrtW/VVVVV^
+
+
 
 CHAPITRE II.
 
+
+
 Des diverses positions du jeu.
+
+
 
 Il y a au Trictrac, comme aux échecs et aux dames, une multitude incalculable de positions, c’est-à-dire, de configurations de dames casées sur les flèches, d’après les nombres amenés par les dés* Il serait donc impossible des les énumérer et de les analyser. Je vais simplement faire des observations générales sur toutes, et des observations particulières sur les principales, sur celles qui se reproduisent le plus souvent. 22. Pour bien jouer le Trictrac, il vous faut avoir sans cesse égard d’abord à votre position, ensuite à celle de votre adversaire, les comparer ensemble et vous comporter en conséquence. Je ne peux donc pas yous dire : jouez
 
+
+
 DES DIVERSES POSITIONS. ici de telle ou telle façon dans tous les cas, parce que telle façon, qui est bonne dans un cas, est mauvaise dans un autre. C’est donc à vous d’apprécier l’état du jeu de part et d’autre, et de vous livrer aux considérations qui résultent d’un pareil examen. D’ailleurs, la manière de jouer dépend de la circonstance où l’on se trouve, du plus ou moins de points qu’a l’adversaire, et de l’état plus ou moins avancé ou retardé de son jeu. 2 3. En conséquence, vous ne devez pas jouer pour le dernier trou d’une partie comme pour le premier. 24. Il ne faut pas craindre de perdre un trou on deux lorsqu’il s’agit d’éviter une mauvaise position ou d’en prendre une bonne. 25. Il faut, pour essayer une position, que le dé se déclare d’une manière analogue, et il faut y renoncer dès que le dé la contrarie. 26. Il faut éviter surtout lorsqu’on n’a ni le coin bourgeois, ni le coin de repos, et que l’adversaire a le sien, d’empiler sur la case du 6 en R, fig. 19, parce que l’on a à craindre la répétition des 6. 27. Evitez d’avoir une position telle qu’outre votre coin, vous ayez la dixième, la huitième et la septième cases faites, ou les cases en H, I, K, fig. 21., lorsque vous n’avez pas de bois d’abattu, ou que vous avez des dames sur la cinquième case en F.Le moyen, c’est de ne point
+
+
 
 io2 JEU DE TRICTRAC, faire la case dixième en K, si elle ne l’était point dès le commencement. Ce serait bien pis si vous aviez des dames en surcharge sur la case du 6, ou sur la case du diable, comme dans le jeu opposé de la même fîg. (i). Alors vous êtes exposé à Venfilade (2J. 28. Evitez la position telle qu’ayant votre coin vous ayez les sixième, huitième et neuvième cases faites, ou les cases en J, I et G, fîg. 22, et point de bois à bas, ou seulement sur la troisième case enD; car si vous amenez des 3 et des 6 et 3 dans cette position, vous courrez risque de perdre votre jeu, et d’être enfilé. En effet, ayant le coin et la case en J faits, vous avez le quart des nombres produits par les dés occupés; de J en G encore un autre quart; de G en D, le troisième quart, et de D au talon le quatrième quart; ce qui partage les deux régions du Trictrac de 3 en 6, de 6 en 9, et 9 en 12; or, comme ces quantités sont diviseurs communs par quart des trente-six chances, elles viennent le plus souvent; donc on a contre
 
+
+
 (1) On appelé cela un jeu en Arbalète. (2) Une enfilade est une série de mauvais dés résultant «l'une mauvaise position qui, vous mettant dans l’impossibilité de jouer vos dames et vous forçant à relever, laisse votre adversaire prendre une quantité de trous. Alors on est enfilé. Cette expression a passé dans le monde et dans le «tile familier.
+
+
 
 DES DIVERSES POSITIONS. io3 soi successivement un quart des coups à chaque fois consécutive qu’on amène des 3 ou des 6, ou des 6 et 3. (i) 29. Encore un des grands secrets du jeu, c’est de faire des sacrifices pour sortir d’une mauvaise position, et de préférer perdre plusieurs trous plutôt que de s’exposer à perdre la partie. Ce qui caractérise un joueur inhabile, c’est de défendre avec entêtement un trou au commencement ou au milieu d’une partie. 30. Donc il vaut mieux, pour prévenir un plus grand mal, mettre plusieurs dames dedans, c’est-à-dire, à découvert dans le grand Jan : par là on risque moins de serrer son jeu, ou d’être enfilé avec perte de 6, 8, 12, 20 ou 3o points. 31. Lorsque vous amenez un sonnez, un 6 et 5, un quine, ou tout autre gros dé, et que vous avez déjà une de ces mauvaises positions dont je viens de parler, ou quelqu’autre pire, il faut, s’il y a ouverture dans le jeu de l’adversaire, passer une dame dans votre petit Jan, plutôt que de remonter en surcharge dans votre grand Jan celles qui sont encore dans votre petit Jan, et qui sont votre seule ressource. 82. Lorsque vous cherchez à faire votre plein
 
+
+
 (1) Le 6 et 3 est appelé, par sobriquet, 6 et 3 Venjileur t à cause du mauvais eQct qn'il produit dans le jeu.
+
+
 
 îo4 JEU DE TRICTRAC, dans le grand Jan, il faut vous hâter de mettre dedans le premier, on pour mieux dire, de placer une dame sur la flèche vide qui vous reste, afin de remplir le premier, à moins que votre adversaire, ayant des dés directs pour battre cette dame, n’ait déjà 8 ou io points. 33. Lors même que votre adversaire aurait 8 ou io points,il faudrait encore mettre dedans, au risque de perdre le trou, si son jeu était long, et que le vôtre fût court et usé. Un coup de retard pourrait vous faire perdre la partie. 34" Lors encore que votre adversaire aurait mis lui-même dedans, et, qui plus est, aurait fait son plein, ce serait encore votre jeu de mettre dedans pour le forcer à s’en aller, après avoir pris le trou. 35. Lorsque vous avez mis une dame dedans par l’un des deux dés que vous avez amenés, et qu’il vous reste à en jouer une autre, vous l’abattez du talon, ou vous l’avancez d’une flèche sur l’aptre, de maniéré à vous donner le plus de moyens possible de remplir, en vous servant de la méthode que j’ai indiquée chap. 3,4 et 5 de l’Arithmétique. 11 n’est pas indifférent de choisir, entre plusieurs manières de jouer qui se présentent, celle qui vous donne le plus de moyens de remplir. Ainsi,vous ferez mieux, par exemple, de jouer de manière à avoir les 6, les 4 et 2, qui donnent trente-trois coups pour rem-
 
+
+
 ■HH
+
+
 
 DES DIVERSES POSITIONS. icS plir que les 6, les 4 et les as qui n’en donnent que vingt-neuf. 36. Ce que je viens de dire est subordonne aux circonstances, aux points dont vous avez besoin. S’il ne vous faut que 4 points, jouez de manière à avoir le plus grand nombre de moyens de remplir d’une seule façon ; s’il vous faut 8 points, alors il vaut mieux Vous ôter des moyens de remplir d’une façon pour augmenter ceux qui font remplir de deux façons. Ainsi, dans l’exemple précédent, où 6,4 et ? donnent trente-trois moyens, et 6, 4 et as vingt-neuf seulement, il faut se donner6,4 et as de préférence, quoiqu’ils diminuent les moyens de remplir, si l’on a besoin de 8 points ; car, 6, 4 et as donnent douze moyens de remplir de deux façons, et 6, 4 et 2 > se P l seulement, ainsi que je l’ai démontré, chapitre 4 de la deuxième Partie (î).
 
+
+
 (il Cela seul démontre la fausseté de ces sophistes igno- •rans, qui prétendent qu’on peut jouer bien sans connaître l'arithmétique ; car il est évident qu’avec le tact ou le coup- d’œil seul on ne peut pas discerner ce que je prouve ici. Sans doute les circonstances où il faut employer ces procédés arrivent rarement; mais il suffit d’une fois, de temps à autre, pour faire perdre celui qui les ignore totalement. Il en est de cela comme de cette vérité, dont ceux qui ne connaissent pas la géométrie ne se doutent pas : qu’entre deux surfaces planes, celles dont les côtés sont doubles de l’autre a une superficie quadruple.
+
+
 
 mS JEU DE TRICTRAC.
 
+
+
 Donc, puisqu’on n’aurait pas atteint son but en multipliant les moyens pour 4 points, il faut prendre de préférence la manière qui multiplie les moyens pour 8. 37. Lorsque votre adversaire n’a pas son coin et que votre jeu commence à s’user, pour éviter la mauvaise position où vous seriez s’il venait a le prendre, jouez, si le dé le permet, une dame en surcase sur votre coin, afin de battre le sien par les as et de prendre plus vite le trou. 38. Une des premières finesses du Trictrac, consiste a se faire battre à faux. C’est une attention qu’il faut avoié en casant et abattant du bois, et lorsqu’ayant fait le plein du grand Jan on a besoin de points pour arriver au trou. 39. Il faut pourtant éviter de vous faire battre a faux lorsque vous avez 8 ou 10 points, car, vous vous feriez renvoyer, c’est-à-dire, qu’on Vous forcerait de prendre le trou -, alors, vous ne seriez plus maître du jeu, et vous ne pourriez plus vous en aller. Evitez donc de recevoir le trou, afin d’être plus à même de le reprendre. 40. Si vous n’avez pas votre coin, et que votre adversaire ait le sien, votre principale ressource doit être d’abord d’avancer tant que vous pouvez en revirant des cases supérieures sur les inférieures ; ensuite de vous faire battre à faux sur les cases en B, C et D, en fermant
+
+
 
 DES DIVERSES POSITIONS. 307 les passages dans votre grand Jan en G, H, I et J, fig. 2 3. 4-i. Lorsque vous jouez une dame dans le petit Jan, ne vous embarrassez pas qu’elle puisse être battue à vrai, si elle peut l’être à faux, et qu’il vous importe moins de perdre un trou que d’en gagner un. 4^- A plus forte raison faut-il jouer une dame découverte dans votre petit Jan, lorsque, pour deux coups, par lesquels elle sera battue à vrai, il y en quatre ou cinq par lesquels elle sera battue à faux. 43. Si vous êtes au dernier trou d’une partie, cherchez à vous faire battre à faux, ce qui vous donne gain plutôt, et ne craignez pas d’étendre votre jeu. Il ne faut pas jouer serré sur une fin de partie. 44- Si,, ayant votre plein fait, et ayant tenu, vous avez intérêt d’arriver plus vite aux 12 points, et qu’il vous faille 4 points, placez vous dans le petit Jan, de manière à ce que, par rapport aux cases vides de votre adversaire, vous ayez le plus de coups possible pour vous faire battre à faux sur une seule dame. Alors, c’est ordinairement sur la flèche proche de la case en F qu’il faut mettre une clame à découvert ; mais, s’il vous faut 8 ou 12 points, pour empêcher votre adversaire de prendre le trou avant vous, préférez de diminuer vos moyens d’être battu à faux d’une seule clame,
 
+
+
 * io$ JEU DE TRICTRAC, pour en étaler plusieurs. Dans ce cas, il vaut mieux n’avoir, par exemple, que 9 coups qui Luttent 2 ou 3 dames à la fois, que quinze qui en battraient une seule, par la même raison que vous devez préférer les moyens qui remplissent de deux façons, à ceux qui ne remplissent. que d’une seule. 45. Lorsque votre adversaire ne joue plus que pour un ou deux trous, qu’il a 10 points, et que vous n’avez pas votre coin ; lorsqu’enfin votre partie est désespérée, n’hésitez pas à vous avancer, et sur-tout à vous faire Laure à faux, lors même que vous seriez exposé à être battu à vrai. En pareil cas, c’est une duperie de s’amuser à défendre une partie : il faut la regarder comme perdue et tout risquer; dans une situation désespérée, il faut employer des moyens désespérés. J’ai vu des joueurs faire leur coin ou mettre dedans, en faisant la revirade, de manière a laisser une dame découverte sur la flèche dixième en K, fig. 9,16 ou 1 B, où il n’y avait absolument que bezet pour eux, et cela' leur réussissait, leur adversaire amenant effectivement bezet, qui battait à faux cette dame en K. 46. Evitez de prendre cette position qui consiste à avoir, fig. 24, les cases C, E, G, I, K, faites ; c’est une des plus pernicieuses (1). Elle
+
+
 
 (1) On l'appelé vulgairement ; Margot la mal fendue.
 
-mm
+
 
 mm
+
+
+
+mm
+
+
 
 ■
 
+
+
 rnmrnmm
+
+
 
 DES DIVERSES POSITIONS. 109 est bien diiférente de la position de l’autre jeu, même fig. qui est avantageuse (1) 47. Tâchez aussi de ne point faire de préfé- férence les dernières cases en N, O, P, fig. 22, lors même que vous n’avez point le coin, à moins que vous n’ayez du bois en U et en V (2); mais, si vous n’en avez pas, il ne faut que deux ou trois 5 et 4j quines ou carmes, pour vous faire perdre la partie la plus avancée. 48. Lorsque le jeu de votre adversaire est usé, et que ses trois dames surnuméraires s’empilent sur O, N, M, ne vous laissez (fig. 10) pas battre à faux dans votre petit Jan, et passez tout dans le grand, parce que, le 6ne se jouant pas en pareille position, si vous en amenez, vous tiendrez plus long-tems. 4q- Dans le cours du jeu, ayez toujours l’attention de ne pas mettre contre vous les dés carres. ( On appelle ainsi tous ceux à nombre pairs. Au contraire, ayez toujours le soin d’en avoir à jouer de directs et de composés. La raison en est que les dés pointus (on appelle ainsi les dés impairs) se trouvent dans les carrés ait lieu que les carrés, ne se trouvent pas dans les pointus. 5o. D’où il suit qu’on doit toujours se donner
 
+
+
 (1) On appèle colle-ci : Margot la bienJeiulue. (2) Cela s’appèle : brider son chenal par la qncue.
+
+
 
 110
 
+
+
 JEU DE TRICTRAC, les six de préférence, soit pour caser, soit pour remplir; mais quand on peut se donner des 6 &t des 5, des pairs et des impairs, c’est encore mieux.
+
+
 
 A'VVVVVVVV*/VVVVVVVVVVVVVV\<VVVVVVVVVVVVVVVVVVVVVVV«/VVVVVVV\'\'VVVV\/VVVUW% CHAPITRE III.
 
+
+
 Sur les tenues, le Jcin de retour et autres.
+
+
 
 51. La partie la plus difficile du Trictrac, c’est les tenues.. Voilà absolument l’écueil des joueurs faibles ou médiocres ; il y faut mettre tant de bon sens qu’on pourrait avancer, sans absurdité, qu’un homme qui a l’esprit faux ne pourra jamais bien jouer le Trictrac à cause des tenues. 52. Un grand principe au Trictrac est donc de considérer, lorsqu’on fait une tenue, s’il y a plus à perdre qu’à gagner ; et, pour cela, il faut examiner le jeu de son adversaire et le comparer au sien. Si votre adversaire a un jeu retardé, ne tenez point, à moins que vous ne jouiez pour un trou ou deux : rien n’est plus dangereux qu’un jeu retardé. Vous n’avez qu’à battre à faux votre adversaire et lui donner le trou, voilà votre jeu tout-à-fait usé., et il n’y a pas de raison pour qu’il ne prenne vingt trous
 
+
+
 III
+
+
 
 DES TENUES, de suite, puisque, lorsqu’il a encore le tiers de son bois dans son petit Jan, vous vous retroussez déjà sur J, K, L. 53. Donc, il faut pour tenir, avoir un jeu long, c’est à dire avoir des dames encore au talon, ou non loin; 21 points à jouer, voilà le nombre de rigueur pour motiver une tenue. Ainsi, on peut encore tenir lorsqu’on a ses trois dames excédantes en D, E, F, fig. 20 (1). 54* Cependant, il ne faut pas vous laisser séduire par ces 21 points, 1 orque le jeu de votre adversaire est arriéré, soit que vous jouiez pour un trou ou pour beaucoup : je le répète, rien n’est aussi à craindre qu’un jeu arriéré. 55. Si vous avez une partie désespérée, c’est- à-dire, si vous n’avez qu’un trou, ou point, et que votre adversaire en ait dix ou onze, risquez une tenue, même avec moins de 21 points, pour peu que vous ayez une ou deux dames à faire battre à faux, et que son jeu soit avancé. La raison de cela est qu’il n’y a de ressource pour celui qui est en perte, que dans les fins de relevés, quand on est près d’un Jan de retour. C’est ordinairement lorsque les deux jeux sont dans cet état, qu’il survient le plus d’événemens avantageux. Le moindre désastre qu’éprouve
 
+
+
 (1) On appèle cela, je ne sais pourquoi, la rôtie du major.,
+
+
 
 JÎ2
 
+
+
 JEU DE TRICTRAC, votre adversaire, par l’arrivée d’un sonnez oit d’un quine, suffit pour lui faire perdre une partie. 56. Pour faire une tenue à propos, il ne faut donc considérer que le nombre de points que vous avez à jouer et qu’a votre adversaire. Si vous avez quelque avantage sur lui, ne manquez \pas d’en profiter. 5^. Ainsi, si dans le commencement d’un relevé vous avez plus de cases que lui, c’est encore un avantage ; mais si l’un a plus de cases et l’autre plus de bois, en même proportion, l’un compense l’autre, et il n’est pas nécessaire de tenir. 58. Rarement on peut prendre plus de 12 points à un petit Jan, à moins qu’ayant amené des as et des 2, on n’ait encore de quoi tenir trois fois, ce qui suppose qu’on a 18 ou 20 points à jouer pour conserver, autrement il faut s’en aller. 5g. Il existe, à ce jeu, un vieil adage, qui dit qu'on ne fait jamais de faute à s’en aller. Cela est vrai jusqu’à un certain point; et, en effet, on perd plus par des tenues imprudentes, qu’en s’en allant par trop de prudence. Cependant, il est nuisible de s’en aller trop facilement; et le joueur timide perd à la longue autant que le joueur téméraire. Il faut donc que ce soit le calcul arithmétique du jeu qui guide votre jugement pour savoir si vous devez ou ne devez
+
+
 
 DES TENUES. u3 pas tenir. Jouer d’instinct ou de pressentiment, c’est jouer en petit joueur. 60. Lorsqu’on a un marqué au Trictrac à écrire, ou, pour mieux dire, lorsqu’on est arrivé à six trous, il faut s’en aller, lors même qu’on pourrait en prendre quelques-uns de plus; car un trou ou deux, ou plus, n’ajoutent que quelques jetons en votre faveur, et vous pouvez perdre le marqué. 61. Le marqué, c’est la principale chose à ce genre de partie, plutôt que le nombre de points. 62. Lorsque votre adversaire n’a pas de trous, et que par conséquent il peut prendre le pavillon, gardez-vous de tenir sans avoir un jeu sûr; car, pour gagner un trou ou deux, vous courriez risque de l’enfilade, en petite, en grande, même en octuple bredouille. 63. Ce qui rend le Trictrac à écrire plus difficile que l’autre, c’est que les tenues y sont plus dangereuses et mènent plus loin. Il n’est donc excusable de tenir, avec un jeu douteux, que lorsqu’on n’a point le pavillon à craindre, ou lorsqu’on l’a soi même et qu’on ne joue que pour un trou. 64» En jouant le Trictrac à écrire, lorsque vous voulez savoir si vous devez tenir, examinez mûrement si vous avez plus à perdre qu’à gagner; si, par exemple, après être arrivé à six trous en bredouille, vous avez encore beau jeu
 
+
+
 Il 4 JEU DE TRICTRAC, pour tenter la grande bredouille, et que votre adversaire ait un jeu trop passé pour vous gagner le marqué, restez, parce que le pis qui puisse vous arriver, c’est de perdre le pavillon; mais en le perdant, vous ne perdez que moitié de ce que vous avez acquis; et, si vous arrivez au but, vous pouvez gagner le double. Donc, vous ne risquez qu’un contre deux; donc, c’est votre jeu de tenir. 65. Dans toutes les positions du jeu, il faut toujours éviter de donner à votre adversaire les coups qu’il n’a pas. S’il né peut pas jouer les sixne les lui donnez pas à battre; s’il a mis dedans, et qti’il n’ait pour remplir que des dés pointus, évitez de lui en donner de quarrés à battre, car alors il n’aurait plus de chances contraires. D’ailleurs, c’est la quantité de points qu’a votre adversaire et sa position qui doivent vous guider. 66. Lorsque votre adversaire amène de mauvais dés qui gâtent son jeu, gardez vous bien de lui rien laisser battre ou de mettre dedans, si cela peut lui donner des coups pour prendre le trou ; il le faut laisser se consumer lui-même et user son jeu. 67. Le Jan de retour est ce qu’il y a au Trictrac déplus difficile à jouer. Dans les autres épisodes, tels que le petit et le grand Jan, le dé peut réparer une faute ou un coup qui
+
+
 
 s
 
+
+
 BU JAN DE RETOUR. ïi5 n’est pas joué exactement; mais ici une faute demeure : il n’y a pas un coup d’indifférent. G8. Ce qui est important au Jan de retour, c’est de passer le coin à propos. Si vous aspirez à une grande bredouille, passez-le le plus vile possible, lorsque vous n’avez plus que deux cases, ou que votre adversaire n’en a plus que deux lui - même ; à moins qu’il n’ait six ou huit points, auquel cas il ne faut pas vous presser de le passer, si ce n’est pour ne pas gâter votre jeu. 69. Principe général au Jan de retour : si votre adversaire a plus de dames passées dans votre petit Jan que vous dans le sien, tâchez de lui interdire long - temps le passage, pour le forcer à perdre des dames dans voire petit Jan. Si au contraire, vous êtes plus avancé que lui, retroussez promptement, sans vous embarrasser de lui fermer un passage. Vous perdriez un temps précieux que vous devez employer à courir au plein. 70. Lorsque vous êtes prés de faire un Jan de retour, obstinez vous, aussi long-temps que possible, à tenir vos passages fermés en G, H, I, fig. 11, en ne relevant qu’une dame ou deux de ces cases ; parce que votre adversaire, ne pouvant pas passer, perd beaucoup de points, par les impuissances, sans compter ceux qu’il peut vous donner en yous battant à fau?.
+
+
 
 x i JEU DE TRICTRAC. 71. Si voire adversaire a, fig. 25, ses trois dames surnuméraires, ou seulement deux relevées sur M, et que vous ameniez un terne, un carmes, un 4 et 3, ou tout autre dé moyen, relevez votre case Ii sur les autres, afin que, s’il amène un 6, il ne puisse plus tenir par impuissance, et qu’il soit obligé de rompre en N. C’est sur-tout lorsqu’il a relevé 2 ou 3 de ces cases que cette manière de jouer lui est pernicieuse, parce qu’il est souvent obligé de laisser, pendant deux ou trois coups, cette dame découverte qui lui fait perdre beaucoup de points, et l’empêche de garder ses trois cases M, Tï, O. 72. Il est un principe général pour le Jan de retour, c’est de tâcher de conserver vos trois dernières cases J, K, L, ou M, N, O. Elles sont le salut de votre jeu, s’il est retardé par de mauvais dés; elles seules peuvent vous sauver et détruire le jeu de votre adversaire. ^3. Une des grandes finesses du Trictrac, c’est que lorsque vous êtes dans un Jan de retour, et que votre adversaire a un jeu très-long, il ne faut pas vous amuser à lui tenir les passages * fermés en H et en I : il faut retrousser, autant que le dé le permet, et empiler sur J la neuvième case, parce que, cette case étant ainsi garnie, s’il vient des 2, on peut les jouer sans se rompre et sans diminuer par conséquent les trois cases qui sont votre dernière ressource. 74- Lorsque votre adversaire vous ferme le
 
+
+
 DU JA N DE RETOUR. u 7 passage chez lui par ses trois ou ses quatre cases M, N, O, ou M, N, O, P, il faut caser dans son petit Jan, pour le plein du Jau de retour, sur les flèches S, T, V, de préférence et principalement sur celle S ; car, si vous casez sur les dernières ex sur celle Y, vous raccourcissez votre jeu, et vous risquez de perdre une ou deux dames que vous êtes obligé de jouer par de gros dés. 7 5. C’est le bon jeu, lorsque votre adversaire relève toutes ses cases, de vous étendre sur les flèches de son petit et de son grand Jan, afin d’avoir un jeu long et d’arriver le premier au plein. Alors vous tenez moins à faire les cases S, T, V, de son petit Jan. 76. Lorsque vous arrivez à jouer sur la bande ou à sortir vos dames, ayez soin de jouer celles que vous ne pouvez sortir des cases les plus éloignées de la bande, afin de lever plutôt si vous amenez des dés moyens ou petits dans les coups suivans. Voilà, je crois, les principes les plus importans pour bien jouer le Trictrac, et ses finesses les plus subtiles. Je ne puis mieux les résumer qu’en répétant qu’il faut à chaque instant avoir égard à sa position et à celle de son adversaire, et que pour cela il faut s’aider de l’arithmétique du jeu dont tous les secrets se convergent dans celui-ci.
+
+
 
 QUATRIÈME PARTIE.
 
+
+
 DES RÈGLES DU JEU. IWVVW Je vais tâcher d’établir ici l’énumération la plus complète des règles du Trictrac qui ait jamais paru, afin que, formant un corps de doctrine, cela puisse servir de manuel, et que l’on puisse consulter mon livre pour lever toutes les difficultés. J’ai consulté les meilleurs joueurs, et c’est d’après leur avis, plus que d’après le mien, que j’ai ajouté les règles dont les auteurs qui ont écrit avant moi n’ont pas parlé. Je me flatte que cette partie-ci ne laissera rien à désirer sous ce rapport. J’établirai d’abord les règles dans toute leur rigueur telles que l’exige le jeu joué dans toute sa sévérité, afin que les joueurs, qui font des parties importantes et qui jouent gros jeu, puissent y trouver les solutions qu’ils désirent. J’avouerai pourtant qu’il me répugne d’indiquer des règles aussi acerbes, et par-là de devenir l’oracle et l’autorité de ces chicaneurs qui ne font grâce de rien, ou de ces joueurs avides et âpres qui ne pardonnent pas la plus petite faute,
+
+
 
 DËS RÈGLES DU JËU. itg parce que, jouant pour gagner, ils ont compté d’avance sur les bévues de la victime qui est venue se jeter dans leurs filets; mais je n’ai pu me dispenser de celte tâche, quelque pénible qu’elle soit; et, pour m’en dédommager, j’indiquerai à la fin celles des règles qu’on ne suit point dans la bonne compagnie.
 
+
+
 Mv VWVV\*/V\/VWVVVWWWVWWVW> /VVt\<^*/VVVVVVVV^a%A/VVVV\/VVVVVVVVVV$ CHAPITRE PREMIER. Des règles dans toute leur rigueur. 1. Si l’un des dés sort du cornet après l’autre, le coup n’est pas bon. 2. Lorsqu’un des deux dés pirouette, on n’a pas le droit de l’arrêter avec le cornet : il faut attendre qu’il se déclare de lui-même. La raison en est qu’en finissant de pirouetter, il arrive quelque fois qu’il change le dé déjà connu. Cependant, s’il était à une trop grande distance de l’autre, le joueur qui l’aurait lancé pourrait l’écraser; mais son adversaire n’en a pas le droit. 3. Si un dé retombe sur l’autre de manière à le couvrir, le coup est nul. 4- Si l’un des dés est dans une région du Trictrac et le second dans l’autre, le coup est bon. 5. Un dé qui tombe entre deux dames, étant appuyé sur un angle ne vaut rien.
+
+
 
 120 JEU DE TRICTRAC. 6. Les dés sont bons soit qu’ils tombent sur les dames ou sur l’argent, ou sur les jetons, pourvu qu’ils nesoientpas soutenus par la bande, ce qui se vérifie ainsi : votre adversaire tire doucement la dame, et si le dé s’y tient sans tomber, il est bon. 7. Si vos dés touchent les dames de votre adversaire, le coup n’est pas moins bon que s’ils eussent touché la bande. 8. Si l’un des deux dés se casse, la partie qui laisse voir les plus gros points compte comme si c’était le dé entier. 9. Si, par la force du mouvement de projection, les dés, lancés hors du Trictrac, vont toucher la muraille, et qu’après cela ils retombent dedans, sans y avoir été renvoyés par le mouvement volontaire des personnes qu’ils ont touchées,ils sont bons. 10. Le dé qui retombe sur la bande n’est pas bon. 11. Le dé qui va se cacher derrière une pile est bon. 12. Si vos dés n’ont point touché la bande ni les dames, après que vous les avez jetés, votre adversaire a bien le droit de vous faire rejouer le coup ; mais il peut le trouver bon s’il veut, et vous n’avez pas le droit de le recommencer. 13. Si vous jetez vos dés sur la main de votre adversaire pendant qu’il place scs dames, le coup est bon j mais si, après qu’il a joué, il a encore la
 
+
+
 RÈGLES SUR LES DÉS. isi main ou dans le Trictrac ou sur ses bords, vous pouvez reprendre les dés qui l’ont touchée ou les laisser, à votre volonté. C’est à lui de ne pas mettre ses mains sur le tablier du jeu lorsqu’il n’y a plus que faire. i4- Si vous lancez vos dés avant que votre adversaire ait joué, le coup est bonj et il peut jouer d’après vos dés ainsi connus d’avance. C’est à vous à ne pas tant vous précipiter. 15. On ne doit point regarder dans son cornet quand on y a mis les dés. 16. On a droit de rompre le dé de son adversaire, lorsqu’on craint qu’il n’en amène un trop beau. Rompre, c’est renvoyer les dés de son adversaire avec le côté de son cornet, ce qui rend le coup nul ; mais il faut dire,je romps, et porter son cornet au devant. On ne peut pas rompre plus de trois fois de suite. in. Dame touchée, dame jouée, c’est de rigueur au Trictrac, comme aux Dames et aux Échecs. 18 .On peut toucher pourtant une ou plusieurs des dames qui sont sur les flèches ; mais il faut auparavant avoir dit : j’adoube. 19. Il n’est pas même permis de toucher les dames du talon sans dire de même : j’adoube. 20. On ne doitpas dire : j’adoube tout; c’est un abus introduit parles joueurs sans principes, car, en adoubant tout, on éluderait à chaque instant la règle sévère, qui défend de toucher sans jouer. Jeu de Trictrac. ’ 6
+
+
 
 122
 
+
+
 JEU DE TRICTR AC. 21. Lorsque vous avez pris une dame pour l'autre, vous êtes obligé de jouer celle dame, encore qu’elle n’aille pas sur la lièche où vous voulez caser ou couvrir. 22. Dame abandonnée, dame jouée. Ainsi, si vous avez joué une de vos dames au-delà de la flècbe du nombre où elle doit être placée, on peut vous la faire jouer tout d’une par les deux nombres que vous avez amenés. 23. Si vous failes une fausse case, c’est-à- dire si vous jouez deux dames sur une flècbe où le dé ne vous permet pas de les placer, votre adversaire a le droit de vous les faire jouer toutes les deux à sa fantaisie, et selon ce qui lui est plus avantageux. 24» Si après avoir fait une fan sse case, ou joué inexactement, vous voulez jouer exactement, vous ne le pouvez plus. Votre adversaire a le droit de trouver bien joué ce que vous avez joué. 25. Si, croyant avoir un trou, vous vous en allez, et que vous leviez vos dames pour les remettre au talon ou à la pile (t), votre adversaire a le droit de vous mettre à l’école, et, en même temps, de vous faire jouer les dames que vous avez levées, si elles peuvent se jouer par les dés que vous avez faits. 26. Lorsque l’on prend, pour faire le coin, deux dames qui n’y vont pas, et qu’une des deux
+
+
 
 (1) Ces deux mots sont synonimes.
 
+
+
 DES DAMES TOUCHÉES. i-iï ou les deux ne peuvent se jouer ni dans son jeu ni dans celui de son adversaire, on en peut jouer une, ou l’on joue deux autres dames; mais on ne péut prendre son coin sur le coup; g'est la punition. 27. Lorsque vous ayez fait une fausse case, ou joué une de vos deux dames plus loin que ne devrait l’être la véritable, votre adversaire a le droit, ou de vous les faire jouer toutes deux, d’après les dés amenés, ou de ne vous en faire jouer qu’une seule tout d’une. 28. Lorsque vous recommencez un relevé, vous ne devez pas garder une dame dans vos mains, pour le coup suivant, parce que vous perdriez par-lè le droit de marquer des points et vous seriez à l’école. 29. Vous ne pouvez, ayant abandonné une dame sur une fiècbe qui ne répond pas à l’un des nombres que vous avez faits, l’avancer sur la llècbe qui répond à l’autre nombre. Vous êtes forcé de jouer une autre dame pour celui-ci. Ainsi, si amenant 6 et 4, Vous avez joué une dame pour le 4 > vous ne pouvez la jouer ensuite pour le 6 et en prendre une autre pour le 4- 30. Lorsqu’on a touché des dames qu’oji ne peut pas jouer, il n’y a pas de faute et l’on joue celles que l’on veut. 31. Si vous arrangez mit votre jeu, et qu’une ou plusieurs de vos dames soient entre deux fléchés, de telle sorte qu’on ne sache pas à laquelle
+
+
 
 i:4 JEU DE TRICTRAC. elle appartient, votre adversaire a le droit de la placer sur celle qui lui plaît. 32. Lorsqu’un joueur s’est aperçu avoir une ou plusieurs dames de moins, cela ne dérange rien à l’état du jeu, et on met au talon celle qui a été retrouvée. 33. Lorsque l’on a joué avec une ou plusieurs dames de moins, les coups qui se sont passés, jusqu’au moment où l’on s’en est aperçu, n’en sont pas moins bons ; mais si l’on a joué avec seize dames ou plus, il faut recommencer la partie toute entière; parce qu’il n’y a rien qui puisse autoriser à profiter d’un avantage qui n’est pas dans les principes constitutifs du jeu. 34* Si le joueur qui retrouve la dame qui lui manquait, a passé toutes ses dames dans son grand Jan, il met la dame retrouvée sur la flèche la moins éloignée du talon on il a déjàdes dames, à moins qu’il n’ait pas encore tenu par impuissance; et, s’il les a toutes passées dans le jeu de son adversaire, il la met sur la flèche de celui-ci la moins éloignée de son propre coin. 35. On ne peut plus rectifier les fausses cases de son adversaire ni marquer ses écoles, quand on a lancé les dés. 36. On peut toucher son bois quand on n’a pas jeté les dés, lors même qu’on n’aurait pas marqué les points qu’on a pour être battu à faux. 3^. On n’est pas obligé de dire qu’on s’en va
 
+
+
 RÈGLES SUR LES ÉCOLES. iaS quand on ne veut pas tenir : cela se manifest par l’enlèvement des dames ; mais on est forcé de rester, si l’on a dit qu’on restait, ou de s’en aller, si on a dit qu’on s’en allait. 38. Vous ne pouvez passer une dame dans le petit Jan de votre adversaire, que lorsqu’il n’y peut plus faire de plein. Ainsi, vous ne pouvez, pour conserver, par suite d’un petit Jan, passer une de vos trois dames surnuméraires dans son petit Jan, si lui-même peut y faire le plein. 39. Par conséquent, il ne peut, pour vous punir, vous y faire passer des dames que vous avez mal jouées dans votre jeu. 40. On n’est pas obligé de passer une dame dans le petit Jan de son adversaire, pour conserver le sien, si l’on peut prendre son coin naturellement ou par puissance ; ce serait mal à propos qu’on forcerait dépasser une dame. 41. Quand on a marqué les points qu’on a de reste, on est obligé de rester. 42. Tant qu’on n’a pas touché ses dames, on peut toujours avancer son jeton pour marquer des points; mais on ne peut le reculer, et l’on est à l’école aussitôt qu’on a eu avancé ce même jeton. 43. Une école n’est faite qu’autant que le jeton qui marque est abandonné et mis au talon. 44- Vous n’avez pas le droit de mettre votre adversaire à l’école, parce qu’il ne vous y a pas
+
+
 
 iz6 JEU DE TRICTRAC. mis lui même : on ne met point à Vécole de Vécole. 45. Il y a école quand on oublie d’effacer ses points. 46. Il n’y a pas d’école pour les points qu’on n’a pas effacés en s’en allant : l’un ou l’autre des joueurs doit ôter les jetons. 47* Votre joueur a droit de vous forcer de marquer son école en entier, quand vous avez déjà marqué des points dessus. Une école n’est pas divisible, et vous n’avez pas le droit de ne marquer que les points que vous voulez. 48. Si votre adversaire marque mal-à-propos des points et que vous ne l’ayez pas mis à l’école, il a le droit de conserver ces points, quoique marqués à tort, et cela parla raison qu’il encourrait la punition de l’école en marquant mal-à- propos. 49. On ne peut plus, lorsqu’on a joué, prendre la bredouille qu’on avait oublié de marquer; de même qu’on ne peut plus l’ôter à son adversaire, si l’on a joué un second coup après le sien. 50. Votre adversaire n’est pas obligé de s’effacer, et il peut garder les points que vous lui avez laissés lorsque vous avez joué un second coup. Cela est fondé sur ce qu’on ne iiniraitpas, si l’on voulait contester les points marqués, sous prétexte qu’ils ne l’ont pas été bien. 51. Si l’un des joueurs a démarqué mal-à-propos des trous, ou s’il n’en a pas marqué assez,
 
+
+
 RÈGLES SUR LES ÉCOLES. 127 il ne peut plus les marquer de nouveau, après avoir joué. 5a. On ne peut mettre à l’école des trous : c’est-à-dire que si votre adversaire marque un trou au lieu de deux, vous ne pouvez marquer un trou d’école : s’il marque trop, vous le rectifiez simplement. 53. On ne peut pas être à l’école des trous, en tant qu’on s’est trompé de trous en plus ou en moins; mais on est bien à l’école des trous lorsque par ces trous on a fait école de points. Par exemple, si vous marquiez un ou deux trous, croyant recevoir douze points ou les prendre, vous seriez bien à l’école d’un ou de deux trous, puisque vous ne pouvez marquer 12 points de trop ou de moins, sans marquer des trous avec le ficliet, et non en points avec les jetons. 54. L’école se base donc d’après T es points que l’adversaire a marqués, tant avec son fiebet qu’avec ses jetons. Par exemple, ayant 10 points vous croyez en avoir i4, et vous n’en avez que 12, vous marquez trois ou quatre trous; dans ce cas vous n’êtes à l’école que de 2 points, parce que les 12 points que vous prenez réellement font un ou deux trous sans bouger, et que le trou ou les deux de plus que vous marquez représentent la bredouille que vous croyez avoir, et non 12 autres points de trop. Vous avez 4 points, vous en prenez 2; et, croyant en avoir 10,vous marquez tm trou, et 2 points de reste ; dans ce ras votre
+
+
 
 128 JEU DE TRICTRAC, adversaire vous fait rétrograder d’un trou, met voire jeton à 10, et vous envoie à l’école de 8. 55 II suit de-là que si votre adversaire, ayant io points, et croyant en prendre i4, lorsqu’il n’en prend que 12, marque trois ou quatre trous, lève ses dames et s’en va, non seulement il ne peut marquer qu’un ou deux trous au lieu de trois ou de quatre, mais encore il perd le droit de s’en aller par l’école qu’il fait. Ainsi, dans ce cas vous pouvez le mettre à l’école de 2 points, et pour ce le forcer de rester. Cette règle est dure, et paraîtrait même injuste si l’on ne réfléchissait qu’elle est établie pour prévenir la mauvaise foi. 56. Par la raison qu’on ne peut envoyer à Vécole de T école, lors qu’en vous mettant à l’école, votre adversaire en fait une, vous ne pouvez pas l’y mettre lui-même, si l’école qu’il fait égale en points celle que vous avez faite, parce qu’il est réputé avoir marqué ses points au lieu de votre école, mais si l’école qu’il fait est supérieure en points à la votre, vous déduisez ce qu’il a marqué, et vous le mettez à l’école du reste. Par exemple, fig. 26, j’ai mon coin et une dame en G; vous avez une dame en P et une en R, et vous amenez 6 et 3. Vous ne vous apercevez pas quevous battez ma dame en G, qui vous donne 2 points, et vous jouez deux dames du talon. Je vous mets à l’école de 2 points, et je lance les dés sans m’apercevoir que vous battez les deux coins à faux ;
 
+
+
 DES ERREURS SUR LES ÉCOLES. 129 mais vous ne pouvez dans ce cas me mettre à l’école que de 2 points, attendu que je ne suis obligé d’en marquer que 4 pour mon coin battu à faux, et que les 2 que j’ai sont à déduire sur les 4; bien que vous soyez convaincu que les 2 points que j’ai marques étaient pour votre école, parce que l’on ne met pas à l’école sur l’intention. 57. Vous n’êtes pas obligé de mettre votre adversaire à l’école pour les points qu’il marque mal-à-propos ; vous les effacez et cela suffit. 58. Celui qui induit l’autre en erreur 11e peut le mettre à l’école par suite de cette erreur ; mais celui qui est induit ne peut non plus revenir sur les points qu’il a marqués de moins. 59. Au Trictrac à écrire, on doit prendre le pavillon avant que le trou qui suit celui où il a été acquis soit pris à l’un des joueurs : après ce trou on n’a plus le droit de le revendiquer. 60. Si, ayant marqué les points du plein, on ne le fait pas, ou qu’on prenne des dames qui ne le font pas, on fait école. Mais Cette école est de deux espèces : dans la première, le joueur a marqué des points pour le plein et n’a pas rempli ; alors il est à l’école, d’abord des points qu’il a marqués, et ensuite de ceux qu’il devrait marquer pour le plein. Dans la deuxième il n’a rien marqué; or, il est tout simplement à l’école de ce qu’il aurait du marquer pour le 6.
+
+
 
 ♦ î3o JEU DE TJRICTRAC. plein. Par exemple, fig. 3i, vous amenez 4 et 2, quivous fait remplir de deux façons en couvrant la dame en II, au moyen de celle en F ou B ; vous marquez 8 points, et par méprise ou par oubli vous j ouez tout d’une du talon sur G ; moi, votre adversaire, je vous mets à l’école de 16 points : savoir, de 8 pour ceux que vous avez marqués, et de 8 pour ceux qui vous appartenaient; car, puisque vous ne remplissez pas, vous marquez des points mal-à-propos qui s’ajoutent à ceux qui vous reviendraient si vous eussiez bien joué. Si vous n’avez rien marqué, je vous mets simplement à l’école de 8 points. Celte école de deux cas présente une des plus extraordinaires difficultés qu’il y ait au Trictrac ; on aurait beau objecter qu’on ne peut pas être puni doublement: ce serait une objection frivole. 11 n’y a qu’une raison à donner de celte règle : je serais la dupe de votre école, si je la laissais passer par inadvertance, et qu’amenant 6 et as, vous remplissiez de trois façons, votre école vous vaudrait 8 points de bénéfice. Or, il est absurde de ne pas proportionner les punitions aux avantages. Au surplus, dans tous les cas, l’adversaire a le droit, en marquant l’éçole, de faire jouer les dames qui pourraient remplir. 61. Vous pouvez mettre votre adversaire à l’école, s’il vous y a mis lui-même mal-à-propos: il a fait ce qu’on appelle une fausse école. Ba. On n’est pas obligé d’avertir des points
 
+
+
 DIFFÉRENTES ESPÈCES D’ÉCOIES. 1T1 •que l’on marque en vous mettant à l’école : c’est à vous d’en chercher la raison. Cependant, cela ne doit pas passer deux coups, car il en résulterait ce qu’on appelé l’école perpétuelle. 63. Lorsqu’on amène des dés qu’on ne peut jouer par impuissance, on ne peut être envoyé à l’école des points qu’ils produisent et que l’on a oublié de marquer. Par exemple, fig. 27, vous amenez sonnez, qui vous fait tenir et battre deux dames Q R. Cependant, vous ne marquez que 8 points au lieu de i.!\. Votre adversaire est obligé de jouer sans pouvoir vous mettre à l’école, puisque vous n’avez pas pu jouer de dames. Il y a plus : vous êtes encore à tems de marquer vos 6 autres points avant de lancer votre second coup de dé, et quoique votre adversaire ait joué. C’est ce qu’on appelé 1 ‘‘école impossible. 64* Il y a encore un autre genre d’école impossible, qui est assez bizarre. C’est lorsque votre adversaire, croyant prendre plus de points qu’il n’en prend réellement, marque un ou plusieurs trous, et sans toucher ses jetons ou ses dames, dit : je m’en vais. Vous qui voyez son école, vous ne pouvez prendre vos dames et vous en aller; vous ne pouvez non plus, dans vos intérêts, l’avertir de son erreur; s’il vous faut attendre qu’il relève ses dames, il peut revenir sur le coup; la situation est embarrassante et même pressante ; je ne vois point d’autre manière de lui faire consommer son école que de lui dire ;
+
+
 
 V3* JEU DE TRICTRAC. ÎEh! bien, allez vous en, de l’air le plus indifférent possible. Alors, aussitôt qu’il a touché un (certain nombre de dames, vous l’arrêtez, et non- seulement le mettez à l’école, mais vous lui faites jouer celles de ses dames qu’il vous plaît, suivant que cela vous est le plus avantageux. 65. Si, immédiatement après le coup où vous avez donné des points à votre adversaire, il joue sans les avoir marqués, et que par ce nouveau coup il prenne des points et vous en donne, vous ne pouvez tout à-la-fois le mettre à l’école des points qu’il n’a pas marqués et conserver la bredouille pour ceux qu’il vous donne ensuite en en prenant lui-même. Par exemple, vous avez fait une école de 4 points, je la marque ; le coup d’après, vous en prenez 4 en me battant à vrai, et vous m’en donnez 4 en me battant à faux ; j’ai donc 8 points en tout. Mais j’ai perdu la bredouille, que j’aurais prise, si je ne vous eusse pas mis précédemment à l’école; et il en résulte que votre école m’a été onéreuse, puisqu’elle m’a fait perdre la bredouille : tant pis pour moi. C’est à moi de voir si je dois vous mettre ou ne vous pas mettre à l’école, suivant le dé que vous amenez. 66. Lorsque l’un des deux joueurs ne s’aperçoit pas qu’ii a déjà marqué des points et prend un autre jeton pour en marquer de nouveaux, l’autre joueur a le droit d’effacer les points marqués par le premier jeton, et de mettre son
 
+
+
 RÈGLES SUR. LE COIN. i"3 joueur à l’école du montant de ces anciens points, ou de lui faire marquer tous ses points. C’est L’école dite des deux jetons. 67. Lorsque vous marquez des points avec le jeton de votre adversaire, il faut effacer le vôtre avaxxt de tirer le sien de votre côté, sans quoi vous tomberiez dans l’école des deux jetons. 68. Si vous effacez mal-à-propos votre adversaire, ou que vous tiriez son jeton pour marquer vos points, en ne lui en laissant pas, vous êtes à l’école de tous les points dont vous l’avez privé. 69. Si, étant au Jan de retour, vous ne vous apercevez pas que vous pouvez passer dans le jeu de votre adversaire, par les nombres que vous amenez, et que vous ne jouiez dans votre jeu qu’une dame par le plus petit de ces nombres, votre adversaire, s’il .le veut, a le droit de vous laisser comme vous avez joué, mais il est obligé de mai’quer 2 points pour la dame que vous ne jouez pas, sous peine d’être mis à l’école. 70. Lorsqu’on a passé son coin au Jan de retour, on peut toujours le reprendre par puissance, si l’adversaire a le sien vide. 71. On peut battre le coin évacué comme celui qui n’a pas encore été pris. 72. Si par l’un des deux nombi’es que vous avez amenés, vous achevez de rentrer tomes vos
+
+
 
 134 JEU DE TRICTRAC, daines dans le petit Jan de votre adversaire, vous pouvez, par l’autre nombre, lever une dame sur la bande, pour sortir. 73. On peut toujours jouer sur la bande pour sortir, lors même que le plein est encore possible au Jan de retour : c’est à tort que quelques joueurs soutiennent le contraire. 74* Le dernier coup qui se joue pour la sortie au Jan de retour ne sert pour le premier coup du relevé suivant, que quand on a dit : Je joue pour tout. 75. On peut faire jouer d’avance a son joueur le dernier coup de la sortie, quoiqu’il ait encore plus de deux dames à sortir; mais on ne peut le forcer à jouer pour tout. 76. Il n’est pas permis à un spectateur d’avertir un joueur qu’il joue avec une dame de moins. 77. Lorsqu’on joue devant une galerie, si quelqu’un de ceux qui la composent se permet une indiscrétion, le joueur au détriment de qui elle est faite a le droit d’exiger de lui qu’il paye la partie perdue. 78. Lorsqu’on regarde jouer, on ne doit témoigner aucun sentiment, soit par parole, soit par geste, encore moins faire des exclamations de surprise ou d’admiration sur la beauté ou la laideur des dés qui paraissent, parce que cela sert d’avertissement et nuit au joueur au profit de qui seraient les écoles que ces mouyeinens em-
 
+
+
 DES RÈGLES POUR LA SOCIÉTÉ. i35 pêchent de faire. On doit regarder jouer au Trictrac, comme on assiste à l’audience d’un tribunal, sans rien manifester d’approbatif ou de dé- sapprobatif.
+
+
 
 h.-\ry V WW V VWWWW WWW WWWVVWW WV V'V'VVWWWWtW VVVWWVWfW WV CHAPITRE II. Des règles modifiées pour la bonne compagnie. Je dois indiquer ici des règles qui n’ont rien de commun avec le jeu considéré intrinsèquement, et qui tiennent au savoir vivre et au bon ton. Ce n’est pas assez de savoir bien le jeu, il faut encore observer, pour le jouer noblement, les égards qui ont du rapport aux personnes, et qui tiennent à cette politesse qui fait le charme de la société. D’abord, lorsque l’on joue avec quelqu’un à qui l’on doit de la déférence, on lui laisse le choix du coté droit ou gauche du Trictrac; car il y a des personnes qui ne jouent que d’un côté. Cette concession est d’ailleurs indifférente, lorsqu’on a pris la bonne habitude de jouer dans les deux sens. On doit également laisser à cette personne le choix des dames de l’une ou l’autre couleur; selon que cela s’accommode mieux à sa vue.
 
+
+
 t36 JEU DE TRICTRAC. C’est sur-tout avec le beau sexe que l’on doit avoir ces procédés, et il y a des hommes si ga- îans qu’ils sont attentifs, lorsqu’ils ont une adversaire quia la main jolie, à lui laisser les dames noires ou vertes, afin que la blancheur en ressorte mieux. Au contraire, ils lui font prendre adroitement les blanches, si sa main est laide, car ils craindraient de faire une galanterie ironique. Si ces délicatesses là ne sont pas nécessaires, on ne peut qu’applaudir à ceux qui les observent. Il y a même des joueurs si galans, qu’ils perdent avecleurs joueuses. Beaucoup d’hommes sont ravis de trouver l’occasion de faire une partie de Trictrac avec une jolie femme, parce qu’ils espèrent lui faire leur cour en perdant. Ils se rappellent sans doute les conseils qu’Ovide donne à un amant de se laisser gagner par sa maîtresse. fieu ludçt uumerosque manu jactabil elmrrtos ; Tu malè jaclalo, tu male jacta ilato, etc. D'un jeu de dés veut-elle aussi courir la chance ? Qu’elle ait de vous gagner la riante assurance: Faites de mauvais coups, sachez perdre avec art, Et contre vous toujours dirigez le hasard. Ceci n’est sûrement point une règle pour les joueurs et ne peut convenir qu’à ceux qui,tout-à- la-fois, sont très-amoureux et ont beaucoup d’ar-
+
+
 
 DU CARACTÈRE DES JOUEURS. i3 7 gent. D’ailleurs, je ne travaille pas ici à un traité de l’art de plaire. Mais pour revenir aux égards d’obligation, on doit prendre les dés et les lancer le premier, comme pour servir la personne avec qui l’on joue. Un joueur qui a de l’éducation ne doit pas jouer avec colère, ni se fâcher quand le dé lui est contraire : rien n’est plus haïssable qu’un mauvais joueur dans un salon. 11 faut perdre avec résignation, avec calme, je dirai même avec grâce ; et si l’on gagne, il faut lâcher de ne point l’attribuer à son bien jouer, mais au dé, mais à la fortune, afin de ménager l’amour propre de son adversaire : car il n’y a pas de petites blessures d’amour propre, même en fait de Trictrac. Je sais qu’il y a, à ce jeu là, ce qu’on appelle des veines si désastreuses qu’on en perd patience ; mais, avec un peu de raison et d’habj- tude, on se familiarise avec la mauvaise chance ; l’homme d’esprit, ou d’un caractère aimable, plaisante le premier sur son malheur ; il en est légèrement piqué, et il se console gaîment, loin, en cela, de ces joueurs dolens et moroses, qui font des jérémiades à chaque mauvais dé, qui tournent vers les spectateurs des regards plaintifs et qui déplorent lamentablement leur infortune. D’une séance de jeu ils font un drame lugubre., chaque partie est une élégie pour eux.
 
+
+
 ï38 JEU DE TRICTRAC. Autant vaudrait qu’ils allassent jouer dans les catacombes, ou au milieu des tombeaux dans le cimetière du Père Lachaise. J.’avoue que celui qui joue gros jeu ne voit pas toujours de sang froid une suite de mauvais coups qui tendent à vider sa bourse et à le gêner pour long-temps; mais alors il a tu tort de s’y exposer ; il ne devait pas jouer des parties au-dessus de sa fortune: on ne peut plus s’amuser du moment qu’on met ses ressources pécuniaires en danger, et c’est une sottise inexcusable quo de jouer un jeu qui n’est pas en proportion avec ses moyens, dans une compagnie où l’on ne se réunit que pour l’agrément. Comme on ne fait dans les salons que des parties de loin en loin, qui ne laissent pas toujours l’espoir de prendre la revanche, on ne doit exposer qu’une somme assez légère pour ne pas en ressentir la perte, mais pourtant assez forte pour intéresser le jeu, car il n’y a rien de si fatigant que ces parties où ce que l’on gagne ne pourrait même pas être offert à un domestique. Ce sont des avares qui jouent de pareilles bribes, c’est ce qu’on appelle trivialement des jeux de tisanne, c’est-à-dire, pour la santé. Ce qu’il faut éviter encore, lorsque l’on joue, c’est le bruit. On doit donc prendre garde de frapper du cornet sur les bords du Tricti'ac, et de remuer les dames d’une manière trop bruyante, même involontairement. Si c’est par
+
+
 
 DE LA MANIÈRE DE SE COMPORTER i3 9 colère, ce n’est pas excusable ; car, comme je viens de le dire, la colère est de mauvais ton au jeu, sans compter qu’elle est outrageante pour l’adversaire, qui croirait, avec raison, que vous êtes dans l’opinion que vous avez le droit de le gagner. Il faut éviter aussi d’être silencieux et morne, pour ne pas avoir l’air de faire une affaire d’ctat d’un amusement. D’ailleurs, on paraît donner par là plus d’importance au jeu qu’à la personne avec qui l’on joue ; et si la plainte ou la colère est défendue, il n’y a rien, d’un autre côté, de triste comme cette froide et muette impassibilité qui est le comble de la monotonie, et qui donne une réputation d’insensibilité qui n’est pas plus avantageuse quecelle de mauvais joueur. L’homme qui ne vous témoigne point qu’il fait plus de cas de l’argent qu’il vous gagne, que de celui qu’il perd, vous déplaît autant que celui qui gagne avec joie, ou vous paye en rechignant. Au surplus, le Trictrac a cela de propre que n’a aucun autre jeu connu, c’est qu’il offre des ressources incroyables. Au moment même où votre partie est le plus désespérée, et que vous la croyez perdue, un coup seul vous relève et vous la fait gagner. Il n’est pas rare de voir des parties où l’un des joueurs, étant venu à onze trous, sans que l’autre en ait un seul, perd néanmoins la partie. Or, je vous demande un peu, si celui-ci a tait des doléances, quelle contenance il doit faire,
 
+
+
 I/Jo JEU DE TRICTRAC, lorsque la chance a tourné! et s’il y a rien déplus ridicule que de s’être plaint long-temps,et de finir par gagner? S’il était permis de se désoler, ce ne devrait donc être qu’après la perte. C’est surtout au Trictrac qu’on peut appliquer, plus qu’à tout autre jeu, même celui de la vie humaine, laquelle n’est vraiment qu’un jeu, cette maxime de jene sais quel sage ougrand homme : qu’il ne faut jamais désespérer de la fortune. Que dire donc de ces joueurs qui se lamentent au premier trou qu’ils perdent, et qui, alarmistes burlesques, entrevoient dès-lors la perte de la partie, semblables à ces alarmistes politiques, qui voyent tout en noir, etcroyent déjà l’ennemi aux portes de leur ville, parce qu’il a eu le dessus dans une escarmouche? Ces pleureurs ressemblent à un certain Languille, de Melun, qui criait, dit-on, avant d’être écorché. Mais sans m’étendre plus loin sur les règles de convenances qui sont en dehors du jeu, je reviendrai à celles qui lui sont inhérentes. Je dirai donc que les règles que j’ai établies dans le chapitre précédent sont susceptibles de modification, par rapport à la loyauté, à la noblesse et à la bienveillance du commerce de la vie, et des réunions de bonne compagnie. Il faut pourtant admettre avant tout qu’il y a une certaine rigueur indispensable dans quelque société que ce soit, rigueur sans laquelle le jeu serait dépourvu d’intérêt, et qui, si l’on ne s’y
+
+
 
 DE LA RIGUEUR DU JEU. i 4 r astreignait, le dépouillerait de cette sévérité qui en fait le piquant et la beauté. Quels seraient les inconvéniens d’une indulgence trop étendue sur les régies du Trictrac? Si l’on pardonnait trop de choses à ce jeu, on ouvrirait la porte aux mauvaises habitudes, aux bévues, aux erreurs de toute espèce. Il est même de l’intérêt commun des deux joueurs de se passer le moins possible des fautes l’un à l’autre; car, si vous me passez une fausse case, je serai obligé de vous enpasserune autre; puis nous tâtonnerons toutes nos dames l’un et l’autre, nous les déplacerons, nous les replacerons ; enfin nous jouerons en enfans. C’est bien pis encore, si vous me passez une école : je serai obligé de vous en passer une antre ; vous m’en passerez ensuite une qui sera plus forte. J’enchérirai encore sur vous; si je Vous fais une grâce, je vous en demanderai une ; vous m’en demanderez ensuite une autre encore plus forte, et tout deviendra arbitraire; et nous finirons par ne plus marquer d’écoles. Il n’y a pas de raison même pour que nous ne nous passions toutes les étourderies et toutes les bévues possibles, et que nous ne finissions par nous passer tout. Alors, nous aurons dénaturé le jeu de Trictrac, nous en aurons oublié jusqu’à la marche, nous en aurons anéanti la beauté qui consiste principalement dans la multiplicité de ses règles, ce qui l’a mis j usqu’ici hors de la portée
 
+
+
 i4* JEU DE TRICTRAC, du commun de la société, et lui a valu le titre honorable de jeu des honnêtes gens. Le relâchement en fait de jeu, comme en fait de morale, est donc nuisible; et, s’il faut s’abstenir d’une rigueur acerbe, il faut s’éloigner aussi d’une tolérance Sans bornes. Evitons lé Jansénisme au Trictrac, mais n’y mettons pas non plus d’indulgence jésuitique. Donc la rigueur à ce jeu est admise dans la bonne compagnie. Il ne s’agit alors que d’en fixer l’étendue et la limite, de manière à ce qu’elle s’accorde avec les procédés qui sont en usage dans cette classe de la société. C’est ce que je vais essayer de déterminer dans le chapitre suivant. avwwvvt wvvvt \\iwv\ wv, wvwwv\ vv\ w\ vvawwtt uunuvt w» wnvi vv* CHAPITRE III. Des différentes modifications aux règles pour Vusage de la bonne société.
+
+
 
 Les dispositions de la règle 2, sur le dé qui pirouette, sont trop minutieuses pour être admises. Qu’importe que le dé pirouettant puisse changer le dé connu ? Faut-il pour cela astreindre une personne vive à attendre patietnment que
 
+
+
 DES RÈGLES MODIFIÉES. 145 cc dé soit las de tourner ainsi sur un de ses axes, comme le sabot d’un petit polisson? La règle 12 doit se modifier ainsi : Lorsque les dés lancés n’ont touclié ni Tune des bandes ni les dames, le coup doit être recommencé du mouvement propre même de celui qui les a lancés : il ne doit pas attendre les observations de son adversaire là-dessus. ’ Règle 4. Vous ne devez pas profiter de la précipitation avec laquelle votre adversaire a lancé ses dés avant que vous n’ayez joué. Ne les regardez pas et laissez-le vous les cacher. La règle i5 est de rigueur, et lorsqu’on joue avec quelqu’un qui regarde dans son cornet après y avoir mis les dés, on ne dit rien, et l’on se promet seulement de ne plus jouer avec lui. On 11e doit pas profiter de tout le bénéfice de la règle 16 : rompre plus d’une fois est une malhonnêteté. On ne doit pas prendre à la rigueur la règle 17. Si l’on joue avec une femme surtout, il serait dur et peu galant de l’obliger à jouer la dame qu’elle aurait touchée. Il y a d’ailleurs des personnes qui, à ce jeu, ont la petite manie de tâter le bois qui est placé sur les flèches en remuant les doigts comme si elles préludaient sur les touches d’un piano. La règle 19 n’est bonne qu’en academie. De même de la règle 20.
+
+
 
 i44 JEU DE TRICTRAC. Delà règle 22 il faut retrancher ce qui regarde la dame placée au-delà du nombre pour lequel elle est jouée. La règle 23 est trop acerbe. Idem pour la règle a4* La règle 2 5 doit se partager : il ne faut en admettre que le droit d’envoyer à l’école et rejeter celui de faire jouer les dames qui ont été relevées et qui pourraient être jouées. La règle 26 n’est bonne qu’en académie. Modifiez ainsi la règle 27 : Lorsque vous avez fait une fausse case, votre adversaire a droit de vous faire jouer les dames déplacées, sans vous désigner l’une plus que l’autre pour un des nombres amenés. La règle 28 est inutile. La règle 3i se convertit ainsi : Si une dame se trouve entre deux flèches, on la place sur celle où l’on croit qu’elle doive être ; si on ne le sait pas, on la place sur la flèche où elle est moins facile à être battue, soit à faux, soit à vrai. La règle 32 donne lieu à une autre que je ne puis établir qu’ici : la loyauté et l’honnêteté exigent que l’on prévienne son adversaire qu’il a une ou plusieurs dames de moins, si l’on s’en aperçoit avant lui. Règle 35. Votre adversaire ne doit pas se prévaloir de votre promptitude à lancer le dé pour n’être pas rectifié dans son casement ; il doit se
 
+
+
 DES RÈGLES MODIFIÉES. 14S rectifier lui - même, quoique les dés soient connus. g - II est de la politesse de 11e pas suivre la règle 37 : on doit toujours dire distinctement qu’on s’en va. Ea règle 4 2 est trop rigoureuse. Dans les bonnes maisons, on ne met son adversaire à l’école, que lorsqu’il a joué ses dames ou jeté les dés ; jusque-là on le laisse se rectifier, lors même qu’il a trop avancé son jeton. La règle 4^ doit être tout-à-fait proscrite comme contenant une disposition qui ne convient pas à des personnes bien élevées et loyales. On ne doit jamais garder des points mal acquis: il n’y a pas de raison de rigueur qui puisse autoriser à en conserver qu’on n’ait point faits. Ce serait une surprise indigne des honnêtes gens. Sur la règle 49 > j e dirai comme le vieux proverbe *. à tout bon compte revenir. On doit s’ôter la bredouille si on l’a perdue, et laisser son adversaire la prendre, lors même qu’il l’aurait oubliée. La règle 5o est par trop favorable à la mauvaise foi, et je vais en établir une toute opposée : c’est qu’on doit s’empresser d’effacer ses points soi-même, et ne pas attendre que son adversaire le fasse. La règle 5i est inadmissible : il n’y a pas de surprise, je le répète, entre personnes de bonne compagnie. Si votre adversaire a démarqué des Jeu de Tiuctpac. 7
+
+
 
 i/ f 6 JEU DE TRICTRAC, trous ou s’il n’en a pas marqué assez, laissez-le les marquer s’il s’en aperçoit après avoir joué. Je ne dirai pourtant pas que vous devez l’en avertir, ce serait pousser la politesse trop loin. La règle 59 est nulle. Lors même que votre adversaire aurait tout-à-fait oublié le pavillon, au moment de s’en aller, après avoir gagné le marqué s’il se le rappèle soudain, vous devez le lui reconnaître. Dirai-je plus encore? C’est que vous devez l’en prévenir Yous-même. Il serait trop dur d’adopter la règle 60 ; laissez votre adversaire se rectifier. La règle 62 doit encore être réduite de cette manière : Vous devez vous empresser d’expliquer à votre adversaire le motif pour lequel yous le mettez à l’école. Règle 66. Lorsque votre adversaire marque avec deux jetons et qu’il a joué, vous pouvez ôter celui de ces jetons qui marque le moins de points ; mais vous ne le mettez point à l’école, L’école des deux jetons n’est point admise dans la société, La règle 67 doit être î-egardée comme nulle. Idem pour la règle 68. La règle 69 est trop acerbe. La règle 76 doit au contraire être tournée ainsi: Jl est permis aux spectateurs d’avertir des
 
+
+
 DES RÈGES MODIFIÉES. 147 dames qui manquent dans le jeu de l’un des deux adversaires. La règle 77 ne peut pas se pratiquer en bonne compagnie. Tout ce que je puis dire ici, c’est qu’il est fâcheux d’avoir pour spectateurs des personnes indiscrètes ou qui ne sont pas assez maîtresses d’elles-mêmes. Je ne prétends pas pourtant faire allusion aux dames qui regardent jouer. C’est ce qui me donne lieu d’observer, a l’égard de la règle 78, qu’il ne faut pas non plus être si chatouilleux sur les émotions que manifeste la galerie, sur-tout s’il entre des dames dans sa composition. Il faut bien que les spectateurs, et sur-tout les spectatrices, aient aussi leur amusement. Ce n’est qu’en observant les règles ainsi modifiées et adoucies, qu’on peut jouer noblement et avec loyauté. Tout ce qui porte le cachet de l’âpretétout ce qui approche des formes acerbes doit être proscrit dans une partie jouée bourgeoisement, ou avec l’élégance qu’exige une réunion de l’élite de la bonne société. C’est cette élégance sur-tout qui est à rechercher et qui est désirable dans une partie; et rien n’y porterait plus obstacle que ces règles austères et impitoyables que l’on suit dans les académies de jeux, règles dont les joueurs de profession, je dirais presque les escrocs, tirent seuls tout le profit, lesquelles cependant ont force de loi, 'même contre des personnes éle-
+
+
 
 1
 
+
+
 a
+
+
 
 ,48 JEU DE TRICTRAC, vées par leur rang ou leur fortune, lorsque la passion du jeu et l’ennui qui s’attachent si souvent à leur vie, les conduisent dans des parties, où la somme jouée constituerait seule une grande fortune. J’ai, par exemple, vu des seigneurs jouer 100,000 fr. en vingt ou vingt-deux trous, et certes ! ils jouaient toutes les rigueurs du jeu. Mais ce sont-là des exceptions à ce que j’ai dit dans ces deux chapitres. Je ferai donc une dernière observation relative à cette élégance dont je viens de parler, c’est que, pour y parvenir, il est principalement nécessaire de jouer vite. Une partie jouée avec rapidité est un délice, tant pour les joueurs que pour la galerie. Or, si l’on admettait les rigueurs des règles que j’ai désignées, elles nuiraient à la rapidité dans l’exécution qui fait le charme d’une partie, et l’on n’aurait pas le même plaisir. <VV\^^^^AAA%^OWiAyVWV\WV^^'VV\^VVVV>^VWV\VV\/VWVV\^VVV^WVVVVV\ ( VV^ CHAPITRE IV. Zle quelques innovations dont serait susceptible le Trictrac.
 
+
+
 L’esprit d’innovation est repoussé dans tous les genres aujourd’hui ; et les novateurs ne sont
+
+
 
 INNOVATIONS A FAIRE. 149 pas bien vus. Cependant comme les innovations qu’on pourrait faire au Trictrac ne sont pas de nature à ébranler l’ordre social, oserai-je en proposer une ou deux? Je désirerais, entr’autres choses, qu’on reconnût la faculté de remplir de deux façons, quand on a deux dames découvertes et de marquer en conséquence. Rien ne serait plus conforme aux principes sur lesquels la marche du jeu est fondée : en outre cela ajouterait à sa beauté, en augmentant la complication de cette même marche. Secondement, je voudrais qu’on obligeât, sous peine d’être forcé de rester, celui qui s’en va a le dire, ou au moins à le manifester en levant les dames qui ne peuvent se jouer. Il arrive souvent qu’un joueur prend une dame pour la jouer, et, se ravisant, au lieu de la placer, la remet au talon et s’en va ; c’est une duplicité qui devrait entraîner une punition, car le jeu de Trictrac n’est piquant qu’autant qu’il y a des punitions pour toutes les fautes, comme je l’ai déjà dit. Ce sont là les deux seules innovations que j’ose proposer. Mais ce dont on ne peut me blâmer aujourd’hui que l’on parle tant de rétablir les anciens usages, quoiqu’on n’en puisse pas toujours prouver la possibilité, c’est de demander qu’on revienne à une règle du Trictrac qu’on a abau-
 
+
+
 i5o JEU DE TRICTRAC, donnée, je ne sais pourquoi : c’est celle de la pile de misère. On appèle ainsi la case du coin sur laquelle se trouvent empilées les quinze dames d’un joueur qui n’a encore pu en passer une dans un Jan de retour. Autrefois on gagnait 4 ou 6 points quand on la faisait, et autant à chaque coup qu’on la conservait. Cette épisode du jeu le rendait plus piquant et en accroissait la difficulté.
+
+
 
 CONCLUSION. Ü\\V% Kermadeuc mit une telle ardeur à apprendre le Trictrac } qu’au lieu des trois mois que j’avais présumes, il n’en fut que deux pour devenir de la seconde force. Il est vrai que je lui donnais, chaque jour, quatre heures d’horloge de mon temps, sans excepter les fêtes ni les dimanches ; en outre, le désir de posséder Elisa aiguillonnait puissamment son courage. Or, on conviendra qu’avec un véhicule comme l’amour et des leçons si longues, il faudrait qu’un écolier, quelque breton qu’il fût, eût la tête bien dure s’il ne faisait pas de rapides progrès# Il suffira au lecteur de savoir que mon élève, aussitôt qu’il put voler de ses propres ailes, retourna avec célérité à Concarneau, où il eut le bonheur, non-seulement de trouver qu’aucun rival ne s’était présenté en son absence, mais encore d’être admis à faire sa cour à mademoiselle de Lasserolles, moyennant toutefois qu’il passât dix heures par jour à jouer au Trictrac avec madame de Lasseroles. Quelque pénible que fût ce sacrifice, il en fut bien récompensé, puisqu’il plut, et qu’en un mot il devint si nécessaire à la mère dont il occupait les loisirs, qu’il finit par obtenir la fille avec une très-riche doc.
 
+
+
 152 JEU DE TRICTRAC. Il épousa donc Eiisa et fut heureux ; il l’est encore. Lui et sa belle-mère ont quitté Concarneau mais il n’en a pas moins continué de faire la partie de celle-ci avec une ponctualité religieuse, bien que ce ne soit plus matin et soir comme jadis, car il lui eût fallu une santé plus que de fer pour supporter une telle assiduité. Soit qu’il j oue mieux ou qu’il soit plus heureux qu’elle, illui gagne, année commune, à-peu-près un quart du revenu qu’elle s’est réservé ; mais cette loyale dame, peu sensible à cette perte, se trouve satisfaite de n’avoir pas été trompée dans son espérance, lorsqu’elle crut ne pouvoir mieux s’assurer d’un joueur adverse pour le reste de ses jours, qu’en le prenant pour gendre. Kermadeuc lui - même maintenant paraît presque partager cet engouement; et,s’il n’est pas encore chez lui tout-à-fait dégénéré en manie, la reconnaissance qu’il a pour un jeu auquel il doit le bonheur de sa vie, lui a inspiré un enthousiasme qui en est au moins bien proche. Il l’enseigne à ses enfans qui en ont pour ainsi dire sucé les principes avec le lait; il veut que l’amour du Trictrac se perpétue dans sa famille en même tems que la crainte de Dieu, et qu’il y soit transmis de mâle en mâle et de femelle en femelle sans distinction de primogéniture, jusqu’à extinction de race. Pour moi, que Kermadeuc regarde comme son bienfaiteur, je suis bien dédommagé de
+
+
 
 FIN DE L’HITOIRE DE KERMADEüC. i55 l’ennui que j’ai pu avoir à l’initier clans les mystères du Trictrac; il m’a forcé d’accepter la donation d’un vieux château gothique, avec 3oo arpens de landes de première qualité, le tout sis aux environs de Quimper-Corentin. C’était toute sa fortune avant son mariage, modeste héritage que lui avaient laissé ses ancêtres, lesquels tinrent ce bien, dit-on, dans les anciens feras, de la munificence d’un certain duc Salomon, ainsi que l’attestent les annales du canton,déposées à la sous-préfecture de l’arrondissement, comme on peut s’en assurer si l’on veut y aller voir. Je suis allé finir ma carrière dans cette terre. Ce n’est pas une possession magnifique, à la vérité, le sol n’étant qu’une glaise qui ne produit guères que des pots et des briques, et l’orge qu’on n’y sème ne dépassant jamais trois pouces de hauteur dans les bonnes années; mais j’y cultive en paix la science du Trictrac, et cela me suffit. J’en ai communiqué le bienfait à tous les gentilshommes Bas-Bretons des cantons circonvoisins, et j’ai même la douce espérance de le naturaliser pour jamais parmi les nobles et les bourgeois des dépariemens du Morbihan et du Finistère, plus facilement que n’a réussi la vaccine dans toute la France. Là je mourrai tranquillement le cornet à la main : je veux qu’après ma mort on enterre avec moi mon Trictrac favori, et que l’on m’élève un mausolée où la figure de ce jeu soit scupltée
 
+
+
 154 JEU DE TRICTRAC, avec une inscription latinecontenant l’énumération des victoires qu’il m’a fait remporter, et cette épigraphe: Ci gît qui pour son bien ne fit lien ù propos : Mauvais spéculateur et très-peu politique; Le Trictrac composait toute sa réthorique ; Il prit enfiu son coin dans le champ du repos.
+
+
 
 noa
 
+
+
 APPENDIX.
+
+
 
 De quelques autres jeuoc qui se jouent dans le Trictrac. i aeo»a>»i Outre le Trictrac, proprement dit, il existe encore d’autres jeux qui se jouent dans le meme tablier. Pour rendre ce traité complet, je vais parler sommairement de ceux qui sont les plus usités. Je n’en indiquerai guères que la marche, les combinaisons et les régies en étant très- simples, et ne pouvant être saisies que dans la pratique.
 
+
+
 DU GAUIMON OU TOUTES-TABLES.
+
+
 
 Ce jeu était généralement nommé autrefois, en France, le Toutes- tab les ; mais le nom de Gammon ou Back-Gammon, est celui qui prévaut aujourd’hui et qui vient des Anglais, chez lesquels il est en grand usage, car ils ne jouent
 
+
+
 iS6 JEU DE GAMMON. presque point, ou même ignorent notre Trictrac. Pour le jouer, il faut placer les dames comme on le voit dans la fig. 28. Dans celte figure j’ai les dames blanches, dont deux sont placées vis-à-vis de moi en M, et cinq en Y, le reste de mon côté ; savoir: cinq sur G et trois sur E. Mon but est de rentrer toutes mes dames dans la région G L, d’où, aussitôt qu’elles y seront toutes, je les lèverai ou sortirai comme à la fin du Jan de retour au Trictrac, c’est-à-dire en les plaçant sur la bande que je compte de même comme une flèche. Or, pour cela, je joue dans la direction de M en R et de R en Y ; puis de Y en F pour passer dans G L; de sorte que je décris une ligne circulaire en jouant, et je marche dans un sens opposé à celui que je suivrais au Trictrac. Lorsque j’aurai réussi à passer toutes mes dames en G L, si je les sors toutes avant mon adversaire, je gagnerai la partie. Pour lui, il doit jouer de son coté de la même manière. C’est - à - dire qu’il cherche à passer toutes ses dames en R M en jouant de L en G, de G en A, de Y en T pour passer dans R M. Si dans le cours du jeu, l’un de nous deux laisse une dame isolée sur une flèche, elle peut être battue à la volonté de l’autre. Mais ici on ne marque pas de points comme au Trictrac :
+
+
 
 JEU DE GAMMON. i5? on prend la dame de son adversaire, on la lui remet dans la main et l’on met la sienne à sa place. Alors il faut qu’on amène des dés tels qu’il puisse rentrer par le commencement de son jeu. Je suppose que ce soit moi : alors je rentre par M, N, O, P, Q, R, suivant les nombres que j’ai amenés. Si les flèches sur lesquelles tombent les nombres amenés sont occupées par des dames de mon adversaire, je ne puis rien jouer, je garde mon bois en main et j’attends à l’autre coup : c’est autant de perdu pour moi. Par exemple, fig. 29, j’ai été obligé de jouer deux dames sur B et D. Mon adversaire amenant ensuite 6 et 4, il bat ces deux dames découvertes, s’il veut, car il n’y est pas forcé ; mais il croit de son jeu de les battre, et en conséquence il les 6te, me les remet dans la main, pose en leur lieu et place les deux dames qui sont en H, et je suis obligé, le coup suivant, de les rentrer dans la région M R., si je puis. Mais si j’atnène bezet, ou 4 et as, ou 5 et as, ou carmes, ou quine, ou 5 et 4 } etc., je ne puis les rentrer, puisque les flèches qui répondent à ces nombres en passant de la bande et comptant R pour la première, sont occupées par des cases appartenant à mon adversaire. Alors je les garde et j’attends qu’il ait joué son coup. Si après cela j’amène de nouveau quelques- uns de ces nombres, je les garde encore ;
 
+
+
 i53 JEU DE GAMMON. en un mot, je ne puis rentrer que par N ou O. Si je n’amène qu’un 2 et as ou un 3 et as, je ne rentre qu’une seule de mes dames, ou si je n’en ai plus en main, je joue l’autre nombre dans le reste de mon jeu. Après cela, si, ayant encore une en main, j’amenais 6 et 2 ou 6 et 3, je pourrais la jouer tout d’une. Les doublets se jouent doubles, c’est-à-dire que si l’on amène, entr’autres, un carmes, on joue 16 points au lieu de B. C’est donc presque toujours une bonne fortune qu’un doublet à ce jeu. Les parties de Gammon se jouent d’autant de trous que l’on veut. Ordinairement c’est en trois trous, et l’on convient d’avance de la partie double qui se gagne par celui qui a sorti toutes ses dames avant que l’autre ait seulement rentré toutes les siennes; il prend alors deux trous au lieu d’un. L’on voit qu’à ce jeu il n’y a pas de points à marquer, et qu’ainsi il n’y a pas d’écoles à faire. Seulement, comme au Trictrac, dame touchée, dame jouée. 11 s’en faut de beaucoup, sans doute, que le Gammon vaille le Trictrac : il est bien moins amusant et infiniment moins difficile, quoiqu’en disent quelques joueurs qui le prétendent plus abstrait, à cause de ce qu’ils ap- pèlent rarrière-jeu. Cet arrière-jeu a lieu lorsqu’un des deux joueurs, ayant rentré toutes ses dames ou presque toutes, se trouve encore battu
+
+
 
 JEU DE GAMMON. i5g sur des dames qu’il est obligé de découvrir par celles de son adversaire qui sont restés en arrière dans la région où il a rentré les siennes. Mais c’est une illusion de croire, pour cela, le Gammon supérieur au Trictrac : il n’est pas même digne d’entrer en comparaison avec lui. Il faut avouer pourtant, qu’après celui-ci, c’est le jeu le plus piquant et le plus difficile ; car au moment où l’on est sur le point de sortir tout-à-fait, et par conséquent de gagner, on perd la partie simple et quelquefois même double, si l’on n’a pas sorti encore une dame ; la règle étant qu’on ne peut plus prendre double quand on en a levé une seule. Je ne parlerai pas ici des combinaisons du jeu ; on peut facilement les apprendre de soi- même à force de jouer. Seulement je dirai que les plus beaux dés qu’on puisse amener en commençant, sont : le sonnez, bezet, 6 et as et 3 et as. Alors sonnez se joue en prenant les deux dames de M, et les plaçant en S, et deux autres de Y sur F ; bezet en en jouant deux de G sur H, et deux de E sur F ; 6 et as se joue en plaçant une dame de Y et une de E sur F ; et 3 et as en plaçant une dame de E et une de G sur H. Au surplus, le grand art, à ce jeu, consiste à fermer les passages, sur-tout par les 6, et à enchevêtrer tellement le jeu, que l’adversaire soit obligé de se laisser battre, ce qui le mène finalement à la perte de la partie.
 
+
+
 DU JACQUET.
+
+
 
 Le Jacquet se joue ainsi : Chaque joueur met son talon clans un des coins en facô de lui, fig. 3o. J’ai le mien en M, et mon adversaire a le sien en A ; ce qui fait que les deux talons sont aux deux extrêmes de la transversale du Trictrac. Nous sommes tous les deux obligés de jouer la première dame seulement, jusqu’à ce qu’elle soit arrivée dans la partie ou région opposée à notre talon. Par exemple, j’amène 6 et 5 ; je joue une dame de M en Y ; mon adversaire fait aussi le même dé, et joue une dame de A en L. Ensuite j’amène 6 et as, et je joue de Y en G tout d’une ; il fait de même 6 et as, et il joue sa dame de L en R. Après cela, tous les autres coups se jouent à volonté, soit en abattant du talon, soit en jouant les darnes abattues. Les doublets se jouent double comme au Gammon. Celui des deux joueurs qui a levé ou sorti le premier, gagne un trou ou deux, si on est convenu de la double. On ne bat point au Jacquet. Quant aux finesses et auxcombinaisons .de ce jeu, j’en parlerai encore moins que de celles
 
+
+
 JEU DU JAQUET. i6t du Gammon : il n’y a absolument que l’habitude et la pratique qui puissent les indiquer. D’ailleurs elles consistent uniquement à s’étendre et à occuper le plus de flèches qu’on peut, afin de fermer les passages à son adversaire, de le retarder dans les efforts qu’il fait pour rentrer le plus promptement possible, et sortir par conséquent le premier. Ainsi, ce jeu est encore moins difficile que le Gammon ; on peut dire qu’il est à celui-ci, ce que celui-ci est au Trictrac.
+
+
 
 A/VWV>VVVVVVVV\;VVVVVVVVVVVVVVVVV*/VVVVV*/VVVVVVVV*/VVVVVVVVVVVV*'VVVWvws DU GARANGUET.
 
+
+
 Le Garanguet se joue avec trois dés. On place les talons comme au Trictrac, et l’on joue les dames de manière à les amener dans la région où est celui de son adversaire, par où l’on sort les siennes. Celui qui a sorti le premier gagne le trou ou deux, si la double a été convenue. Si dans les nombres qu’on amène ainsi par trois dés il se trouve un doublet, on le joue double, pourvu que l’un des deux nombres qui le composent soit plus fort que le troisième dé. Au cas contraire, on le joue comme un autre nombre.
+
+
 
 ï6i JEU DE GARANOUET. Ainsi, si j’amène 2, 2 et 3, je joue 7 points en une, deux ou trois dames ; mais si j’amène 4, 4 et 3, je joue 16 points pour le carmes, et 3 pour le troisième dé, etc. Si l’on amène trois nombres égaux, ce qui forme un triplet, on les joue trois fois. Je dirai encore moins sur les finesses de ce dernier jeu, que sur celles des deux précédens j cela serait entièrement inutile.
 
+
+
 FIN.
+
+
