@@ -540,7 +540,7 @@ Le Trictrac à écrire, de même que le Piquet à écrire, est le véritable jeu
 
 
 
-## CHAPITRE VII. _Conclusion de lu première Partie._
+## CHAPITRE VII. _Conclusion de la première Partie._
 
 
 
@@ -687,279 +687,379 @@ Voici donc le raisonnement qu’il fera pour arriver au procédé qu’il doit e
 
 A quoi j’ajoute le doublet.
 
-Or, je trouve que cette somme de onze se trouve précisément dans le montant un du dé joint au montant dix des coups invariables. Par le 2 j’ai douze coups, car j’en ai de même dix d’invariables 7 qui sont : Le 2 et as Le 2 et 3 Le 2 et 4 Le 2 et 5 Le 2 et 6 À quoi j’ajoute le doublet. Plus j’ai le bezet qui entre dans le 2 comme composé, ce qui fait douze ; mais cette somme de douze se trouve précisément représentée par le montant deux du dé joint à dix, montant des coups invariables. Par le 3 : j’ai treize coups ; car outre les dix invariables et le doublet qui font onze, j’ai le 2 et as qui entre dans le 3 comme composé; ce qui fait treize ; mais cette somme se trouve précisément être le montant du dé joint à dix. Il en serait ainsi des autres nombres. Kermadeuc en conclut alors : que,pour savoir d’un coup-d’œil combien on a de coups pour couvrir une dame quand on a. un seul dé direct, on ajoute dix au montant de ce dé. Procédé pour deux dames directes. Supposons que Kermadeuc ait deux dames pour remplir. Voici comme il raisonne :
+Or, je trouve que cette somme de onze se trouve précisément dans le montant un du dé joint au montant dix des coups invariables.
 
+Par le 2 j’ai douze coups, car j’en ai de même dix d’invariables 7 qui sont : 
 
+- le 2 et as
+- le 2 et 3 
+- le 2 et 4 
+- le 2 et 5
+- le 2 et 6 
 
-NOMBRE DE COUPS TOUR DEUX DAMES. 69
+À quoi j’ajoute le doublet.
 
+Plus j’ai le bezet qui entre dans le 2 comme composé, ce qui fait douze ; mais cette somme de douze se trouve précisément représentée par le montant deux du dé joint à dix, montant des coups invariables.
 
+Par le 3 : j’ai treize coups ; car outre les dix invariables et le doublet qui font onze, j’ai le 2 et as qui entre dans le 3 comme composé; ce qui fait treize ; mais cette somme se trouve précisément être le montant du dé joint à dix. Il en serait ainsi des autres nombres.
+
+Kermadeuc en conclut alors : que, _pour savoir d’un coup-d’œil combien on a de coups pour couvrir une dame quand on a. un seul dé direct, on ajoute dix au montant de ce dé._
+
+**Procédé pour deux dames directes.**
+
+Supposons que Kermadeuc ait deux dames pour remplir. Voici comme il raisonne :
 
 Si j’ai les 2 et les as, par exemple, j’ai vingt coups, car on vient de voir qu’il y a pour un seul dé direct dix chances invariables.
 
-
-
 J’ai donc ici pour le 2
 
-
-
-2 et as 3 et 2
-
-
-
-6 et 2
-
-
+- 2 et as 
+- 3 et 2
+- 4 et 2
+- 5 et 2
+- 6 et 2
 
 Et pour l’as
 
+- 2 et as
+- 3 et as 
+- 4 et as 
+- 5 et as 
+- 6 et as
 
+Mais la combinaison 2 et as se trouve commune aux deux nombres ; il faut donc la distraire des chances de chacun : alors il ne me restera que huit coups pour les as, et huit pour les 2, ou seize coups qui sont invariables ; à quoi, ajoutant les deux coups de 2 et as, j’ai dix-huit coups pour les deux doublets qui font vingt. Or, cette somme de vingt se trouve précisément dans le montant des deux dés 1 et 2 ajouté aux seize coups invariables, plus un point d’augmentation.
 
-2 et as 3 et as 4 et as 5 et as 6 et as
+Si j’ai les 3 et les as, j’ai encore vingt coups pour couvrir, car l’as me donne :
 
+- 2 et as 
+- 3 et as 
+- 4 et as 
+- 5 et as 
+- 6 et as
 
+Et le 3 
 
-Mais la combinaison 2 et as se trouve commune aux deux nombres ; il faut donc la distraire des chances de chacun : alors il ne me restera que huit coups pour les as, et huit pour les 2, ou seize coups qui sont invariables ; à quoi, ajoutant les deux coups de 2 et as, j’ai dix-huit coups pour les deux doublets qui font vingt. Or, cette somme de vingt se trouve précisément dans le montant des deux dés 1 et 2 ajouté aux seize coups invariables, plus un point d’augmentation. Si j’ai les 3 et les as, j’ai encore vingt coups pour couvrir, car l’as me donne :
+- 3 et as 
+- 3 et 2 
+- 3 et 4 
+- 3 et 5 
+- 3 et 6
 
+Mais la Combinaison 3 et as se trouvant dans l’une et l’autre de ces énumérations, il faut l’en distraire, et il ne restera que huit coups pour les as, et huit pour les 3, ou seize coups invariables ; à quoi ajoutant les deux coups de 3 et as, j’ai dix-huit coups, plus les deux doublets; en tout vingt coups. Or, cette somme de vingt se trôuve précisément dans le montant des deux dés as et 3, ajouté à 16, montant de leurs coups invariables.
 
+Si j’ai as et 4, j’ai vingt-un coups pour couvrir, car l’as me donne 
 
-2 et as 3 et as 4 et as 5 et as 6 et as
+- 2 et as 
+- 3 et as 
+- 4 et as 
+- 5 et as 
+- 6 et as 
 
+Et le 4
 
+- 4 et as 
+- 4 etas 
+- 4 etas 
+- 4 etas 
+- 4 et 6 
 
-70 JEU DE TRICTRAC. Et le 3 3 et as 3 et 2 3 et 4 3 et 5 3 et 6 Mais la Combinaison 3 et as se trouvant dans l’une et l’autre de ces énumérations, il faut l’en distraire, et il ne restera que huit coups pour les as, et huit pour les 3, ou seize coups invariables ; à quoi ajoutant les deux coups de 3 et as, j’ai dix-huit coups, plus les deux doublets; en tout vingt coups. Or, cette somme de vingt se trôuve précisément dans le montant des deux dés as et 3, ajouté à 16, montant de leurs coups invariables. Si j ’ai as et 4 ? j’ai vingt-un coups pour couvrir, car l’as me donne 2 et as 3 et as 4 et as 5 et as 6 et as Et le 4 4 et as 4 et 2 4 et 3 4 et 5 4 et 6 Mais la combinaison 4 et as se trouvant dans l’une et l’autre énumérations, je l’en distrais, et il ne me reste en tout, que seize coups inya-
+Mais la combinaison 4 et as se trouvant dans l’une et l’autre énumérations, je l’en distrais, et il ne me reste en tout, que seize coups invariables ; à quoi ajoutant les deux coups de 4 et 1, j’ai dix-liuit, plus les deux doublets ; ce qui fait vingt, plus le double 2, qui entre dans le 4 comme nombre composé ; en tout viîïgt-ün. Or cette somme de vingt-un se trouve précisément dans le montant des deux dés 4 et as, ajouté à seize, montant de leurs coups invariables.
 
+Si j’ai 4 et 2, j’ai vingt-trois coups, car Le 2 me donne 
 
+- 2 et 1 
+- 3 et 2 
+- 4 et 2 
+- 5 et 2 
+- 6 et 2 
 
-1
+Le 4 redonne
 
+- 4 et as
+- 4 et 2
+- 4 et 3
+- 4 et 5
+- 4 et 6
 
+Mais je déduis la combinaison 4 et 2, qui se trouve des deux côtés, et il me reste toujours seize coups invariables, qui, avec les deux coups de 4 et 2 et les deux doublets, font 20 ; plus bezet qui entre dans le 2 comme composé, et 2 et as qui entre dans le 4 aussi comme composé ; trois coups de plus : en tout 23 coups. Or, cette somme de 23 se trouve précisément dans le montant des dés, ajouté a 16 montant de leurs coups invariables, plus un point d’augmentation.
 
-NOMBRE DE COUPS POUR DEUX DAMES. 7*
+La même démonstration appliquée aux autres nombres, produirait les mêmes résultats.
 
+Kermadeuc en conclut donc : _que, pour savoir d’un coup d’œil combien Von a de coups pour couvrir d’une seule façon une dame, quand on a deux dés directs, il faut ajouter 16 au montant de ces deux des étaugmenter le total d'un point, lorsque le moindre dé est la moitié du plus fort._
 
+Ainsi, Kermadeuc veut savoir combien il a de coups pour couvrir, ayant l'as direct, il dit : 10 + 1 = 11 coups.
+S’il a le 6 : 10 + 6 = 16 .
+S’il a deux dés directs, tels que le 2 et le 6, il dit : 16 + 2 + 6 = 24 coups. 
+S’il a le 3 et le 6 : 16 + 3 + 6 + X = 26 (X désigne le point d'augmentation que je regarde comme l'inconnue).
 
-r/ables ; à quoi ajoutant ies deux coups de 4 et 1, j’ai dix-liuit, plus les deux doublets ; ce qui fait vingt, plus le double 2, qui entre dans le 4 comme nombre composé ; en tout viîïgt-ün. Or cette somme de vingt-un se trouve précisément dans le montant des deux dés 4 et as, ajouté à seize, montant de leurs coups invariables. Si j’ai 4 et 2, j’ai vingt-trois coups, car Le 2 me donne 2 et 1 Le 4 redonne 4 et as
 
 
+## CHAPITRE III Des procédés pour connaître les coups qui battent et remplissent par plus de deux dés.
 
-3 et 2 4 et 2 5 et 2 6 et 2
+**Procédé pour trois dames directes.**
 
+Voici comme Kermadeuc raisonnerait dans le cas où il aurait trois dames pour couvrir.
 
+Si par exemple j’ai les as, les 2 et les 3, j’ai vingt-sept coups pour couvrir ; car, L’as me donne 
 
-4 et 2 4 et 3 4 et 5 4 et 6
+- 2 et as
+- 3 et as 
+- 4 et as
+- 5 et as
+- 6 et as 
 
+Le 2 me donne 
 
+- 2 et as
+- 3 et 2 
+- 4 et 2 
+- 5 et 2 
+- 6 et 2
 
-Mais je déduis la combinaison 4 et 2, qui se
+ Le 3 me donne
 
+ - 3 et as
+ - 3 et 2
+ - 4 et 3 
+ - 5 et 3
+ - 6 et 3 
 
+ Mais la combinaison 2 et as se trouve dans les deux premières énumérations ; celle 3 et as dans la première et dans la troisième, et la combinaison 3 et 2 se trouve dans les deux dernières.
 
-trouve des deux côtés, et il me reste toujours seize coups invariables, qui, avec les deux coups de 4 et 2 et les deux doublets, font 20 ; plus bezet qui entre dans le 2 comme composé, et 2 et as qui entre dans le 4 aussi comme composé ; trois coups de plus : en tout 23 coups. Or, cette somme de 23 se trouve précisément dans le montant des dés, ajouté a 16 montant de leurs coups invariables f plus un point d’augmentation. La même démonstration appliquée aux autres nombres, produirait les mêmes résultats. Kermadeuc en conclut donc : que, pour savoir d’un coup d’œil combien Von a de coups pour couvrir d’une seule façon une dame, quand
+Il ne me reste donc que trois combinaisons dans chaque énumération, qui ne se retrouvent pas dans les deux autres : ces neuf combinaisons produisent dix-huit coups invariables. A ces dix-huit coups, j’en ajoute six autres pour le 2 et as, le 3 et as et le 3 et 2, et j’ai alors vingt- quatre coups, à quoi j’ajoute les trois doublets d’as, de 2 et de 3 ; en tout vingt-sept coups. Or, cette somme égale le montant des trois dés, plus celui dix-huit des coups invariables, en y ajoutant deux unités.
 
+Si j’ai les as, les 2 et les 5, j’aurai encore vingt-sept coups pour couvrir, car j’ai dix-huit coups invariables, auxquels en ajoutant six pour le 2 et as, le 5 et as et le 5 et 2, j’ai vingt-quatre, plus les trois doublets; en tout vingt- sept coups. Or, cette somme de vingt-sept égale le montant des trois dés, plus celui dix-huit en y ajoutant une unité.
 
+Si j’ai les as, les 3 et les 4 > j’ai vingt - huit coups pour couvrir, car j’en ai dix-huit d’invariables, auxquels ajoutant six autres et les trois doublets, cela me fait vingt-sept coups, plus le double 2 qui entre comme composé dans le 4. En tout vingt-huit coups, Or, cette somme égale le montant des trois dés, plus celui dix-huit en y ajoutant 2 points.
 
-rja. JEU DE TRICTRAC. ou a deux dés directs, il faut ajouter iG au montant de. ces deux des étaugmenter le total d'un point, lorsque le moindre dé est la moitié du plus fort. Ainsi, Kermadeuc veut savoir combien il a de coups pour couvrir, ayant Pas direct, il dit(x) : io + i = ii coups. S’il a le 6: io -f- 6 = 16 S’il a deux dés directs, tels que le 2 et le 6, il dit : 16 -f- 2 -f- 6 = 24 coups. S’il a le 3 et le 6 : i6 + 3-f-6 + X = 26.
+Si j’ai les 4, les 5 et les 6, j’ai trente-trois coups pour, couvrir ; car, aux dix-huit coups invariables, j’ajoute six coups, plus les trois doublets; ce qui fait vingt-sept, à quoi j’ajoute encore : trois pour le double 2 et le 3 et as qui entrent comme composés dans le 4 ; deux pour le 3 et 2, qui entre de même dans le 5, et un pour le terne, qui entre aussi de même dans le 6; total trente-trois coups. Or, cette somme égale précisément le montant des trois dés joint à dix-buit de leurs invariables.
 
+Kermadeuc, en continuant le même raisonnement pour d’autres nombres, trouverait les mêmes résultats.
 
+Mais puisque dans le premier cas où il a l’as, le 2 et le 3 dont l’as est moitié du 2, et l'as et le 2 = 3, il est obligé d’augmenter de trois unités le montant des dés et des coups invariables ; puisque dans le deuxième cas où il a l’as, le 2 et le 4 5 dont Pas est moitié du 2 et le 2 du 4, il est obligé d’augmenter de deux unités les mêmes montants ; puisque dans le troisième cas où il a les as, les 2 et les 5, où Pas est moitié du 2, il est obligé de les augmenter d’une unité; enfin puisque dans le quatrième cas où il a les as, les 3 et les 4 > il est obligé de les augmenter de deux, il conclut que :
 
-(1) Désormais, pour abréger, je vais employer les signes algébriques ordinaires. -J- signifie plus ; ^ multi~ plier par.... —moins == est égal à X, dé signera le point d’augmentation que je regarde comme l’in- conque.,?quoo ■ liioJ na : a_.-q '• c ;üi>> ( r
+_Pour savoir d’un coup-d’œil combien on a de coups pour couvrir d’une seule façon une dame quand on a trois dés directs, il faut ajouter dix- huit au montant de ces trois dés, et augmenter ce total d’un point pour chaque dé qui est la moitié d'un autre, et de deux points, lorsque les deux plus petits de ces dés égalent le troisieme._ 
 
+**Procédé pour quatre dames directes.**
 
+Lorsqu’on a pour couvrir quatre dés directs, I on ajoute leur montant à seize, en augmentant d’une unité pour chaque nombre qui est la moitié d’un autre, et de deux pour chaque égalité de deux nombres à un autre.
 
-NOMBRE DE COUPS POUR 3 DAMES. 7.3
+Mais il est plus court de chercher les dés que l’on a contre soi, et de les déduire sur les trente-six chances.
 
+Par exemple, si Kermadeuc a, fig. 17, les as, les 2, les 4 et les 6 pour remplir en G, il voit aisément qu’il n’a contre lui qne le 5 et 3 et le quine, qui font trois coups. Donc, il est clair qu’il a trente-trois coups pour lui. 
 
+## CHAPITRE IV. Procédé pour savoir combien on a de coups pour remplir de deux façons.
 
-AM*V\AMVVVVVVVVVVV%'VV*VV^*'VVVVVW\VV\'VVYVVWV%V*VVV\**A>V*'VVWVVVVt CHAPITRE III.,,UJ'{ t axpjo*) Jiorf-xib Des procédés pour connaître les coups qui battent et remplissent par plus de dcuoC dés.
+Ce procédé-ci est encore moins connu que ceux que je viens d’indiquer; et quoique l’utilité en soit d’un moins fréquent usage, elle est peut-être d’une plus grande importance.
 
+ Il n'est pas difficile à Kermadeuc de savoir, lorsqu’il n’a que deux dés directs, qu’il ne peut couvrir de deux façons que par trois ou quatre moyens.
 
+ Par trois moyens, lorsque le petit dé est la moitié du gros, tel que 6 et 3, où il n’a que terne et 6 et 3 ; par quatre moyens, avec deux autres dés, tels que 5 et 4, où il a 5 et 4, et 4 et as.
 
-Procédé pour trois dames directes. • - ■ ■ ; \ '*• *> y •'» i * * I" j ^ Voici comme Kermadeuc raisonnerait dans le cas où il aurait trois dames pour couvrir. Si par exemple j’ai les as, les 2 et les 3, j’ai vingt-sept coups pour couvrir ; car, L’as me donne 2 et as.Le 2 me donne 2 et as
+ Mais s’il a trois dés directs, voici le raisonnement qu’il doit faire pour arriver à un procédé qui lui indique rapidement combien de moyens il a pour lui : 
 
+ Si j’ai le 4, le 5 et le 6, j’ai douze coups pour couvrir de deux façons, car, 
 
+- Le 4 et le 5 se combinant ensemble donnent 4 et as, 5 et 4 : quatre coups
+- Le 6, se combinant avec le 4, donne 6 et 4, 4 et 2 : Encore quatre coups.
+- Le 6, se combinant avec le 5, donne 6 et 5, 5 et as : Encore quatre coups. 
 
-3 et 2 4 et 2 Z 5 et 2 6 et 2
+Total douze coups.
 
+Si j’ai le 3, le 5 et le 6, j’ai onze coups, car, 
 
+- Le 3 et le 5, se combinant ensemble donnent 3 et 2, 5 et 3 : quatre coups.
+- Le 6, se combinant avec le 3, donne 6 et 3, terne : trois coups.
+- Le 6, se combinant avec le 5 donne 6 et 5,  5 et as : quatre coups.
 
-3 et as 4 et as 5 et as 6 et as Le 3 me donne 3 et as 3 et 2 4 et 3 5 et 3 6 et 3 Mais la combinaison 2 et as se trouve dans les deux premières énumérations ; celle 3 et as dans la première et dans la troisième, et la combinaison 3 et 2 se trouve dans les deux dernières. Jeu de Trictrac. 4
+Total onze coups.
 
+Si j’ai l’as, le 2 et le 4, j’ai dix coups, car,
 
+- L’as et le 2 donnent trois coups.
+- Le 4, combiné avec l’as : quatre coups. 
+- Et avec le 2 :  trois coups.
 
-«es dm di A
+Total dix coups. 
 
+Si j’ai l’as, le 5 et le 6, j’ai huit coups, car, 
 
+- L’as et le 5 donnent quatre coups.
+- Le 6, se combinant avec l’as : quatre coups.
+- Et avec le 5 : quatre coups. 
 
-I Bld J
+Mais le 5 et as se trouvant dans les trois énumérations il n’y a de réel que les quatre chances :
 
+- 4 et as 
+- 5 et as 
+- 6 et as 
+- 6 et 5 
 
+Qui font huit coups.
 
-74 JEU DE TRICTRAC. Il ne me reste donc que trois combinaisons dans chaque énumération, qui ne se retrouvent pas dans les deux autres : ces neuf combinaisons produisent dix-huit coups invariables. A ces dix-huit coups, j’en ajoute six autres pour le 2 et as, le 3 et as et le 3 et 2, et j’ai alors vingt- quatre coups, à quoi j’ajoute les trois doublets d’as, de 2 et de 3 ; en tout vingt-sept coups. Or, cette somme égale le montant des trois dés, plus celui dix-huit des coups invariables, en y ajoutant deux unités. Si j’ai les as, les 2 et les 5, j’aurai encore vingt-sept coups pour couvrir, car j’ai dix-huit coups invariables, auxquels en ajoutant six pour le 2 et as, le 5 et as et le 5 et 2, j’ai vingt- quatre, plus les trois doublets; en tout vingt- sept coups. Or, cette somme de vingt - sept égale le montant des trois dés, plus celui dix- huit en y ajoutant une unité. Si j’ai les as, les 3 et les 4 > j’ai vingt - huit coups pour couvrir, car j’en ai dix-huit d’invariables, auxquels ajoutant six autres et les trois doublets, cela me fait vingt-sept coups, plus le double 2 qui entre comme composé dans le 4* En tout vingt-huit coups, Or, cette somme égale le montant des trois dés, plus celui dix-huit en y ajoutant 2 points. Si j’ai les 4 ^ les 5 et les 6, j’ai trente-trois coups pour, couvrir ; car, aux dix-huit coups invariables, j’ajoute six coups, plus les trois
+Si j’ai les 2, les 4 et les 6, j’ai sept coups, car,
 
+- Le 2 et le 4 donnent trois coups.
+- Le 6, combiné au 2, donne quatre coups.
+- Et combiné au 4 : quatre coups.
 
+Mais le 4 et 2 se trouvant dans ces trois énumérations, il n’y a de réel que les chances 
 
-NOMBRE DE COUPS POUR 3 DAMES. 7 5 doublets; ce qui fait vingt-sept, à quoi j’ajoute encore : trois pour le double 2 et le 3 et as qui entrent comme composés dans le 4 ; deux pour le 3 et 2, qui entre de même dans le 5, et un pour le terne, qui entre aussi de même dans le 6; total trente-trois coups. Or, cette somme égale précisément le montant des trois dés joint à dix-buit de leurs invariables. Kermad'euc, en continuant le même raisonnement pour d’autres nombres, trouverait les mêmes résultats. Mais puisque dans le premier cas où il a l’as, le 2 et le 3 dont l’as est moitié du 2, et Pas et le 2— 3, il est obligé d’augmenter de trois unités le montant des dés et des coups invariables ; puisque dans le deuxième cas où il a l’as, le 2 et le 4 5 dont Pas est moitié du 2 et le 2 du 4, il est obligé d’augmenter de deux unités les mêmes montants ; puisque dans le troisième cas où il a les as, les 2 et les 5, où Pas est moitié du 2, il est obligé de les augmenter d’une unité; enfin puisque dans le quatrième cas où il a les as, les 3 et les 4 > il est obligé de les augmenter de deux, il conclut que : Fout' savoir d’un coup-d’œil combien on a de coups pour couvrir d’une seule façon une dame quand on a trois dés directs, il faut ajouter dix- huit au montant de ces trois dés, et augmenter ce total d’un point pour chaque dé qui est la moitié d'un autre, et de deux points, lorsque
+- 4 et 2 
+- 6 et 2 
+- 6 et 4 
+- et double 2 
 
+Qui font un total de sept coups. 
 
+Si l’on continuait par les autres nombres, on aurait les mêmes résultats.
 
--G JEU DE TRICTRAC. ii les deux plus petits de ces dés égalent le troi* sicme. Procédé pour quatre dames directes. Lorsqu’on a pour couvrir quatre dés directs, I on ajoute leur montant à seize, en augmentant d’une unité pour chaque nombre qui est la moitié d’un autre, et de deux pour chaque égalité de deux nombres à un autre. Mais il est plus court de chercher les dés que l’on a contre soi, et de les déduire sur les trente-six chances. Par exemple, si Kermadeuc a, fig. 17, les as, les 2, les 4 et les 6 pour remplir en G, il voit aisément qu’il n’a contre lui qne le 5 et 3 et le quine, qui font trois coups. Donc, il est clair qu’il a trente-trois coups pour lui. /V)^ - VX'X'%/V1<W*^'V\'VVWVWVWWV\*'V\A'VVV\rt/WWV\ CHAPITRE IV. Procédé pour savoir combien on a de coups pour remplir de deux façons. Ce procédé-ci est encore moins connu que ceux que je viens d’indiquer; et quoique l’utilité en soit d’un moins fréquent usageelle esfc peut-être d’une plus grande importance.
+Or, il est évident, d’après la première démonstration, que trois dés directs ne peuvent jamais donner plus de douze coups pour remplir de deux façons ;
 
+D’après la deuxième et la troisième, que lorsqu’un des trois dés est la moitié de l’autre, on n’a que onze ou dix coups ; 
 
+D’après la quatrième, que lorsque les deux moindres dés égalent le plus fort, on n’a que huit coups ;
 
-V
+Enfin, d’après la cinquième que lorsque l’un des trois dés est la moitié de l'autre, et que les deux plus petits égalent le plus gros, on n’a que sept coups.
 
+_Donc, pour connaître la quantité de coups que l’on a pour couvrir de deux façons avec trois dés directs, on prend 12 pour maximum, et l’on diminue de ce nombre un point pour chaque dé qui se Trouve être la moitié d'un autre, et 4 points pour Végalité en somme des deux moindres dés avec le plus fort._ 
 
+**Procédé pour quatre dames directes.**
 
-COUPS POUR REMPLIR DE 2 FAÇONS. 77 Il n'est pas difficile à Kermadeuc de savoir lorsqu’il n’a que deux dés directs, qu’il ne peut couvrir de deux façons que par trois ou quatre moyens. Par trois moyens, lorsque le petit dé est la moitié du gros, tel que 6 et 3, où il n’a que terne et 6 et 3 ; par quatre moyens, avec deux autres dés, tels que 5 et 4 > où il a 5 et 4, et 4 et as. Mais s’il a trois dés directs, voici le raisonnement qu’il doit faire pour arriver à un procédé qui lui indique rapidement combien de moyens il a pour lui : Si j’ai le 4, le 5 et le 6, j’ai douze coups pour couvrir de deux façons, car, * Le 4 et le 5 se combinant ensemble donnent 4 et as 5 et 4 quatre coups,. Le 6, sç combinant avec le 4 ? donne 6 et 4 4 et 2 Encore quatre coups. Le 6, se combinant avec le 5, donne 6 et 5 5 et as Encore quatre coups. Total douze coups.
+La démonstration est la même pour quatre dames directes, et il en résulte : _que pour trouver combien on a de coups dans ce cas, on diminue du nombre 24 un point pour chaque dé qui se trouve être la moitié d'un autre, et 4 points pour l’égalité en somme de deux dés à un seul._
 
+Pour récapituler ce qui vient d’être démontré dans ces deux chapitres, je suppose que Kermadeuc veuille savoir d’abord combien il a de coups pour couvrir par trois dés directs, et qu’il ait, par exemple, le 4, le 5 et le 6. Il dit : 18 + 5 + 4 + 6 = 33 
 
+S’il a le 2, le 4 et le 6, il dit : 18 + 2 + 4 + 6 xxx = 33 
 
-JEU DE TRICTRAC. Si j’ai le 3, le 5 et le 6, j’ai onze coups, càr, Le 3 et le 5, se combinant ensemble donnent 3 et 2 5 et 3
+S’il a le 3, le 4 et le 6, il dit : 18 + 3 + + 6 + x = 32
 
+S’il a le 3, le 6 et l’as, il dit : 18 + 1 + 5 + 6 + xx = 32, etc.
 
+Veut-il connaître combien il a de coups pour remplir de deux façons par trois dames directes? si par exemple il a le 3, le 4 et le 5, il conclut qu’il a douze coups, puisqu’aucun de ces des n’est diviseur de l’autre, ni égal aux deux autres. 
 
-quatre coups. Le 6, se combinant avec le 3, donne . 6 et 3 terne.
+S’il a le 3, le 4 et le 6, il dit : 12 — x = 11 
 
+S’il a l’as, le 3 et le 4, il dit : 12 — xxxx — 8 
 
+S’il a l’as, le 2 et le 3, Il dit : 12 — x — xxxx = 7, etc.
 
-Le 6, se combinant avec le 5 donne
+Quant à la manière de connaître combien on a de coups pour remplir de trois façons, je ne l’exposerai pas ici ; elle est tout à fait inutile, puisqu’il n’y a rien de si simple à voir sans calcul.
 
 
+## CHAPITRE V. De divers procédés pour d’autres positions
 
-trois coups. 6 et 5 5 et as
+Si, outre les nombres directs, ou a encore des nombres indirects pour remplir, il ne serait pas difficile de savoir combien on a de coups pour soi. Par exemple, si Kermadeuc avait pour couvrir sa dame en K, fig. 18, une dame de surcase en I et une simple en F, il saurait dabord qu’il a vingt-trois coups par les 2 et les 5 puisque,5 + 2 + 16 = 23;
 
+Ensuite il verrait qu’il a le 4 et 3 et le 6 et as de D en R, puis le carmes de G en R, ce qui ferait : 5 + 2 + 16 + 4 + 1 = 28. 
 
+Mais moi, son adversaire, qui n’ai, pour couvrir en N que des dames indirectes en U, V, X et Y, il m’est facile de déterminer les coups que j’ai pour moi.
 
-quatre coups* Total onze coups. Si j’ai l’as, le 2 et le 4 ? j’ai dix coups, car, L’as et le 2 donnent trois coups. Le 4, combiné avec l’as quatre coups. Et avec le 2 trois coups.
+Nous avons vu, au chapitre 1er., que le 7 vient de six façons, le 8 de 5, etc. Alors je raisonne ainsi :
 
+- par le nombre composé de 7 j’ai 6 coups. 
+- par celui de 8, 5 
+- par celui de 9, 4 
+- par celui de 10, 3
 
+Donc j’ai dix-huit coups pour couvrir par les quatre dames indirectes en U, V, X et Y.
 
-Total dix coups. Si j’ai l’as, le 5 et le 6, j’ai huit coups, car, L’as et le 5 donnent quatre coups. Le 6, se combinant avec l’as, quatre id. Et avec le 5 quatre id. Mais le 5 et as se trouvant dans les trois énumérations il n’y a de réel que les quatre chances :
+Si je n’avais que le 7, le 9 et le 10, je dirais : 
 
+- J’ai par le 7, 6 coups. 
+- Par le 9, 4
+- Par le 10, 3
 
+Donc j’ai treize coups. 
 
-COUPS POUR REMPLIR DE a FAÇONS. 79 4 et as 5 et as 6 et as 6 et 5 Qui font huit coups. Si j’ai les 2, les 4 et les 6, j’ai sept coups, car, Le 2 et le 4 donnent trois coups. Le 6, combiné au 2, donne quatre id. Et combiné au 4 quatre id. Mais le 4 et 2 se trouvant dans ces trois énu- xnéralîons, il n’y a de réel que les chances 4 et 2 6 et 2 6 et 4 et double 2 Qui font un total de sept coups. Si l’on continuait par les autres nombres, on aurait les mêmes résultats. Or, il est évident, d’après la première démonstration, que trois dés directs ne peuvent jamais donner plus de douze coups pour remplir de deux façons ; D’ap rès la deuxième et la troisième, que lorsqu’un des trois dés est la moitié de l’autre, on n’a que onze ou dix coups ; D’après la quatrième / que lorsque les deux moindres dés égalent le plus fort, on 11’a que huit coups ; Enfin, d’après la cinquième que lorsque
+J’opérerais de même dans toutes les positions analogues.
 
+**Trouver le nombre des coups que l’on a pour battre le coin de l’adversaire.**
 
+Kermadeuc veut savoir combien il a de coups pour battre mon coin M par les cases G, H et I, fig, 19. Voici ce que je lui dis : 
 
-8o JEU DE TRICTRAC, l’un des trois dés est la moitié de Pautrc, et que les deux plus petits égalent le plus gros, on n’a que sept coups. Donc, pour connaître la quantité- de coups que l’on a pour couvrir de deux façons avec trois dés directs, on prend 12 pour maximum, et l’on diminue de ce nombre un point pour chaque dé qui se Trouve être la moitié d'un autre, et 4 points pour Végalité en somme des deux moindres dés avec le plus fort. Procédé pour quatre dames directes. La démonstration est la même pour quatre dames directes, et il en résulte : que pour trouver combien on a de coups dans ce cas, on diminue du nombre 24 un point pour chaque dé qui se trouve être la moitié d'un autre, et 4 points pour l’égalité en somme de deux dés à un seul. Pour récapituler ce qui vient d’être démontré dans ces deux cliapitres, je suppose que Ker- anadeuc veuille savoir d’abord combien il a de coups pour couvrir par trois dés directs, et qu’il ait, par exemple, le 4> le 5 et le 6. H dit : 18 + 5 + 4 H* 6. = 33 S’il a le 2, le 4 et le 6, Il dit : 18 -f- 2 + 4 + 6 ocxx — 33 S’il a le 3, le 4 et le 6, Il dit : 18 -f- 3 4- 4 + 6 + x — 82 S’il a le 3, le 6 et l’as IL dit : 18 + 1 + 5 + 6 xx— 32, etc.
+Carrez le nombre des cases que vous avez, et le produit sera le nombre de coups que vous aurez ; mais ici vous avez trois cases : or, multipliant trois par trois, vou6 aurez neuf, qui est précisément le nombre de coups par lequel vous battez le coin.
 
+En effet, la case G combinée avec la Case I donne 6 et 4
 
+La case H avec celle G donne G et 5 ; 
 
-NOMBRE DE COUPS POUR 4 DAMES. 81 Veut-il connaître combien il a de coups pour remplir de deux façons par trois dames directes? si par exemple il a le 3, le 4 et le 5, il conclut qu’il a douze coups,, puisqu’aucun de ces des n’est diviseur de l’autre, ni égal aux deux autres» S’il a le 3, le 4 et le 6, Il dit : 12 — x — h S’il a l’as, le 3 et le 4 > Il dit : 12 — xxxx — 8 S’il a l’as, le 2 et le 3, Il dit : i 2 — x — xxxx = q > etc» Quant à la manière de connaître combien on a de coups pour remplir de trois façons, je ne l’exposerai pas ici *, elle est tout à fait inutile, puisqu’il n’y a rien de si simple à voir sans calcul.
+Et celle I avec celle H donne 5 et 4.
 
+Ce qui fait deux coups pour chacune, auxquels, ajoutant leurs doublets, on a eu tout neuf coups.
 
+Si l'on avait quatre cases pour battre, on aurait 4 x 4 = 16; car, chacune des 4 cases, se combinant avec une des autres, donnerait trois coups, plus son doublet.
 
-* ' * ‘‘VVVVVWVVVVVVVWWW VWVW VW W> WVwwwtrvwwvi^^i/VVUVtWVM'VW CHAPITRE V. De divers procédés pour d’autres positions• Si, outré les nombres directs, ou a encore des nombres indirects pour remplir, il ne serait pas difficile de savoir combien on a de coups pour soi. Par exemple, si Rermadeuc avait pour cou •* vrir sa dame en JS, fig. i8 ; une dame de sur- » 4»
+Si l'on avait pour battre seulement dès flèches sur lesquelles il n’y eût qu’une dame, on diminuerait, du carré du nombre de ces flèches, un point pour chacune. Par exemple, fig. 6, on a J, I, H, G, F pour battre le coin : eh ! bien on a douze coups ; car, du carré de quatre, il faut ôter quatre pour les quatre doublets qui manquent, puisqu’il n’y a qu’une demi-case sur chaque flèche.
 
+Il faut pourtant que je fasse observer ici que le coin n’est pas admis au nombre des cases qui battent le coin opposé; car, pour qu’il le batte par un as, il faut qu’il s’y trouve une dame en surcase, et, par bezet, deux dames.
 
+Donc, _pour savoir combien on a de coups pour battre le coin de son adversaire, il faut carrer le nombre des flèches sur lesquelles on a des dames, son coin non compris, et diminuer du produit un point pour chaque demi-case, s’il y en a._ 
 
-■8* JEU DE TRICTRAC, case en I et une simple en F, il saurait dabord qu’il a vingt-trois coups par les 2 et les 5 puisque, 5 -J- 2 + 16 = 23; Ensuite il verrait qu’il a le 4 et 3 et le 6 et as de D en R, puis le carmes de G en R, ce qui ferait : 5-J-2 + i6-l-4 - i"i = 28. Mais moi, son adversaire, qui n’ai, pour couvrir en N que des dames indirectes en U, (V, X et Y, il m’est facile de déterminer les coups que j’ai pour moi. Nous avons vu, au chapitre i er ., que le 7 vient de six façons 7 le 8 de 5, etc. Alors je raisonne ainsi : Par le nombre composé de 7 j’ai 6 coups. Par celui de 8 5 Par celui de 9 4 Par celui de 10 3 Donc j’ai dix-huit coups pour couvrir par les quatre dames indirectes en U, V, X et Y. Si je n’avais que le 7, le 9 et le 10, je dirais : J’ai par le 7 6 coups. Par le 9 4 Par le 10 3 73 Donc j’ai treize coups. J’opérerais de même dans toutes les positions analogues.
+On fait le même raisonnement dans le cas où l’on voudrait savoir combien on a de coups pour remplir d’emblée, c’esl-à-dire lorsqu’on a le plein moins une case entière. 
 
+Ceci me mène à indiquer, en passant, la manière de savoir combien on a de coups pour ne pas passer le coin au Jan de retour.
 
+Si, fig. 13, je n’avais plus rien dans mon grand Jan, Kermadeuc ne pourrait pas passer son coin s’il amenait des as, parce que, soit que j’aie mon coin, soit que je ne l’aie plus, il ne peut jouer une dame de son coin par un as. Il aurait donc alors onze coups contre lui pour ne pas passer son coin. Si j’étais encore en N, il aurait vingt coups contre lui. Si en outre j’étais en O, il aurait vingt-sept coups.
 
-COUPS POUR BATTRE LE COIN. 85
+En effet, quand on ne peut passer le coin par les as, on a onze coups contre, puisque les as donnent onze chances ; quand on ne peut le passer par les as et les 2, l’adversaire ayant encore une dame en J, on a vingt coups contre, car les 2 donnent encore onze combinaisons, dont il faut déduire le deux et as, qui se trouve déjà dans les coups de l’as.
 
+Le reste peut se deviner facilement.
 
+**Savoir combien on a de coups pour être battu à faux.**
 
-Trouver le nombre des coups que l’on a pour battre le coin de l’adversaire. Kermadeuc veut savoir combien il a de coups pour battre mon coin M par les cases G, H et ï, fig, 19. Voici ce que je lui dis : Carrez le nombre des cases que vous avez, et le produit sera le nombre de coups que vous aurez ; mais ici vous avez trois cases : or, multipliant trois par trois, vou6 aurez neuf, qui est précisément le nombre de coups par lequel vous battez le coin. En effet, la case G combinée avec la Case I donne 6 et 4 > La case H avec celle G donne G et 5 ; Et celle I avec celle II donne 5 et 4* Ce qui fait deux coups pour chacune, auxquels, ajoutant leurs doublets, on a eu tout neuf coups. Si Pon avait quatre cases pour battre, on aurait 4x4=: 16; car, chacune des 4 cases, se combinant avec une des autres, donnerait trois coups, plus son doublet. Si Pon avait pour battre seulement dès flèches sur lesquelles il n’y eût qu’une dame, on diminuerait, du carié du nombre de ces flèches, un point pour chacune. Par exemple, fig. 6, on a J, I, Li, G, F pour battre le coin : eh ! bien
+Lorsque Kermadeuc est arrivé au plein du grand Jan, fig. 20, il veut savoir combien il a de coups pour être battu à faux dans son petit Jan. Je lui réponds que pour être battu à faux en F, il a vingt-un coups ; en E quinze coups, et en D dix coups. 
 
+En effet, puisqu’étant en F on a le point de 7 pour être battu à faux, on a vingt-un coups, car nous avons vu, au chapitre 1er., que sur les trente-six chances produites par les dés, il y en a quinze dont le montant de chacune est au-dessus de 7, et six dont le montant est juste 7. D’après cela, on n’en a que quinze en E, qui est immédiatement après 7, on n’en a que dix en D, etc.
 
+On peut voir par là qu’étant en F, en D et en E on a, pour être battu à faux en F et en E j tous les coups qui battent en D, c’est-à-dire que lorsque l’adversaire amène le point de 10, on a trois dames battues à faux.
 
-84 JÊtT DE TRICTRAC, on a douze coups ; car, du carré de quatre, il faut ôter quatre pour les quatre doublets qui manquent, puisqu’il n’y a qu’une demi-case sur chaque flèche. Il faut pourtant que je fasse observer ici que le coin n’est pas admis au nombre des cases qui battent le coin opposé; car, pour qu’il le batte par un as, il faut qu’il s’y trouve une dame en surcase, et, par bezet, deux dames. Donc, pour savoir combien on a de coups pour battre le coin de son adversaire, il faut carrer le nombre des flèches sur lesquelles on a des dames, son coin 7ion compris, et dimi- iiuer du produit un point pour chaque demi- case, s’il y en a. On fait le même raisonnement dans le cas où l’on voudrait savoir combien on a de coups pour remplir d’emblée, c’esl-à-dire lorsqu’on a le plein moins une case entière. Ceci me mène à indiquer, en passant, la manière de savoir combien on a de coups pour ne pas passer le coin au Jan de retour. Si, fig. i3, je n’avais plus rien dans mon grand Jan, Kermadeuc ne pourrait pas passer son coin s’il amenait des as, parce que, soit que j’aie mon coin, soit que je ne l’aie plus, il ne peut jouer une dame de son coin par un as. Il aurait donc alors onze coups contre lui pour ne pas passer son coin. Si j’étais encore en H,
+S’il restait quelques autres détails à donner sur l’arithmétique du jeu, ils seraient trop peu importants pour que j’en parlasse. C’est bien assez de ces cinq chapitres et des calculs qu’ils contiennent : ils ont assez de sécheresse, sans que j’en augmente encore la longueur. 
 
+Je crains que les dames qui veulent savoir le Trictrac ne s’impatientent, en me lisant, de toutes ces démonstrations qu’elles trouveront peut-être trop abstraites, quoiqu’elles soient loin de l’être autant que l’algèbre ; mais je leur en demande pardon : si elles veulent savoir le jeu à fond, il faut bien qu’elles en étudient les secrets comme les hommes. Je désirerais de tout mon cœur leur rendre celte étude plus facile ; mais cela ne m’a pas été possible. 
 
+J’aurais pu, à la vérité, m’arrêter à l’indication des moyens, sans en expliquer les motifs, semblable à ces instituteurs primaires qui enseignent à des enfans les quatre règles de l’arithmétique sans leur en démontrer les principes. Mais je fais trop de cas du lecteur pour ne pas le mettre à même de connaître, comme moi, sur quoi sont fondés les procédés que je donne ; je veux qu’on en sache le pourquoi. D’ailleurs si j’ai employé la rigueur mathématique, c’est pour qu’il ne reste aucun doute sur leur exactitude. Je me tairai sur la part de mérite que je puis avoir dans la découverte de ces mêmes procédés.
 
-COUPS POUR ETRE BATTU A FAUX. 85 il aurait vingt coups contre lui. Si en outre j’étais en O, il aurait vingt-sept coups. En effet, quand on ne peut passer le coin par les aâ, on a onze coups contre, puisque les as donnent onze chances ; quand on ne peut le passer par les as et les 2, l’adversaire ayant encore une dame en J, on a vingt coups contre, car les 2 donnent encore onze combinaisons, dont il faut déduire le deux et as, qui se trouve déjà dans les coups de l’as. Le reste peut se deviner facilement. Savoir combien on a de coups pour être battu à faux. Lorsque Kermadeuc est arrivé au plein du grand Jan, fig. 20, il veut savoir combien il a de coups pour être battu à faux dans son petit Jan. Je lui réponds que pour être battu à faux en F, il a vingt-un coups ; en E quinze coups, et en D dix coups. En effet, puisqu’étant en F on a le point de 7 pour être battu à faux, on a vingt-un coups, car nous avons vu, au chapitre i cr ., que sur les trente-six chances produites par les dés, il y en a quinze dont le montant de chacune est au- dessus de 7, et six dont le montant est juste 7. D’après cela, on n’en a que quinze en E, qui est immédiatement après 7, on n’en a que dix en D, etc.
+# TROISIÈME PARTIE. DES PRINCIPES QUI CONSTITUENT L’ART DE BIEN JOUER.
 
+Le Trictrac est un jeu où le hasard joue un grand rôle ; on pourrait même dire qu’il en fait le fond. Cependant la marche de ce jeu est si compliquée, et les chances de ce hasard sont si multipliées, que la théorie en est longue est difficile à saisir.
 
+Toute la science du Trictrac roule sur la connaissance parfaite des probabilités auxquelles donnent lieu les trente-six chances des dés ; connaissance assez étendue, qui ne peut être appliquée à la pratique que par des principes dont l’exécution soit sûre et invariable.
 
-86 JEU DE TRICTRAC. On peut voir par là qu’étant en F, en D et en E on a, pour être battu à faux en F et en E j tous les coups qui battent en D, c’est-à-dire que lorsque l’adversaire amène le point de io, ©n a trois dames battues à faux. S’il restait quelques autres détails à donner sur l’arithmétique du jeu, ils seraient trop peu importails pour que j’en parlasse. C’est bien assez de ces cinq chapitres et des calculs qu’ils contiennent : ils ont assez de sécheresse, sans que j’en augmente encore la longueur. Je crains que les dames qui veulent savoir le Trictrac ne s’impatientent, en me lisant, de toutes ces démonstrations qu’elles trouveront peut-être trop abstraites, quoiqu’elles soient loin de l’être autant que l’algèbre ; mais je leur en demande pardon : si elles veulent savoir le jeu à fond, il faut bien qu’elles en étudient les secrets comme les hommes. Je désii’erais de tout mon cœur leur rendre celte étude plus facile ; mais cela ne m’a pas été possible. J’aurais pu, à la vérité, m’arrêter à l’indication des moyens, sans en expliquer les motifs, semblable à ces instituteurs primaires qui enseignent à des enfans les quatre règles de l’arithmétique sans leur en démontrer les principes. Mais je fais trop de cas du lecteur pour ne pas le mettre à même de connaître, comme moi, sur quoi sont fondés les procédés que je donne ; je
+On peut pourtant, perdre encore, même en jouant tout le jeu contre quelqu’un qui le joue très-mal. Mais, si cela arrive quelquefois, il est impossible que ce soit d’une durée bien prolongée : le joueur supérieur l’emporte à la longue. Est-il étonnant, au surplus, qu’il en soit ainsi dans un jeu dont la base est le hasard, tel que celui-ci ? Mais encore un coup ? un joueur habile corrige la fortune, et comme le dit Térence :
 
+    Ita vita est hominum quasi cùm ludas tesseris, si illud quod maxime opus est jactu, non cadit ; illud quod accidit id arte ut corrigas. 
 
+    La vie des hommes est comme un jeu de dés : si la chance dont vous avez le plus besoin n’arrive pas, corrigez habilement celle qui est arrivée.
 
-COUPS DIVERS. 87 veux qu’on en sache le pourquoi. D’ailleurs si j’ai employé la rigueur mathématique, c’est pour qu’il ne reste aucun doute sur leur exactitude. Je me tairai sur la part de mérite que je puis avoir dans la découverte de ces mêmes procédés.
+Le secret du Trictrac consiste donc à suivre la méthode de conduite la plus conforme aux probabilités; et c’est de cette méthode que je vais exposer les principaux erre mens. Je ne dirai pas qu’après avoir lu cet ouvrage, on puisse devenir aussi fort qu’il soit possible : la pratique constante et la grande habitude peuvent seules faire arriver à la perfection; mais au moins je donnerai des principes qui pourront guider ceux qui apprennent le jeu, et qu’ils appliqueront eux-mêmes dans toutes les positions.
 
+Je vais donc, pour ainsi dire, donner la clé de ce jeu, clé que les forts joueurs d’aujourd’hui ont grand soin de cacher. Je me rappelé qu’étant dansune de cessociétés où se réunissent un grand nombre d’hommes pour faire de grosses parties, un de ces joueurs qui ne jouent que pour gagner, et qui spéculent sur la faiblesse des uns et des autres, me tira à l’écart pour me faire des reproches de ce que j’avais, en regardant jouer au Trictrac, fait des observations au plus faible sur les fautes qu’il faisait, observations qui tendaient à lui donner les grandes notions du jeu. Il me trouvait bien imprudent d’éclairer ainsi un ignorant : il fallait, si je l’en croyais, le laisser s’instruire lui-mêtne, à ses dépens, comme il avait fait, lui, jadis. Il n’y avait pas de raison, suivant lui, pour épargner ainsi à une mazett.c, c’est son expression, la longueur et les frais de l’apprentissage. Il ne servirait de rien d’avoir passé du tems et des veilles, de s’être absorbé dans les méditations pendant tant d’années, si cette mazéttc, avec des avis trop salutaires, arrivait en quinze jours de tems à la perfection ; enfin, que c’était nuire aux bons joueurs et aller contre l’intérêt commun, que de dévoiler ainsi les secrets du métier. Il me cita Fontenelle qui a dit, que lors même que sa main serait pleine de vérités, il ne l’ouvrirait pas, et il finit par ce vers : 
 
+    Les sols sont ici-bas pour nos menus plaisirs.
 
-JÜpXlU > »!
+Tout cela était dit d’un sérieux à faire mourir de rire, et je fus tenté de le prendre pour un fou. 
 
+Pourtant, je lui répondis en riant que je ne partageais pas cette opinion enfantée par l’égoïsme et la spéculation qui veut que l’on cache aux autres des vérités dont on veut fane 6eul son profit ; que je désirerais, au contraire, que tons les hommes en sussent autant les uns que les autres, afin que nul d’eux ne fût la dupe d’un plus rusé, et que pour moi, j’étais si philantropique de caractère, que je ne pouvais me défendre du penchant d’enseigner à mes semblables ce qu’ils ne savent pas. D’ailleurs, je le rassurai en lui faisant sentir que tous mes avis ne serviraient pas de grand-chose à la _mazette_ qui n’aurait pas d’aptitude naturelle à devenir forte, qui n’aurait pas reçu du ciel l’influence secrète. Cette réponse le consola, et termina cet entretien comico-philosophico-burlesque.
 
+Le plus grand obstacle qu’éprouvent les personnes qui n’ont pas l’habitude du jeu de Trictrac, est tout entier dans le coup d’œil. Il n’y a pas de jeu où il soit aussi difficile à saisir. Un novice, quand il a un certain nombre de dames abattues, ne sait plus laquelle jouer, et, faute de savoir à quoi se déterminer, prend souvent la dame qu’il ne doit pas prendre. 
 
-iüOl-; vJi-î ‘■i
+Il est certain pourtant qu’au Trictrac, comme aux Dames ou aux Echecs, il n’y a pas deux façons de bien jouer un coup. Que l’on ne croie donc pas que les grands joueurs ne soient pas d’accord entre eux sur la manière de jouer, de même que deux médecins sur une maladie. Le Trictrac est un peu moins conjectural que la médecine, et si deux joueurs, qui passent pour très-forts, ne sont pas du même avis sur un coup, vous pouvez croire hardiment que l’un des deux se trompe, ou ne mérite pas le renom de fort ; car, les réputations de joueurs ressemblent aux réputations de littérateurs, et à bien d’autres : il en est beaucoup de mal fondées. 
 
+C’est donc un axiome essentiel dont il importe que je démontre la vérité, et que je dois établir ici, avant d’entrer en matière : _qu’il n’y a pas deux façons de bien jouer un coup au Trictrac ; que rien ne doit y être donné au caprice, et que, pour le bien jouer, il faut suivre invariablement les principes de conduite qui résultent de la théorie du calcul des probabilités particulières a ce jeu._
 
+Certes, ce calcul de probabilités est plus étendu qu’on ne pense, et il y a un si grand nombre de positions au Trictrac, que celui qui prétendrait que ce jeu n’est pas au-dessus du _Domino_ ou du _Réversis_ ; que même il n’est pas supérieur au Piquet, et qu’il ne vient pas directement après les Echecs et les Dames, se tromperait étrangement, et ne connaîtrait ni la conduite ni les finesses de ce jeu. 
 
-» ‘muai < îttoon ; S'il). > j t ioj ‘j. iij]- •n'uplo.qi aiJao ? ; _ «io^ >èpDt f p uviîitt i-i
+Je vais donc développer, par ordre numérique, successivement tous les principes du jeu, à-peu-près dans l’ordre des positions auxquelles ils appartiennent; et je mettrai sans doute, par là, les étudians à même de se faire au coup- d’œil qu’il exige, en les familiarisant avec ses finesses.
 
+## CHAPITRE PREMIER Principes généraux sur le casement.
 
-
-«Kfl 9Ï J29 9n: Ji
-
-
-
-TROISIÈME PARTIE.
-
-
-
-DES PRINCIPES QUI CONSTITUENT L’ART DE BIEN JOUER.
-
-
-
-\w\v\ Ïje Trictrac est un jeu où le hasard joue un grand rôle ; on pourrait même dire qu’il en fait le fond. Cependant la marche de ce jeu est si compliquée, et les chances de ce hasard sont si multipliées, que la théorie en est longue est difficile à saisir. Tome la science du Trictrac roule sur la connaissance parfaite des probabilités auxquelles donnent lieu les trente-six chances des dés ; connaissance assez étendue, qui ne peut être appliquée à la pratique que par des principes dont l’exécution soit sure et invariable. On peut pourtant, perdre encore, même en jouant tout le jeu contre quelqu’un qui le joue très-mal. Mais, si cela arrive quelquefois, il est impossible que ce soit d’une durée bien prolongée : le joueur supérieur l’emporte à la longue. Est-il étonnant, au surplus, qu’il en soit ainsi dans un jeu dont la base est le hasard, tel que celui-ci ? Mais encore un coup ? un
-
-
-
-PRINCIPES POUR RIEN JOUER. 89 joueur habile corrige la fortune, et comme le dit Térence : Ita <vita est hominum quasi cùm ludas tesseris, si illud quod maxime opus est jactu, non cadit ; illud quod ac- ciditf id arte ut corrigus. « lia -vie tles hommes est comme un jeu de dés : si la v chance dont -vous avez le plus besoin n’arrive pas, cor- j> rigez habilement celle qui est arrivée. » Le secret du Trictrac consiste donc à suivre la méthode de conduite la plus conforme aux probabilités; et c’est de cette méthode que je vais exposer les principaux erre mens. Je ne dirai pas qu’après avoir lu cet ouvrage, on puisse devenir aussi fort qu’il soit possible : la pratique constante et la grande habitude peuvent seules faire arriver à la perfection; mais au moins je donnerai des principes qui pourront guider ceux qui apprennent le jeu, et qu’ils appliqueront eux-mêmes dans toutes les positions. Je vais donc, pour ainsi dire, donner la clé de ce jeu, clé que les forts joueurs d’aujourd’hui ont grand soin de cacher. Je me rappelé qu’étant dansune de cessociétés où se réunissent un grand nombre d’hommes pour faire de grosses parties, un de ces joueurs qui ne jouent que pour gagner, et qui spéculent sur la faiblesse des uns et des autres, me tira à l’écart pour me faire des reproches de ce que j’avais, en regardant jouer au Trictrac, fait des obser-
-
-
-
-qo JEU DE TRICTRAC, vations au plus faible sur les fautes qu’il faisait, observations qui tendaient à lui donner les grandes notions du jeu. Il me trouvait bien imprudent d’éclairer ainsi un ignorant : il fallait, si je l’en croyais, le laisser s’instruire lui-mêtne, à ses dépens, comme il avait fait, lui, jadis. Il n’y avait pas de raison, suivant lui, pour épargner ainsi à une mazett.c, c’est son expression, la longueur et les frais de l’apprentissage. Il ne servirait de rien d’avoir passé du tems et des veilles, de s’être absorbé dans les méditations pendant tant d’années, si cette mazéttc, avec des avis trop salutaires, arrivait en quinze jours de tems à la perfection ; enfin, que c’était nuire aux bons joueurs et aller contre l’intérêt commun, que de dévoiler ainsi les secrets du métier. Il me cita Fontenelle qui a dit, que lors même que sa main serait pleine de vérités, il ne l’ouvrirait pas, et il finit par ce vers : Les sols sont ici-bas pour nos menus plaisirs. Tout cela était dit d’un sérieux à faire mourir de rire, et je fus tenté de le prendre pour un fou. Pourtant, je lui répondis en riant que je ne partageais pas cette opinion enfantée par l’égoïsme et la spéculation qui veut que l’on cache aux autres des vérités dont on veut fane 6eul son profit ; que je désirerais, au contraire, que tons les hommes en sussent autant les uns
-
-
-
-P
-
-
-
-PRINCIPES POUR BIEN JOUER. 91 que les autres, afin que nul d’eux ne fût la dupe d’un plus rusé, et que pour moi, j’étais si philantropique de caractère, que je ne pouvais me défendre du penchant d’enseigner à mes semblables ce qu’ils ne savent pas. D’ailleurs, je le rassurai en lui faisant sentir que tous mes avis ne serviraient pas de grand - chose à la mazeite qui n’aurait pas d’aptitude naturelle à devenir forte, qui n’aurait pas reçu du ciel l’influence secrète. Cette réponse le consola, et termina cet entretien comico-pliilosophico-bur- lesque. Le plus grand obstacle qu’éprouvent les personnes qui n’ont pas l’habitude du jeu de Trictrac, est tout entier dans le coup d’œil. Il n’y a pas de jeu où il soit aussi difficile à saisir. Un novice, quand il a un certain nombre de dames abattues, ne sait plus laquelle jouer, et, faute de savoir à quoi se déterminer, prend souvent la dame qu’il ne doit pas prendre. Il est certain pourtant qu’au Trictrac, comme aux Dames ou aux Echecs, il n’y a pas deux façons de bien jouer un coup. Que l’on ne croie donc pas que les grands joueurs ne soient pas d’accord entre eux sur la manière de jouer, de même que deux médecins sur une maladie. Le Trictrac est un peu moins conjectural que la médecine, et si deux joueurs, qui passent pour très-forts, ne sont pas du même avis sur un coup, vous pouvez croire hardiment que l’un
-
-
-
-j 4
-
-
-
-JEU DE TRICTRAC. des deux se trompe, ou ne mérite pas le renom de fort ; car, les réputations de joueurs ressemblent aux réputations de littérateurs, et à bien d’autres : il en est beaucoup de mal fondées. C’est donc un axiome essentiel dont il importe que je démontre la vérité, et que je dois établir ici, avant d’entrer en matière : qu’il n’y a pas deux façons de bien jouer un coup au Trictrac ; que rien ne doit y être donné au caprice, et que, pour le bien jouer, il faut suivre invariablement les principes de conduite qui résultent de la théorie du calcul des probabilités particulières a ce jeu• Certes, ce calcul de probabilités est plus étendu qu’on ne pense, et il y a un si grand nombre de positions au Trictrac, que celui qui prétendrait que ce jeu n’est pas au-dessus du Domino ou du Réver sis ; que même il n’est pas supérieur au Piquet, et qu’il ne vient pas directement après les Echecs et les Dames, se tromperait étrangement, et ne connaîtrait ni la conduite ni les finesses de ce jeu. Je vais donc développer, par ordre numérique, successivement tous les principes du jeu, à-peu-près dans l’ordre des positions auxquelles ils appartiennent; et je mettrai sans doute, par là, les étudians à même de se faire au coup- d’œil qu’il exige, en les familiarisant avec ses finesses.
-
-
-
-PRINCIPES SUR LE CA SEMENT.
-
-
-
-IJtUftLlrr.5 oUli LJb LAMl.MJb]\T. cp l\\U'UWA VVV VVAV VVWIAl'\'W\VV\*/V\*/W%/VWW\ Vt^VTVXA'VVX VVVVVVX/\/\ WA VV5 CHAPITRE P R E AI 1 E Pu Principes généraux sur le casement.
-
-
-
-1. Lorsque vous jouez le premier coup de clé, mettez tout-à-bas (i). 2. Lorsque vous jouez le second coup, si vous amenez le point de 9 ou de 10, jouez tout d’une, si votre adversaire n’a encore des dames que dans son petit, Jan $ afin que de cette dame ainsi avancée vous puissiez le battre plus vite et l’empêcher de faire son petit Jan ou d’en profiter. 3. La dixième case qui se fait sur la flèche K ; fig. 1, est bonne à faire dans les premiers coups, parce qu’elle empêche souvent votre adversaire de faire son petit Jan, l’oblige à se cod- vrir, trouble singulièrement son jeu, et l’empêche
-
-
-
-(1) Je sais que les anciens auteurs donnent, comme un principe incontestable, de jouer tout d’une au premier coup, quand on amène un point au-dessus de 6 ; mais c’est une faute grave, car, en jouant ainsi, on s’ôte tout à-la-fois le moyen de faire un petit Jan ou un Jan de six tables, l’on a une dame de moins à bas, et I’oh n’est pas sur de couvrir de sitôt celle qui est ayancce.
-
-
-
-JEU DE TRICTRAC. aussi de s’étendre et de faire des demi-cases qui pourraient lui coûter un ou plusieurs trous ; elle est bonne égalementlorsque votre adversaire a son coin, et que vous n’avez pas le vôtre. Faites-Ia donc la première dans ce cas, et comme case d’observation, ainsi qu’on la nomme (x). Il ne faut pas appauvrir votre jeu pour cela, et lorsque vous êtes le plus avancé, évitez-la au contraire, parce qu’elle étrangle le jeu, le serre, rend les quines pernicieux à jouer, augmente les chances qui vous font battre votre adversaire à faux, vous donne une mauvaise position, et vous mène à la perte d’une partie. C’est la case la plus avantageuse à la fois et la plus dangereuse. 4-. La case F, dite le coin bourgeois, est essentielle à faire lorsque votre adversaire a son coin, parce que vous vous donnez par là des 6 pour faire le vôtre, lesquels autrement gâteraient votre jeu ; mais quand vous avez votre coin fait, il faut éviter de la surcharger de dames, parce qu’elle appauvrit et serre le jeu. 5. La case en Ii est appelée la case du
-
-
-
-(i) On l’appelle vulgairement la Travanais, parce que le marquis de Travanais, qui était fort au Trictrac, fut le premier qui s’avisa, malgré l’ancien préjugé, de la faire de préférence dans beaucoup de cas, et qu’elle lui fît gagner beaucoup d’argent. Les anciens avaient encore pour principe de ne la faire que la dernière ; ils l’appelaient la c.asç de Vécolier- } mais ils en exagéraient les inconvéniens.
-
-
-
-PRINCIPES SUR LE CASEMENT. 9 5 diable, parce qu’elle est très-difficile à faire à la fin : il faut donc chercher à la faire de préférence, à moins qu’on n’ait assez de dames étalées dans son petit Jan pour la faire à volonté. 6. Si, après les deux premières dames jouées, vous amenez un gros dé, passez ces deux dames dans votre grand Jan, soit de manière a faire des demi-cases, si votre adversaire est éloigné, soit à faire une case, s’il est trop proche. La raison en est, que vous vous mettez, en jouant ainsi, à même, ou de Lattre les deux coins et les dames découvertes de votre adversaire, ou de prendre votre coin le premier, 7. Si vous passez, au second coup, les deux premières darnes jouées dans le grand Jan, jouez-les de manière à ce qu’il y ait une ou plusieurs flèches de distance entre elles : il y a plus d’avantage ainsi, qu’en les plaçant sans intervalle l’une à côté de l’autre. En effet, les deux dames en T:I et J, fig, 4> ont le 5 et 3 et le 4 et 2, pour battre les deux coins. Mais si elles étaient en I et J, elles n’auraient que le 4 et 2 et le terne ; donc, il y a un coup de plus dans la première position. 8. Si vous jouez les deux premiers coups avec deux dames seulement que vous passez dans le grand Jan, n’en jouez pas un troisième avec ces mêmes (James -, c’est perdre du temps et négliger l’occasion d’abattre du bois»
+1. Lorsque vous jouez le premier coup de clé, mettez tout-à-bas (je sais que les anciens auteurs donnent, comme un principe incontestable, de jouer tout d’une au premier coup, quand on amène un point au-dessus de 6 ; mais c’est une faute grave, car, en jouant ainsi, on s’ôte tout à-la-fois le moyen de faire un petit Jan ou un Jan de six tables, l’on a une dame de moins à bas, et l’on n’est pas sur de couvrir de sitôt celle qui est avancée).
+2. Lorsque vous jouez le second coup, si vous amenez le point de 9 ou de 10, jouez tout d’une, si votre adversaire n’a encore des dames que dans son petit, Jan, afin que de cette dame ainsi avancée vous puissiez le battre plus vite et l’empêcher de faire son petit Jan ou d’en profiter.
+3. La dixième case qui se fait sur la flèche K ; fig. 1, est bonne à faire dans les premiers coups, parce qu’elle empêche souvent votre adversaire de faire son petit Jan, l’oblige à se couvrir, trouble singulièrement son jeu, et l’empêche aussi de s’étendre et de faire des demi-cases qui pourraient lui coûter un ou plusieurs trous ; elle est bonne également lorsque votre adversaire a son coin, et que vous n’avez pas le vôtre. Faites-la donc la première dans ce cas, et comme case d’observation, ainsi qu’on la nomme (on l’appelle vulgairement la _Travanais_, parce que le marquis de Travanais, qui était fort au Trictrac, fut le premier qui s’avisa, malgré l’ancien préjugé, de la faire de préférence dans beaucoup de cas, et qu’elle lui fît gagner beaucoup d’argent. Les anciens avaient encore pour principe de ne la faire que la dernière ; ils l’appelaient _la case de l'écolier_ ; mais ils en exagéraient les inconvénients). Il ne faut pas appauvrir votre jeu pour cela, et lorsque vous êtes le plus avancé, évitez-la au contraire, parce qu’elle étrangle le jeu, le serre, rend les quines pernicieux à jouer, augmente les chances qui vous font battre votre adversaire à faux, vous donne une mauvaise position, et vous mène à la perte d’une partie. C’est la case la plus avantageuse à la fois et la plus dangereuse.
+4. La case F, dite le coin bourgeois, est essentielle à faire lorsque votre adversaire a son coin, parce que vous vous donnez par là des 6 pour faire le vôtre, lesquels autrement gâteraient votre jeu ; mais quand vous avez votre coin fait, il faut éviter de la surcharger de dames, parce qu’elle appauvrit et serre le jeu.
+5. La case en H est appelée la case du diable, parce qu’elle est très-difficile à faire à la fin : il faut donc chercher à la faire de préférence, à moins qu’on n’ait assez de dames étalées dans son petit Jan pour la faire à volonté.
+6. Si, après les deux premières dames jouées, vous amenez un gros dé, passez ces deux dames dans votre grand Jan, soit de manière a faire des demi-cases, si votre adversaire est éloigné, soit à faire une case, s’il est trop proche. La raison en est, que vous vous mettez, en jouant ainsi, à même, ou de Lattre les deux coins et les dames découvertes de votre adversaire, ou de prendre votre coin le premier, 7. Si vous passez, au second coup, les deux premières darnes jouées dans le grand Jan, jouez-les de manière à ce qu’il y ait une ou plusieurs flèches de distance entre elles : il y a plus d’avantage ainsi, qu’en les plaçant sans intervalle l’une à côté de l’autre. En effet, les deux dames en T:I et J, fig, 4> ont le 5 et 3 et le 4 et 2, pour battre les deux coins. Mais si elles étaient en I et J, elles n’auraient que le 4 et 2 et le terne ; donc, il y a un coup de plus dans la première position. 8. Si vous jouez les deux premiers coups avec deux dames seulement que vous passez dans le grand Jan, n’en jouez pas un troisième avec ces mêmes (James -, c’est perdre du temps et négliger l’occasion d’abattre du bois»
 
 
 
