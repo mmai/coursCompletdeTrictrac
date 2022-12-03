@@ -13,12 +13,12 @@ Generate a svg trictrac diagram from textual notation
 position = <arrow number>,<checkers color>,<number of checkers>
 arrow numbers go from 1 to 24
 ex: ./diagramMaker.sh 1:black:5 14:white:7 3:black:2 > diag.svg
-ex: ./diagramMaker.sh 1:black:5 14:white:7 3:black:2 > diag.svg
 
 Available options:
 
 -h, --help      Print this help and exit
 -v, --verbose   Print script debug info
+-l, --letters   Add letters notation
 EOF
   exit
 }
@@ -56,6 +56,7 @@ parse_params() {
     case "${1-}" in
     -h | --help) usage ;;
     -v | --verbose) set -x ;;
+    -l | --letters) LETTERS=1 ;;
     --no-color) NO_COLOR=1 ;;
     -?*) die "Unknown option: $1" ;;
     *) break ;;
@@ -126,16 +127,19 @@ draw_svg() {
   name=$(echo $2 | tr '_' ' ')
 
   SVGHalfBoard=$(halfboard $width)
+  SVGLettersTop=$(letters $width $header "m,n,o,p,q,r,.,s,t,u,v,x,y")
+  SVGLettersBottom=$(letters $width $((tableHeight + header + 30)) "l,k,j,i,h,g,.,f,e,d,c,b,a")
   cat <<EOF
-  <svg version="1.1" baseProfile="full" width="$tableWidth" height="$(( tableHeight + header ))" xmlns="http://www.w3.org/2000/svg">
+  <svg version="1.1" baseProfile="full" width="$tableWidth" height="$(( tableHeight + 2 * header ))" xmlns="http://www.w3.org/2000/svg">
 
   <!-- legend -->
   <text text-anchor="middle" x="50%" y="$((width))" font-size="$fontSize" fill="$textColor">$name</text>'
+  $SVGLettersTop
 
   <!-- bordures exterieures -->
-  <rect x="0" y="$header" width="100%" height="$((tableHeight + 2 * $borderWidth))" fill="$frameColor" stroke="$frameStrokeColor"></rect>
+  <rect x="0" y="$((header + 10))" width="100%" height="$((tableHeight + 2 * $borderWidth))" fill="$frameColor" stroke="$frameStrokeColor"></rect>
 
-  <svg  x="$borderWidth" y="$((header + borderWidth))" width="$((tableWidth - 2 * borderWidth))" viewBox="0 0 $((width*13)) $((width*13))">
+  <svg  x="$borderWidth" y="$((header + borderWidth))" width="$((tableWidth - 2 * borderWidth))" viewBox="0 0 $((width*13)) $((width*14))">
     <rect x="0" y="0" width="100%" height="$((tableHeight - 2))" fill="$matColor" ></rect>
     <!-- left board -->
     <svg x="0" y="0" width="$(( (tableWidth - width) / 2))" height="$((tableHeight - 2))" viewBox="0 0 $((width*6)) $((width*11))">
@@ -152,6 +156,7 @@ draw_svg() {
 
     $SVG
   </svg>
+  $SVGLettersBottom
 
 </svg>
 EOF
@@ -181,6 +186,19 @@ halfboard() {
       color=$whiteArrowColor
     fi
     echo $(triangle $((width*k + 1)) $bottom $((width*(k + 1) - 1)) $bottom $((width*k + width/2)) $heightDown $color)
+  done
+}
+
+letters() {
+  width=$1
+  top=$2
+  vals=$(echo $3 | tr ',' ' ')
+
+  k=0
+  for val in $vals; do
+    cleanVal=$(echo $val | tr "." " ")
+    echo '<text text-anchor="middle" x="'$((width*k + width/2))'" y="'$top'" font-size="'$fontSize'" fill="'$textColor'">'$cleanVal'</text>'
+    k=$((k + 1))
   done
 }
 
