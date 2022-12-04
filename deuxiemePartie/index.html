@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="author" content="Henri Bourcereau" /><link rel="canonical" href="https://mmai.github.io/coursCompletDeTrictrac/deuxiemePartie/" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>Deuxième partie - Cours complet de Trictrac</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Deuxi\u00e8me partie";
+        var mkdocs_page_input_path = "deuxiemePartie.md";
+        var mkdocs_page_url = "/coursCompletDeTrictrac/deuxiemePartie/";
+      </script>
+    
+    <script src="../js/jquery-3.6.0.min.js" defer></script>
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> Cours complet de Trictrac
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Présentation</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../discoursPreliminaire/">Discours préliminaire</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../premierePartie/">Première partie</a>
+                </li>
+              </ul>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="./">Deuxième partie</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#i-des-combinaisons-produites-par-deux-des">I. Des combinaisons produites par deux dés</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#ii-des-procedes-qui-font-connaitre-les-coups-qui-battent-et-qui-remplissent-quand-on-a-un-et-deux-des-directs">II. Des procédés qui font connaître les coups qui battent et qui remplissent quand on a un et deux dés directs.</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#iii-des-procedes-pour-connaitre-les-coups-qui-battent-et-remplissent-par-plus-de-deux-des">III. Des procédés pour connaître les coups qui battent et remplissent par plus de deux dés.</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#iv-procede-pour-savoir-combien-on-a-de-coups-pour-remplir-de-deux-facons">IV. Procédé pour savoir combien on a de coups pour remplir de deux façons.</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#v-de-divers-procedes-pour-dautres-positions">V. De divers procédés pour d’autres positions</a>
+    </li>
+    </ul>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../troisiemePartie/">Troisième partie</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../quatriemePartie/">Quatrième partie</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../appendix/">Appendix</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">Cours complet de Trictrac</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" alt="Docs"></a> &raquo;</li><li>Deuxième partie</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="deuxieme-partie-de-larithmetique-du-trictrac">DEUXIÈME PARTIE. DE L’ARITHMÉTIQUE DU TRICTRAC.</h1>
+<p>Aucun des auteurs qui ont écrit sur le Trictrac n’a traité l’arithmétique de ce jeu d’une manière satisfaisante. Je vais y faire découvrir des routes qui leur étaient inconnues, qu’ignoraient totalement les joueurs d’autre fois, qu’ignore même encore l’immense majorité des joueurs d’aujourd’hui. La partie que je vais traiter est donc presque tout à fait neuve : c’est la plus importante de cet ouvrage, et celle qui doit mériter le plus l’attention des amateurs.</p>
+<h2 id="i-des-combinaisons-produites-par-deux-des">I. Des combinaisons produites par deux dés</h2>
+<p>Supposons que l’un des deux dés avec lesquels on joue soit rouge et l’autre noir : si l’on compare chacun des nombres inscrits sur le dé rouge avec chacun successivement de ceux inscrits sur le dé noir, on devra trouver autant de fois six combinaisons qu’il y a de nombres ou de laces sur ce dé rouge.</p>
+<p>En effet, je prends l’as rouge, et le joignant successivement à l’as noir, au 2 noir, au 3 noir, au 4 noir, au 5 noir et au 6 noir, j’ai </p>
+<ul>
+<li>As rouge et as noir,</li>
+<li>As rouge et 2 noir,</li>
+<li>As rouge et 3 noir,</li>
+<li>As rouge et 4 noir,</li>
+<li>As rouge et 5 noir,</li>
+<li>As rouge et 6 noir.</li>
+</ul>
+<p>Or, si après cela je prends le 2 rouge, et que je fasse la même opération ; si le 3 rouge ; si le 4 rouge, etc., il est évident que j’aurai pour le 2, le 3, le 4, le 5 et le 6 rouges, cinq autres fois autant de combinaisons que j’en viens de trouver avec l’as rouge.</p>
+<p>Donc j’aurai en tout six fois six combinaisons; donc il y a trente-six chances dans les coups produits par deux dés.</p>
+<p>Sur ces trente-six chances il y en a six où les nombres de chacune ne reparaissent dans aucune des cinq autres ; ce sont celles qui résultent de l’assemblage de deux nombres égaux du dé rouge et du dé noir, telles que, as et as, 2 et 2, etc. On les appelle des doublets, et elles ont six dénominations distinctes.</p>
+<p>Les trente autres chances ne prennent que quinze dénominations ; c’est-à-dire que les deux qui sont composées des mêmes nombres prennent une dénomination unique. Par exemple, as rouge et 2 noir, et 2 rouge et as noir sont composés de nombres transversalement égaux, puisqu’as rouge est égal à as noir, et 2 rouge à 2 noir. Ces deux chances doivent donc être énoncées d’une seule manière, en commençant par le plus grand nombre : ainsi as rouge et 2 noir, comme as noir et 2 rouge, prennent la dénomination de <em>2 et as</em>, attendu qu’on ne joue jamais qu’avec des dés d’une même couleur.</p>
+<p>On voit, par conséquent, que les six doublets ne peuvent venir que d’une seule façon chacun, et qu’au contraire chacune des autres chances vient de deux façons ; car double as est unique, puisqu’il n’y a qu’un as dans chaque dé ; mais deux et as est double, puisqu’il se fait, soit par as rouge et 2 noir, soit par 2 noir et as rouge.</p>
+<p>De là cette vérité : <em>que les coups à nombres égaux sont simples, et que les coups à nombres inégaux sont doubles.</em> (c’est donc encore une des mille et une niaiseries de l’auteur de l’ancien traité de JDatnon et Clons, lorsqu’il dit, que les coups simples sont doubles, et que les coups doubles sont simples. Deux et as n’est pas plus un coup simple, que bezet n'est un coup double).</p>
+<p>Sur les trente-six chances que fournissent deux dés, il y en a quinze dont le montant des nombres de chacune est au-dessous de sept ; six dont le montant est juste sept, et les quinze autres au-dessus de sept.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2 ch. 2 et as</td>
+<td>2 ch. 4 et 3</td>
+<td>2 ch. 5 et 3</td>
+</tr>
+<tr>
+<td>2 ch. 3 et as</td>
+<td>2 ch. 5 et 2</td>
+<td>2 ch. 5 et 4</td>
+</tr>
+<tr>
+<td>2 ch. 3 et 2</td>
+<td>2 ch. 6 et as</td>
+<td>2 ch. 6 et 2</td>
+</tr>
+<tr>
+<td>2 ch. 4 et as</td>
+<td></td>
+<td>2 ch. 6 et 3</td>
+</tr>
+<tr>
+<td>2 ch. 4 et 2</td>
+<td></td>
+<td>2 ch. 6 et 4</td>
+</tr>
+<tr>
+<td>2 ch. 5 et as</td>
+<td></td>
+<td>2 ch. 6 et 5</td>
+</tr>
+<tr>
+<td>1 ch. bezet</td>
+<td></td>
+<td>1 ch. carmes</td>
+</tr>
+<tr>
+<td>1 ch.double 2</td>
+<td></td>
+<td>1 ch. quine</td>
+</tr>
+<tr>
+<td>1 ch. terne</td>
+<td></td>
+<td>1 ch. sonnez</td>
+</tr>
+<tr>
+<td>-------------</td>
+<td>-------------</td>
+<td>------------</td>
+</tr>
+<tr>
+<td>15 chances</td>
+<td>6 chances</td>
+<td>15 chances</td>
+</tr>
+</tbody>
+</table>
+<p>Il suit, de cet exposé, qu’un nombre composé vient d’autant de façons qu’il y a de points moins un dans ce même nombre, lorsqu’il est de sept et au-dessous, et qu’au-dessus de sept il vient d’autant de façons moins de six, qu’il s’éloigne d’unités moins six de ce même nombre six, ainsi qu’il résulte de cette énumération ;</p>
+<ul>
+<li>2 vient une fois par bezet,</li>
+<li>3 deux fois par 2 et as,</li>
+<li>4 trois fois par 3 et as et double 2,</li>
+<li>5 quatre fois par 3 et 2 et 4 et as </li>
+<li>6 cinq fois par 5 et as, 4 et 2 et terne,</li>
+<li>7 six fois par 4 et 3, 5 et 2 et 6 et as,</li>
+<li>8 cinq fois par 6 et 2, 5 et 3 et carmes,</li>
+<li>9 quatre fois par 5 et 4, et 6 et 3,</li>
+<li>10 trois fois par 6 et 4 et quine,</li>
+<li>11 deux fois par 6 et 5.</li>
+</ul>
+<p>Le nombre composé sept, comme on voit, est donc celui qui vient le plus souvent. En outre, on peut remarquer, pour la curiosité seulement, qu’en additionnait le montant de toutes les chances au-dessous de sept, elles forment un total de 70 points, et celles au-dessus de sept de 140 points.</p>
+<ul>
+<li>Chances au-dessous de sept : 70 points.</li>
+<li>au-dessus de sept : 140</li>
+<li>de 7 : 42</li>
+</ul>
+<p>Total  252 points.</p>
+<p>Somme pareille à celle du tableau suivant :</p>
+<p>Tableau des trente-six chances, réduites à vingt-une dénominations.</p>
+<table>
+<thead>
+<tr>
+<th>ROUGE</th>
+<th>NOIR</th>
+<th>DENOMINATION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>Bezet</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2</td>
+<td>Double 2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>3</td>
+<td>Terne</td>
+</tr>
+<tr>
+<td>4</td>
+<td>4</td>
+<td>Carmes</td>
+</tr>
+<tr>
+<td>5</td>
+<td>5</td>
+<td>Quine</td>
+</tr>
+<tr>
+<td>6</td>
+<td>6</td>
+<td>Sonnez</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>2 et as</td>
+</tr>
+<tr>
+<td>2</td>
+<td>1</td>
+<td>2 et as</td>
+</tr>
+<tr>
+<td>1</td>
+<td>3</td>
+<td>3 et as</td>
+</tr>
+<tr>
+<td>3</td>
+<td>1</td>
+<td>3 et as</td>
+</tr>
+<tr>
+<td>1</td>
+<td>4</td>
+<td>4 et as</td>
+</tr>
+<tr>
+<td>4</td>
+<td>1</td>
+<td>4 et as</td>
+</tr>
+<tr>
+<td>1</td>
+<td>5</td>
+<td>5 et as</td>
+</tr>
+<tr>
+<td>5</td>
+<td>1</td>
+<td>5 et as</td>
+</tr>
+<tr>
+<td>1</td>
+<td>6</td>
+<td>6 et as</td>
+</tr>
+<tr>
+<td>6</td>
+<td>1</td>
+<td>6 et as</td>
+</tr>
+<tr>
+<td>2</td>
+<td>3</td>
+<td>3 et 2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>2</td>
+<td>3 et 2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>4</td>
+<td>4 et 2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>2</td>
+<td>4 et 2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>5</td>
+<td>5 et 2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>2</td>
+<td>5 et 2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>6</td>
+<td>6 et 2</td>
+</tr>
+<tr>
+<td>6</td>
+<td>2</td>
+<td>6 et 2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>4</td>
+<td>4 et 3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>3</td>
+<td>4 et 3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>5</td>
+<td>5 et 3</td>
+</tr>
+<tr>
+<td>5</td>
+<td>3</td>
+<td>5 et 3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>6</td>
+<td>6 et 3</td>
+</tr>
+<tr>
+<td>6</td>
+<td>3</td>
+<td>6 et 3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>5</td>
+<td>5 et 4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>4</td>
+<td>5 et 4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>6</td>
+<td>6 et 4</td>
+</tr>
+<tr>
+<td>6</td>
+<td>4</td>
+<td>6 et 4</td>
+</tr>
+<tr>
+<td>5</td>
+<td>6</td>
+<td>6 et 5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>5</td>
+<td>6 et 5</td>
+</tr>
+<tr>
+<td>-------</td>
+<td>------</td>
+<td></td>
+</tr>
+<tr>
+<td>126</td>
+<td>126</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>total : 252</p>
+<p>En effet, le montant des nombres inscrits sur les six faces du dé rouge, est de 21; celui des nombres du dé noir est aussi de 21. Or, les nombres de chacun étant répétés six fois réciproquement, donnent douze fois 21, ou 252. </p>
+<h2 id="ii-des-procedes-qui-font-connaitre-les-coups-qui-battent-et-qui-remplissent-quand-on-a-un-et-deux-des-directs">II. Des procédés qui font connaître les coups qui battent et qui remplissent quand on a un et deux dés directs.</h2>
+<p>A présent que nous avons prouvé qu’il y a trente-six chances de dés, il reste à indiquer une manière sûre de trouver combien on a de coups pour ou contre soi, dans toutes les circonstances, telle qu’on n’ait pas besoin de calculer ni de compter sur ses doigts.</p>
+<p>D’abord, s’il s’agit de savoir combien on a de coups pour battre une dame par un seul dé direct, je répondrai qu’il y en a onze.</p>
+<p>Si j’ai, fig. 15, une dame découverte en Q et une en R, Kermadeuc a onze coups pour battre ma dame en Q par les 5, et onze pour battre celle en R par les 6.</p>
+<p><img alt="figure 15" src="../diag-trictrac-figure_15-aW3-jW2-kW2-lW2-yB3-rB1-qB1-pB1-oB2-nB2-mB2.svg" /></p>
+<p>Car il a onze chances par les 5, puisqu’il y a :</p>
+<ul>
+<li>5 et as : 2 ch.</li>
+<li>5 et 2 : 2 </li>
+<li>5 et 3 : 2 </li>
+<li>5 et 4 : 2 </li>
+<li>6 et 5 : 2 </li>
+<li>quine : 1</li>
+</ul>
+<p>Total 11 ch.</p>
+<p>Il en a de même onze pour battre par les 6, puisqu’il y a: </p>
+<ul>
+<li>6 et as : 2 ch.</li>
+<li>6 et 2 : 2 </li>
+<li>6 et 3 : 2 </li>
+<li>6 et 4 : 2 </li>
+<li>6 et 5 : 2</li>
+<li>sonnez 1</li>
+</ul>
+<p>Total 11 ch.</p>
+<p>Mais il s’agit de savoir combien il y a de coups pour battre la dame en Q par 5 et par 6, ou celle en P par 4, 5 et 6.</p>
+<p>On n’a qu’à diminuer 2 points sur le nombre 11 pour le second nombre et 4 pour le troisième, et joindre le tout ensemble ; cela fait vingt coups pour les 5 et les 6, et vingt-sept coups pour les 4 y les 5 et les 6. Ce procédé est applicable à tous les nombres quelconques directs.</p>
+<p>En effet, si Kermadeuc a les 5 et les 6 pour battre ma dame en Q par L et K de son grand Jan, il y a onze moyens par le 6, et neuf seulement par le 5, puisqu’il faut retrancher des vingt-deux moyens de ces deux nombres le 6 et 5 qui leur est commun, et qui est déjà employé pour deux moyens. S’il a les 4 &gt; les 5 et les 6 pour battre ma dame en P par ses dames en L j K. et J de son grand Jan, il aura onze moyen par les 6 ; 9 par les 5, et 7 par les 4, puisqu’il faut retrancher des trente moyens de ces trois nombres le 6 et 5, le 6 et 4 et le 5 et 4 qui leur sont communs, et qui sont déjà employés pour six moyens.</p>
+<p><em>Procédé pour savoir combien on a de coups pour couvrir d'une façon une seule dame directe.</em></p>
+<p>Kermadeuc n’a plus, pour faire son plein, qu’à couvrir la dame en K, fig. 16.</p>
+<p><img alt="figure 16" src="../diag-trictrac-figure_16-aW2-eW1-fW1-gW3-hW3-iW3-jW3-kW1-lW2-yB3.svg" /></p>
+<p>Supposons d’abord qu’il n’ait que les as en J, et nous supposerons ensuite qu’il n’ait que les 2, etc.</p>
+<p>Voici donc le raisonnement qu’il fera pour arriver au procédé qu’il doit employer pour connaître tout d’un coup combien il a de moyens pour remplir par un seul dé direct : Par l’as j’ai onze coups, car j’ai dix coups invariables, qui sont: </p>
+<ul>
+<li>le 2 et as </li>
+<li>le 3 et as </li>
+<li>le 4 et as </li>
+<li>le 5 et as</li>
+<li>et Le 6 et as </li>
+</ul>
+<p>A quoi j’ajoute le doublet.</p>
+<p>Or, je trouve que cette somme de onze se trouve précisément dans le montant un du dé joint au montant dix des coups invariables.</p>
+<p>Par le 2 j’ai douze coups, car j’en ai de même dix d’invariables 7 qui sont : </p>
+<ul>
+<li>le 2 et as</li>
+<li>le 2 et 3 </li>
+<li>le 2 et 4 </li>
+<li>le 2 et 5</li>
+<li>le 2 et 6 </li>
+</ul>
+<p>À quoi j’ajoute le doublet.</p>
+<p>Plus j’ai le bezet qui entre dans le 2 comme composé, ce qui fait douze ; mais cette somme de douze se trouve précisément représentée par le montant deux du dé joint à dix, montant des coups invariables.</p>
+<p>Par le 3 : j’ai treize coups ; car outre les dix invariables et le doublet qui font onze, j’ai le 2 et as qui entre dans le 3 comme composé; ce qui fait treize ; mais cette somme se trouve précisément être le montant du dé joint à dix. Il en serait ainsi des autres nombres.</p>
+<p>Kermadeuc en conclut alors : que, <em>pour savoir d’un coup-d’œil combien on a de coups pour couvrir une dame quand on a. un seul dé direct, on ajoute dix au montant de ce dé.</em></p>
+<p><strong>Procédé pour deux dames directes.</strong></p>
+<p>Supposons que Kermadeuc ait deux dames pour remplir. Voici comme il raisonne :</p>
+<p>Si j’ai les 2 et les as, par exemple, j’ai vingt coups, car on vient de voir qu’il y a pour un seul dé direct dix chances invariables.</p>
+<p>J’ai donc ici pour le 2</p>
+<ul>
+<li>2 et as </li>
+<li>3 et 2</li>
+<li>4 et 2</li>
+<li>5 et 2</li>
+<li>6 et 2</li>
+</ul>
+<p>Et pour l’as</p>
+<ul>
+<li>2 et as</li>
+<li>3 et as </li>
+<li>4 et as </li>
+<li>5 et as </li>
+<li>6 et as</li>
+</ul>
+<p>Mais la combinaison 2 et as se trouve commune aux deux nombres ; il faut donc la distraire des chances de chacun : alors il ne me restera que huit coups pour les as, et huit pour les 2, ou seize coups qui sont invariables ; à quoi, ajoutant les deux coups de 2 et as, j’ai dix-huit coups pour les deux doublets qui font vingt. Or, cette somme de vingt se trouve précisément dans le montant des deux dés 1 et 2 ajouté aux seize coups invariables, plus un point d’augmentation.</p>
+<p>Si j’ai les 3 et les as, j’ai encore vingt coups pour couvrir, car l’as me donne :</p>
+<ul>
+<li>2 et as </li>
+<li>3 et as </li>
+<li>4 et as </li>
+<li>5 et as </li>
+<li>6 et as</li>
+</ul>
+<p>Et le 3 </p>
+<ul>
+<li>3 et as </li>
+<li>3 et 2 </li>
+<li>3 et 4 </li>
+<li>3 et 5 </li>
+<li>3 et 6</li>
+</ul>
+<p>Mais la Combinaison 3 et as se trouvant dans l’une et l’autre de ces énumérations, il faut l’en distraire, et il ne restera que huit coups pour les as, et huit pour les 3, ou seize coups invariables ; à quoi ajoutant les deux coups de 3 et as, j’ai dix-huit coups, plus les deux doublets; en tout vingt coups. Or, cette somme de vingt se trôuve précisément dans le montant des deux dés as et 3, ajouté à 16, montant de leurs coups invariables.</p>
+<p>Si j’ai as et 4, j’ai vingt-un coups pour couvrir, car l’as me donne </p>
+<ul>
+<li>2 et as </li>
+<li>3 et as </li>
+<li>4 et as </li>
+<li>5 et as </li>
+<li>6 et as </li>
+</ul>
+<p>Et le 4</p>
+<ul>
+<li>4 et as </li>
+<li>4 etas </li>
+<li>4 etas </li>
+<li>4 etas </li>
+<li>4 et 6 </li>
+</ul>
+<p>Mais la combinaison 4 et as se trouvant dans l’une et l’autre énumérations, je l’en distrais, et il ne me reste en tout, que seize coups invariables ; à quoi ajoutant les deux coups de 4 et 1, j’ai dix-liuit, plus les deux doublets ; ce qui fait vingt, plus le double 2, qui entre dans le 4 comme nombre composé ; en tout viîïgt-ün. Or cette somme de vingt-un se trouve précisément dans le montant des deux dés 4 et as, ajouté à seize, montant de leurs coups invariables.</p>
+<p>Si j’ai 4 et 2, j’ai vingt-trois coups, car Le 2 me donne </p>
+<ul>
+<li>2 et 1 </li>
+<li>3 et 2 </li>
+<li>4 et 2 </li>
+<li>5 et 2 </li>
+<li>6 et 2 </li>
+</ul>
+<p>Le 4 redonne</p>
+<ul>
+<li>4 et as</li>
+<li>4 et 2</li>
+<li>4 et 3</li>
+<li>4 et 5</li>
+<li>4 et 6</li>
+</ul>
+<p>Mais je déduis la combinaison 4 et 2, qui se trouve des deux côtés, et il me reste toujours seize coups invariables, qui, avec les deux coups de 4 et 2 et les deux doublets, font 20 ; plus bezet qui entre dans le 2 comme composé, et 2 et as qui entre dans le 4 aussi comme composé ; trois coups de plus : en tout 23 coups. Or, cette somme de 23 se trouve précisément dans le montant des dés, ajouté a 16 montant de leurs coups invariables, plus un point d’augmentation.</p>
+<p>La même démonstration appliquée aux autres nombres, produirait les mêmes résultats.</p>
+<p>Kermadeuc en conclut donc : <em>que, pour savoir d’un coup d’œil combien Von a de coups pour couvrir d’une seule façon une dame, quand on a deux dés directs, il faut ajouter 16 au montant de ces deux des étaugmenter le total d'un point, lorsque le moindre dé est la moitié du plus fort.</em></p>
+<p>Ainsi, Kermadeuc veut savoir combien il a de coups pour couvrir, ayant l'as direct, il dit : 10 + 1 = 11 coups.
+S’il a le 6 : 10 + 6 = 16 .
+S’il a deux dés directs, tels que le 2 et le 6, il dit : 16 + 2 + 6 = 24 coups. 
+S’il a le 3 et le 6 : 16 + 3 + 6 + X = 26 (X désigne le point d'augmentation que je regarde comme l'inconnue).</p>
+<h2 id="iii-des-procedes-pour-connaitre-les-coups-qui-battent-et-remplissent-par-plus-de-deux-des">III. Des procédés pour connaître les coups qui battent et remplissent par plus de deux dés.</h2>
+<p><strong>Procédé pour trois dames directes.</strong></p>
+<p>Voici comme Kermadeuc raisonnerait dans le cas où il aurait trois dames pour couvrir.</p>
+<p>Si par exemple j’ai les as, les 2 et les 3, j’ai vingt-sept coups pour couvrir ; car, L’as me donne </p>
+<ul>
+<li>2 et as</li>
+<li>3 et as </li>
+<li>4 et as</li>
+<li>5 et as</li>
+<li>6 et as </li>
+</ul>
+<p>Le 2 me donne </p>
+<ul>
+<li>2 et as</li>
+<li>3 et 2 </li>
+<li>4 et 2 </li>
+<li>5 et 2 </li>
+<li>6 et 2</li>
+</ul>
+<p>Le 3 me donne</p>
+<ul>
+<li>3 et as</li>
+<li>3 et 2</li>
+<li>4 et 3 </li>
+<li>5 et 3</li>
+<li>6 et 3 </li>
+</ul>
+<p>Mais la combinaison 2 et as se trouve dans les deux premières énumérations ; celle 3 et as dans la première et dans la troisième, et la combinaison 3 et 2 se trouve dans les deux dernières.</p>
+<p>Il ne me reste donc que trois combinaisons dans chaque énumération, qui ne se retrouvent pas dans les deux autres : ces neuf combinaisons produisent dix-huit coups invariables. A ces dix-huit coups, j’en ajoute six autres pour le 2 et as, le 3 et as et le 3 et 2, et j’ai alors vingt- quatre coups, à quoi j’ajoute les trois doublets d’as, de 2 et de 3 ; en tout vingt-sept coups. Or, cette somme égale le montant des trois dés, plus celui dix-huit des coups invariables, en y ajoutant deux unités.</p>
+<p>Si j’ai les as, les 2 et les 5, j’aurai encore vingt-sept coups pour couvrir, car j’ai dix-huit coups invariables, auxquels en ajoutant six pour le 2 et as, le 5 et as et le 5 et 2, j’ai vingt-quatre, plus les trois doublets; en tout vingt- sept coups. Or, cette somme de vingt-sept égale le montant des trois dés, plus celui dix-huit en y ajoutant une unité.</p>
+<p>Si j’ai les as, les 3 et les 4 &gt; j’ai vingt - huit coups pour couvrir, car j’en ai dix-huit d’invariables, auxquels ajoutant six autres et les trois doublets, cela me fait vingt-sept coups, plus le double 2 qui entre comme composé dans le 4. En tout vingt-huit coups, Or, cette somme égale le montant des trois dés, plus celui dix-huit en y ajoutant 2 points.</p>
+<p>Si j’ai les 4, les 5 et les 6, j’ai trente-trois coups pour, couvrir ; car, aux dix-huit coups invariables, j’ajoute six coups, plus les trois doublets; ce qui fait vingt-sept, à quoi j’ajoute encore : trois pour le double 2 et le 3 et as qui entrent comme composés dans le 4 ; deux pour le 3 et 2, qui entre de même dans le 5, et un pour le terne, qui entre aussi de même dans le 6; total trente-trois coups. Or, cette somme égale précisément le montant des trois dés joint à dix-buit de leurs invariables.</p>
+<p>Kermadeuc, en continuant le même raisonnement pour d’autres nombres, trouverait les mêmes résultats.</p>
+<p>Mais puisque dans le premier cas où il a l’as, le 2 et le 3 dont l’as est moitié du 2, et l'as et le 2 = 3, il est obligé d’augmenter de trois unités le montant des dés et des coups invariables ; puisque dans le deuxième cas où il a l’as, le 2 et le 4 5 dont Pas est moitié du 2 et le 2 du 4, il est obligé d’augmenter de deux unités les mêmes montants ; puisque dans le troisième cas où il a les as, les 2 et les 5, où Pas est moitié du 2, il est obligé de les augmenter d’une unité; enfin puisque dans le quatrième cas où il a les as, les 3 et les 4 &gt; il est obligé de les augmenter de deux, il conclut que :</p>
+<p><em>Pour savoir d’un coup-d’œil combien on a de coups pour couvrir d’une seule façon une dame quand on a trois dés directs, il faut ajouter dix- huit au montant de ces trois dés, et augmenter ce total d’un point pour chaque dé qui est la moitié d'un autre, et de deux points, lorsque les deux plus petits de ces dés égalent le troisieme.</em> </p>
+<p><strong>Procédé pour quatre dames directes.</strong></p>
+<p>Lorsqu’on a pour couvrir quatre dés directs, I on ajoute leur montant à seize, en augmentant d’une unité pour chaque nombre qui est la moitié d’un autre, et de deux pour chaque égalité de deux nombres à un autre.</p>
+<p>Mais il est plus court de chercher les dés que l’on a contre soi, et de les déduire sur les trente-six chances.</p>
+<p>Par exemple, si Kermadeuc a, fig. 17, les as, les 2, les 4 et les 6 pour remplir en G, il voit aisément qu’il n’a contre lui qne le 5 et 3 et le quine, qui font trois coups. Donc, il est clair qu’il a trente-trois coups pour lui. </p>
+<p><img alt="figure 17" src="../diag-trictrac-figure_17-aW1-cW1-eW1-fW1-gW1-hW2-iW2-jW2-kW2-lW2-yB3.svg" /></p>
+<h2 id="iv-procede-pour-savoir-combien-on-a-de-coups-pour-remplir-de-deux-facons">IV. Procédé pour savoir combien on a de coups pour remplir de deux façons.</h2>
+<p>Ce procédé-ci est encore moins connu que ceux que je viens d’indiquer; et quoique l’utilité en soit d’un moins fréquent usage, elle est peut-être d’une plus grande importance.</p>
+<p>Il n'est pas difficile à Kermadeuc de savoir, lorsqu’il n’a que deux dés directs, qu’il ne peut couvrir de deux façons que par trois ou quatre moyens.</p>
+<p>Par trois moyens, lorsque le petit dé est la moitié du gros, tel que 6 et 3, où il n’a que terne et 6 et 3 ; par quatre moyens, avec deux autres dés, tels que 5 et 4, où il a 5 et 4, et 4 et as.</p>
+<p>Mais s’il a trois dés directs, voici le raisonnement qu’il doit faire pour arriver à un procédé qui lui indique rapidement combien de moyens il a pour lui : </p>
+<p>Si j’ai le 4, le 5 et le 6, j’ai douze coups pour couvrir de deux façons, car, </p>
+<ul>
+<li>Le 4 et le 5 se combinant ensemble donnent 4 et as, 5 et 4 : quatre coups</li>
+<li>Le 6, se combinant avec le 4, donne 6 et 4, 4 et 2 : Encore quatre coups.</li>
+<li>Le 6, se combinant avec le 5, donne 6 et 5, 5 et as : Encore quatre coups. </li>
+</ul>
+<p>Total douze coups.</p>
+<p>Si j’ai le 3, le 5 et le 6, j’ai onze coups, car, </p>
+<ul>
+<li>Le 3 et le 5, se combinant ensemble donnent 3 et 2, 5 et 3 : quatre coups.</li>
+<li>Le 6, se combinant avec le 3, donne 6 et 3, terne : trois coups.</li>
+<li>Le 6, se combinant avec le 5 donne 6 et 5,  5 et as : quatre coups.</li>
+</ul>
+<p>Total onze coups.</p>
+<p>Si j’ai l’as, le 2 et le 4, j’ai dix coups, car,</p>
+<ul>
+<li>L’as et le 2 donnent trois coups.</li>
+<li>Le 4, combiné avec l’as : quatre coups. </li>
+<li>Et avec le 2 :  trois coups.</li>
+</ul>
+<p>Total dix coups. </p>
+<p>Si j’ai l’as, le 5 et le 6, j’ai huit coups, car, </p>
+<ul>
+<li>L’as et le 5 donnent quatre coups.</li>
+<li>Le 6, se combinant avec l’as : quatre coups.</li>
+<li>Et avec le 5 : quatre coups. </li>
+</ul>
+<p>Mais le 5 et as se trouvant dans les trois énumérations il n’y a de réel que les quatre chances :</p>
+<ul>
+<li>4 et as </li>
+<li>5 et as </li>
+<li>6 et as </li>
+<li>6 et 5 </li>
+</ul>
+<p>Qui font huit coups.</p>
+<p>Si j’ai les 2, les 4 et les 6, j’ai sept coups, car,</p>
+<ul>
+<li>Le 2 et le 4 donnent trois coups.</li>
+<li>Le 6, combiné au 2, donne quatre coups.</li>
+<li>Et combiné au 4 : quatre coups.</li>
+</ul>
+<p>Mais le 4 et 2 se trouvant dans ces trois énumérations, il n’y a de réel que les chances </p>
+<ul>
+<li>4 et 2 </li>
+<li>6 et 2 </li>
+<li>6 et 4 </li>
+<li>et double 2 </li>
+</ul>
+<p>Qui font un total de sept coups. </p>
+<p>Si l’on continuait par les autres nombres, on aurait les mêmes résultats.</p>
+<p>Or, il est évident, d’après la première démonstration, que trois dés directs ne peuvent jamais donner plus de douze coups pour remplir de deux façons ;</p>
+<p>D’après la deuxième et la troisième, que lorsqu’un des trois dés est la moitié de l’autre, on n’a que onze ou dix coups ; </p>
+<p>D’après la quatrième, que lorsque les deux moindres dés égalent le plus fort, on n’a que huit coups ;</p>
+<p>Enfin, d’après la cinquième que lorsque l’un des trois dés est la moitié de l'autre, et que les deux plus petits égalent le plus gros, on n’a que sept coups.</p>
+<p><em>Donc, pour connaître la quantité de coups que l’on a pour couvrir de deux façons avec trois dés directs, on prend 12 pour maximum, et l’on diminue de ce nombre un point pour chaque dé qui se Trouve être la moitié d'un autre, et 4 points pour Végalité en somme des deux moindres dés avec le plus fort.</em> </p>
+<p><strong>Procédé pour quatre dames directes.</strong></p>
+<p>La démonstration est la même pour quatre dames directes, et il en résulte : <em>que pour trouver combien on a de coups dans ce cas, on diminue du nombre 24 un point pour chaque dé qui se trouve être la moitié d'un autre, et 4 points pour l’égalité en somme de deux dés à un seul.</em></p>
+<p>Pour récapituler ce qui vient d’être démontré dans ces deux chapitres, je suppose que Kermadeuc veuille savoir d’abord combien il a de coups pour couvrir par trois dés directs, et qu’il ait, par exemple, le 4, le 5 et le 6. Il dit : 18 + 5 + 4 + 6 = 33 </p>
+<p>S’il a le 2, le 4 et le 6, il dit : 18 + 2 + 4 + 6 xxx = 33 </p>
+<p>S’il a le 3, le 4 et le 6, il dit : 18 + 3 + + 6 + x = 32</p>
+<p>S’il a le 3, le 6 et l’as, il dit : 18 + 1 + 5 + 6 + xx = 32, etc.</p>
+<p>Veut-il connaître combien il a de coups pour remplir de deux façons par trois dames directes? si par exemple il a le 3, le 4 et le 5, il conclut qu’il a douze coups, puisqu’aucun de ces des n’est diviseur de l’autre, ni égal aux deux autres. </p>
+<p>S’il a le 3, le 4 et le 6, il dit : 12 — x = 11 </p>
+<p>S’il a l’as, le 3 et le 4, il dit : 12 — xxxx — 8 </p>
+<p>S’il a l’as, le 2 et le 3, Il dit : 12 — x — xxxx = 7, etc.</p>
+<p>Quant à la manière de connaître combien on a de coups pour remplir de trois façons, je ne l’exposerai pas ici ; elle est tout à fait inutile, puisqu’il n’y a rien de si simple à voir sans calcul.</p>
+<h2 id="v-de-divers-procedes-pour-dautres-positions">V. De divers procédés pour d’autres positions</h2>
+<p>Si, outre les nombres directs, ou a encore des nombres indirects pour remplir, il ne serait pas difficile de savoir combien on a de coups pour soi. Par exemple, si Kermadeuc avait pour couvrir sa dame en K, fig. 18, une dame de surcase en I et une simple en F, il saurait dabord qu’il a vingt-trois coups par les 2 et les 5 puisque,5 + 2 + 16 = 23;</p>
+<p><img alt="figure 18" src="../diag-trictrac-figure_18-cW1-dW1-fW1-gW2-hW2-iW3-jW2-kW1-lW2-yB1-xB1-vB1-uB1-rB2-qB2-pB2-oB2-nB1-mB2.svg" /></p>
+<p>Ensuite il verrait qu’il a le 4 et 3 et le 6 et as de D en R, puis le carmes de G en R, ce qui ferait : 5 + 2 + 16 + 4 + 1 = 28. </p>
+<p>Mais moi, son adversaire, qui n’ai, pour couvrir en N que des dames indirectes en U, V, X et Y, il m’est facile de déterminer les coups que j’ai pour moi.</p>
+<p>Nous avons vu, au chapitre 1er., que le 7 vient de six façons, le 8 de 5, etc. Alors je raisonne ainsi :</p>
+<ul>
+<li>par le nombre composé de 7 j’ai 6 coups. </li>
+<li>par celui de 8, 5 </li>
+<li>par celui de 9, 4 </li>
+<li>par celui de 10, 3</li>
+</ul>
+<p>Donc j’ai dix-huit coups pour couvrir par les quatre dames indirectes en U, V, X et Y.</p>
+<p>Si je n’avais que le 7, le 9 et le 10, je dirais : </p>
+<ul>
+<li>J’ai par le 7, 6 coups. </li>
+<li>Par le 9, 4</li>
+<li>Par le 10, 3</li>
+</ul>
+<p>Donc j’ai treize coups. </p>
+<p>J’opérerais de même dans toutes les positions analogues.</p>
+<p><strong>Trouver le nombre des coups que l’on a pour battre le coin de l’adversaire.</strong></p>
+<p><img alt="figure 19" src="../diag-trictrac-figure_19-aW3-hW2-iW2-jW2-lW2-yB3-rB3.svg" /></p>
+<p>Kermadeuc veut savoir combien il a de coups pour battre mon coin M par les cases G, H et I, fig, 19. Voici ce que je lui dis : </p>
+<p>Carrez le nombre des cases que vous avez, et le produit sera le nombre de coups que vous aurez ; mais ici vous avez trois cases : or, multipliant trois par trois, vou6 aurez neuf, qui est précisément le nombre de coups par lequel vous battez le coin.</p>
+<p>En effet, la case G combinée avec la Case I donne 6 et 4</p>
+<p>La case H avec celle G donne G et 5 ; </p>
+<p>Et celle I avec celle H donne 5 et 4.</p>
+<p>Ce qui fait deux coups pour chacune, auxquels, ajoutant leurs doublets, on a eu tout neuf coups.</p>
+<p>Si l'on avait quatre cases pour battre, on aurait 4 x 4 = 16; car, chacune des 4 cases, se combinant avec une des autres, donnerait trois coups, plus son doublet.</p>
+<p>Si l'on avait pour battre seulement dès flèches sur lesquelles il n’y eût qu’une dame, on diminuerait, du carré du nombre de ces flèches, un point pour chacune. Par exemple, fig. 6, on a J, I, H, G, F pour battre le coin : eh ! bien on a douze coups ; car, du carré de quatre, il faut ôter quatre pour les quatre doublets qui manquent, puisqu’il n’y a qu’une demi-case sur chaque flèche.</p>
+<p><img alt="figure 6" src="../diag-trictrac-figure_6-aW3-bW1-cW1-dW1-eW1-fW1-gW1-hW1-iW1-jW1-kW1-lW2-yB3-xB1-vB1-uB1-tB1-sB1-rB1-qB1-pB1-oB1-nB1.svg" /></p>
+<p>Il faut pourtant que je fasse observer ici que le coin n’est pas admis au nombre des cases qui battent le coin opposé; car, pour qu’il le batte par un as, il faut qu’il s’y trouve une dame en surcase, et, par bezet, deux dames.</p>
+<p>Donc, <em>pour savoir combien on a de coups pour battre le coin de son adversaire, il faut carrer le nombre des flèches sur lesquelles on a des dames, son coin non compris, et diminuer du produit un point pour chaque demi-case, s’il y en a.</em> </p>
+<p>On fait le même raisonnement dans le cas où l’on voudrait savoir combien on a de coups pour remplir d’emblée, c’esl-à-dire lorsqu’on a le plein moins une case entière. </p>
+<p>Ceci me mène à indiquer, en passant, la manière de savoir combien on a de coups pour ne pas passer le coin au Jan de retour.</p>
+<p><img alt="figure 13" src="../diag-trictrac-figure_13-aB2-bB2-cB2-dB2-eB1-fB2-lW2-yW2-xW2-vW2-uW2-tW2-sW3-oB1-nB1-mB2.svg" /></p>
+<p>Si, fig. 13, je n’avais plus rien dans mon grand Jan, Kermadeuc ne pourrait pas passer son coin s’il amenait des as, parce que, soit que j’aie mon coin, soit que je ne l’aie plus, il ne peut jouer une dame de son coin par un as. Il aurait donc alors onze coups contre lui pour ne pas passer son coin. Si j’étais encore en N, il aurait vingt coups contre lui. Si en outre j’étais en O, il aurait vingt-sept coups.</p>
+<p>En effet, quand on ne peut passer le coin par les as, on a onze coups contre, puisque les as donnent onze chances ; quand on ne peut le passer par les as et les 2, l’adversaire ayant encore une dame en J, on a vingt coups contre, car les 2 donnent encore onze combinaisons, dont il faut déduire le deux et as, qui se trouve déjà dans les coups de l’as.</p>
+<p>Le reste peut se deviner facilement.</p>
+<p><strong>Savoir combien on a de coups pour être battu à faux.</strong></p>
+<p><img alt="figure 20" src="../diag-trictrac-figure_20-dW1-eW1-fW1-gW2-hW2-iW2-jW2-kW2-lW2.svg" /></p>
+<p>Lorsque Kermadeuc est arrivé au plein du grand Jan, fig. 20, il veut savoir combien il a de coups pour être battu à faux dans son petit Jan. Je lui réponds que pour être battu à faux en F, il a vingt-un coups ; en E quinze coups, et en D dix coups. </p>
+<p>En effet, puisqu’étant en F on a le point de 7 pour être battu à faux, on a vingt-un coups, car nous avons vu, au chapitre 1er., que sur les trente-six chances produites par les dés, il y en a quinze dont le montant de chacune est au-dessus de 7, et six dont le montant est juste 7. D’après cela, on n’en a que quinze en E, qui est immédiatement après 7, on n’en a que dix en D, etc.</p>
+<p>On peut voir par là qu’étant en F, en D et en E on a, pour être battu à faux en F et en E j tous les coups qui battent en D, c’est-à-dire que lorsque l’adversaire amène le point de 10, on a trois dames battues à faux.</p>
+<p>S’il restait quelques autres détails à donner sur l’arithmétique du jeu, ils seraient trop peu importants pour que j’en parlasse. C’est bien assez de ces cinq chapitres et des calculs qu’ils contiennent : ils ont assez de sécheresse, sans que j’en augmente encore la longueur. </p>
+<p>Je crains que les dames qui veulent savoir le Trictrac ne s’impatientent, en me lisant, de toutes ces démonstrations qu’elles trouveront peut-être trop abstraites, quoiqu’elles soient loin de l’être autant que l’algèbre ; mais je leur en demande pardon : si elles veulent savoir le jeu à fond, il faut bien qu’elles en étudient les secrets comme les hommes. Je désirerais de tout mon cœur leur rendre celte étude plus facile ; mais cela ne m’a pas été possible. </p>
+<p>J’aurais pu, à la vérité, m’arrêter à l’indication des moyens, sans en expliquer les motifs, semblable à ces instituteurs primaires qui enseignent à des enfans les quatre règles de l’arithmétique sans leur en démontrer les principes. Mais je fais trop de cas du lecteur pour ne pas le mettre à même de connaître, comme moi, sur quoi sont fondés les procédés que je donne ; je veux qu’on en sache le pourquoi. D’ailleurs si j’ai employé la rigueur mathématique, c’est pour qu’il ne reste aucun doute sur leur exactitude. Je me tairai sur la part de mérite que je puis avoir dans la découverte de ces mêmes procédés.</p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../premierePartie/" class="btn btn-neutral float-left" title="Première partie"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../troisiemePartie/" class="btn btn-neutral float-right" title="Troisième partie">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../premierePartie/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../troisiemePartie/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme_extra.js" defer></script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
