@@ -13,6 +13,12 @@ site_dir: html/
 
 nav:
   - Présentation: index.md
+  - Discours préliminaire: discoursPreliminaire.md
+  - Première partie: premierePartie.md
+  - Deuxième partie: deuxiemePartie.md
+  - Troisième partie: troisiemePartie.md
+  - Quatrième partie: quatriemePartie.md
+  - Appendix: appendix.md
 
 markdown_extensions:
   - pm_attr_list
