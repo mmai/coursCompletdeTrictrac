@@ -22,6 +22,7 @@ Modifications apportées par rapport à l'édition originale :
 
 Les sources du site sont disponibles sur [ce dépôt git](https://github.com/mmai/coursCompletdeTrictrac). Vous pouvez y signaler des erreurs et proposer des corrections en [créant un ticket](https://github.com/mmai/coursCompletdeTrictrac/issues).
 
+Vous pouvez également lire ce livre sur une liseuse en téléchargeant l'[édition epub](coursCompletdeTrictrac.epub).
 
 Vous pourriez être intéressés par les transcriptions de deux autres vieux traités : 
 
