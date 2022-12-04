@@ -14,9 +14,13 @@ site_dir: html/
 nav:
   - Présentation: index.md
 
+markdown_extensions:
+  - pm_attr_list
+
 # -----  Config for Material theme ------
 theme:
-  name: material
+  name: readthedocs
+  # name: material
   language: fr
   features:
     # - announce.dismiss

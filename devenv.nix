@@ -1,11 +1,13 @@
 { pkgs, ... }:
-
+let
+  mkdocs-pm_attr_list = import ./nixfiles/mkdocs-pm_attr_list.nix;
+in 
 {
   # https://devenv.sh/basics/
   # env.GREET = "devenv";
 
   # https://devenv.sh/packages/
-  packages = [ pkgs.mkdocs pkgs.python39Packages.mkdocs-material ];
+  packages = [ pkgs.mkdocs pkgs.python39Packages.mkdocs-material mkdocs-pm_attr_list.inputs.python.package ];
 
   # enterShell = ''
   #   hello
