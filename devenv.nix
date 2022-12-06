@@ -7,7 +7,13 @@ in
   # env.GREET = "devenv";
 
   # https://devenv.sh/packages/
-  packages = [ pkgs.mkdocs pkgs.python310Packages.mkdocs-material mkdocs-pm_attr_list.inputs.python.package ];
+  packages = [ 
+    pkgs.mkdocs 
+    pkgs.python310Packages.mkdocs-material # XXX : don't work with pm_attr_list package...
+    mkdocs-pm_attr_list.inputs.python.package # for the pm_attr_list extension : allows to start numeric list with a given number
+    pkgs.imagemagick # to convert svg to png
+    # pkgs.calibre # for tests : epub viewer
+  ];
 
   # enterShell = ''
   #   hello
