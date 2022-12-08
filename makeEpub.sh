@@ -7,6 +7,7 @@ cd src_epub
 for file in ./*.md 
 do
   sed -i 's/\.svg/.png/' $file
+  sed -i 's/!\[[^]]*\]/![]/g' $file # remove images legends (already in images)
 done
 
 for img in ./*.svg 

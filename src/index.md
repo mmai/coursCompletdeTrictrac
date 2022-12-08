@@ -1,6 +1,6 @@
 # COURS COMPLET DE TRICTRAC
 
-**avec un abrégé du gammon, du jacquet et du garainguet**
+**avec un abrégé du gammon, du jacquet et du garanguet**
 
 À la portée de tout le monde et à l’usage des amateurs 
 
