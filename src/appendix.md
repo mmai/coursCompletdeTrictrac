@@ -42,9 +42,9 @@ Au surplus, le grand art, à ce jeu, consiste à fermer les passages, sur-tout p
 
 Le Jacquet se joue ainsi : 
 
-Chaque joueur met son talon clans un des coins en face de lui, fig. 30. J’ai le mien en M, et mon adversaire a le sien en A ; ce qui fait que les deux talons sont aux deux extrêmes de la transversale du Trictrac. Nous sommes tous les deux obligés de jouer la première dame seulement, jusqu’à ce qu’elle soit arrivée dans la partie ou région opposée à notre talon. 
+Chaque joueur met son talon dans un des coins en face de lui, fig. 30. J’ai le mien en M, et mon adversaire a le sien en A ; ce qui fait que les deux talons sont aux deux extrêmes de la transversale du Trictrac. Nous sommes tous les deux obligés de jouer la première dame seulement, jusqu’à ce qu’elle soit arrivée dans la partie ou région opposée à notre talon. 
 
-Par exemple, j’amène 6 et 5 ; je joue une dame de M en Y ; mon adversaire fait aussi le même dé, et joue une dame de A en L. Ensuite j’amène 6 et as, et je joue de Y en G tout d’une ; il fait de même 6 et as, et il joue sa dame de L en R. Après cela, tous les autres coups se jouent à volonté, soit en abattant du talon, soit en jouant les darnes abattues.
+Par exemple, j’amène 6 et 5 ; je joue une dame de M en Y ; mon adversaire fait aussi le même dé, et joue une dame de A en L. Ensuite j’amène 6 et as, et je joue de Y en G tout d’une ; il fait de même 6 et as, et il joue sa dame de L en R. Après cela, tous les autres coups se jouent à volonté, soit en abattant du talon, soit en jouant les dames abattues.
 
 Les doublets se jouent double comme au Gammon. 
 

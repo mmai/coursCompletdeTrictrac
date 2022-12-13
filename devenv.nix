@@ -1,4 +1,5 @@
 { pkgs, ... }:
+# { pkgs, stdenv, ... }:
 let
   mkdocs-pm_attr_list = import ./nixfiles/mkdocs-pm_attr_list.nix;
 in 
@@ -16,8 +17,8 @@ in
   ];
 
   # enterShell = ''
-  #   hello
-  #   git --version
+  #  # fixes libstdc++ issues and libgl.so issues
+  #  LD_LIBRARY_PATH=${stdenv.cc.cc.lib}/lib/:/run/opengl-driver/lib/
   # '';
 
   # https://devenv.sh/languages/

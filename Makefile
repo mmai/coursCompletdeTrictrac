@@ -3,18 +3,17 @@ servedocs:
 viewdocs:
 	firefox http://127.0.0.1:8000
 diagrams:
-	./postProcess.sh src/tome1/section1.md
-	./postProcess.sh src/tome1/section2.md
-	./postProcess.sh src/tome1/section3.md
-	./postProcess.sh src/tome2/section4.md
-	./postProcess.sh src/tome2/section5.md
+	./postProcess.sh src/premierePartie.md
+	./postProcess.sh src/deuxiemePartie.md
+	./postProcess.sh src/troisiemePartie.md
+	./postProcess.sh src/quatriemePartie.md
 builddocs: diagrams
 	mkdocs build
 deploy: builddocs
 	mkdocs gh-deploy
-# epub:
-# 	mkdocs2pandoc > piquetBook.pd
-# 	mkdocscombine -o piquetBook.pd
-# 	pandoc --toc -f markdown+grid_tables -t epub -o piquetBook.epub piquetBook.pd
 epub:
 	sh makeEpub.sh
+ocr:
+	echo "nix develop"
+	echo "source ./gcloud/bin/activate"
+	echo "GOOGLE_APPLICATION_CREDENTIALS='./trictracbooks-be003810fedc.json' ./gcloud/bin/python ./gcloudVision.py"

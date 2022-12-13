@@ -271,7 +271,7 @@ Mais je déduis la combinaison 4 et 2, qui se trouve des deux côtés, et il me 
 
 La même démonstration appliquée aux autres nombres, produirait les mêmes résultats.
 
-Kermadeuc en conclut donc : _que, pour savoir d’un coup d’œil combien Von a de coups pour couvrir d’une seule façon une dame, quand on a deux dés directs, il faut ajouter 16 au montant de ces deux des étaugmenter le total d'un point, lorsque le moindre dé est la moitié du plus fort._
+Kermadeuc en conclut donc : _que, pour savoir d’un coup d’œil combien l'on a de coups pour couvrir d’une seule façon une dame, quand on a deux dés directs, il faut ajouter 16 au montant de ces deux des étaugmenter le total d'un point, lorsque le moindre dé est la moitié du plus fort._
 
 Ainsi, Kermadeuc veut savoir combien il a de coups pour couvrir, ayant l'as direct, il dit : 10 + 1 = 11 coups.
 S’il a le 6 : 10 + 6 = 16 .
