@@ -26,6 +26,6 @@ Vous pouvez également lire ce livre sur une liseuse en téléchargeant l'[édit
 
 Enfin, si vous aimez vous plonger dans d'anciens traités de jeux oubliés, je vous invite à jeter un oeil à ces ouvrages, adaptés selon le même procédé : 
 
+- [Traité complet du jeu de Trictrac](https://mmai.github.io/traiteCompletTrictrac) seconde édition par N. Guiton l'aîné, 1822
 - [Le jeu de Trictrac rendu facile](https://mmai.github.io/leJeuDeTrictracRenduFacile/)
 - sur le jeu de piquet, en anglais : [The laws of Piquet adopted by the Portland and Turf Clubs with A Treatise on the Game by Cavendish](https://mmai.github.io/piquetBook/).
-
